@@ -1,7 +1,6 @@
 from num2words import num2words
 from common import SLOW, NORMAL, FAST, tts_bytes, apply_speed, silence_bytes
 import argparse
-import random
 import tempfile
 import os
 
@@ -9,15 +8,13 @@ SPEED = FAST
 PAUSE_SECONDS = 0.5   # seconds of silence between ET and RU in the output (after speed is applied)
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--shuffle", action="store_true", help="randomise order before generating")
 parser.add_argument("--limit",   type=int, default=None, metavar="N",
                     help="generate only the first N items per group (useful for testing)")
 parser.add_argument("--lang",    choices=["both", "et", "ru"], default="both",
                     help="generate both languages (default), ET only, or RU only")
 args = parser.parse_args()
 
-SHUFFLE = args.shuffle
-LIMIT   = args.limit
+LIMIT = args.limit
 LANG    = args.lang
 
 OUTPUT_DIR = "output"
@@ -118,8 +115,6 @@ def ru_ordinal_genitive(n):
 # --- generation ---
 def generate_batch(items, prefix):
     """items: list of (n, et_text, ru_text)"""
-    if SHUFFLE:
-        items = random.sample(items, len(items))
     if LIMIT is not None:
         items = items[:LIMIT]
 

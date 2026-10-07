@@ -16,12 +16,11 @@ pip install gtts num2words
 Generates audio files for cardinals, ordinals, and dates. Each number is spoken first in Estonian, then in Russian.
 
 ```bash
-python voice_numbers.py [--shuffle] [--limit N] [--lang {both,et,ru}]
+python voice_numbers.py [--limit N] [--lang {both,et,ru}]
 ```
 
 | Flag        | Description                                             | Default |
 |-------------|---------------------------------------------------------|---------|
-| `--shuffle` | Randomise order before generating                       | off     |
 | `--limit N` | Generate only the first N items per group (for testing) | all     |
 | `--lang`    | Generate `both` languages, `et` only, or `ru` only     | `both`  |
 
@@ -64,7 +63,7 @@ Then just run `python voice_text.py` with no arguments.
 | Flag      | Description                        | Default  |
 |-----------|------------------------------------|----------|
 | `--lang`  | Language code (`et`, `ru`, …)      | `et`     |
-| `--speed` | Speed multiplier (see below)       | `1.0`    |
+| `--speed` | Speed multiplier (see below)       | `1.5`    |
 
 ---
 
