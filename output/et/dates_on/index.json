@@ -1,0 +1,2192 @@
+[
+  {
+    "file": "01.01_esimesel_jaanuaril.mp3",
+    "number": "01.01",
+    "et": "esimesel jaanuaril",
+    "ru": "первого января"
+  },
+  {
+    "file": "02.01_teisel_jaanuaril.mp3",
+    "number": "02.01",
+    "et": "teisel jaanuaril",
+    "ru": "второго января"
+  },
+  {
+    "file": "03.01_kolmandal_jaanuaril.mp3",
+    "number": "03.01",
+    "et": "kolmandal jaanuaril",
+    "ru": "третьего января"
+  },
+  {
+    "file": "04.01_neljandal_jaanuaril.mp3",
+    "number": "04.01",
+    "et": "neljandal jaanuaril",
+    "ru": "четвёртого января"
+  },
+  {
+    "file": "05.01_viiendal_jaanuaril.mp3",
+    "number": "05.01",
+    "et": "viiendal jaanuaril",
+    "ru": "пятого января"
+  },
+  {
+    "file": "06.01_kuuendal_jaanuaril.mp3",
+    "number": "06.01",
+    "et": "kuuendal jaanuaril",
+    "ru": "шестого января"
+  },
+  {
+    "file": "07.01_seitsmendal_jaanuaril.mp3",
+    "number": "07.01",
+    "et": "seitsmendal jaanuaril",
+    "ru": "седьмого января"
+  },
+  {
+    "file": "08.01_kaheksandal_jaanuaril.mp3",
+    "number": "08.01",
+    "et": "kaheksandal jaanuaril",
+    "ru": "восьмого января"
+  },
+  {
+    "file": "09.01_üheksandal_jaanuaril.mp3",
+    "number": "09.01",
+    "et": "üheksandal jaanuaril",
+    "ru": "девятого января"
+  },
+  {
+    "file": "10.01_kümnendal_jaanuaril.mp3",
+    "number": "10.01",
+    "et": "kümnendal jaanuaril",
+    "ru": "десятого января"
+  },
+  {
+    "file": "11.01_üheteistkümnendal_jaanuaril.mp3",
+    "number": "11.01",
+    "et": "üheteistkümnendal jaanuaril",
+    "ru": "одиннадцатого января"
+  },
+  {
+    "file": "12.01_kaheteistkümnendal_jaanuaril.mp3",
+    "number": "12.01",
+    "et": "kaheteistkümnendal jaanuaril",
+    "ru": "двенадцатого января"
+  },
+  {
+    "file": "13.01_kolmeteistkümnendal_jaanuaril.mp3",
+    "number": "13.01",
+    "et": "kolmeteistkümnendal jaanuaril",
+    "ru": "тринадцатого января"
+  },
+  {
+    "file": "14.01_neljateistkümnendal_jaanuaril.mp3",
+    "number": "14.01",
+    "et": "neljateistkümnendal jaanuaril",
+    "ru": "четырнадцатого января"
+  },
+  {
+    "file": "15.01_viieteistkümnendal_jaanuaril.mp3",
+    "number": "15.01",
+    "et": "viieteistkümnendal jaanuaril",
+    "ru": "пятнадцатого января"
+  },
+  {
+    "file": "16.01_kuueteistkümnendal_jaanuaril.mp3",
+    "number": "16.01",
+    "et": "kuueteistkümnendal jaanuaril",
+    "ru": "шестнадцатого января"
+  },
+  {
+    "file": "17.01_seitsmeteistkümnendal_jaanuaril.mp3",
+    "number": "17.01",
+    "et": "seitsmeteistkümnendal jaanuaril",
+    "ru": "семнадцатого января"
+  },
+  {
+    "file": "18.01_kaheksateistkümnendal_jaanuaril.mp3",
+    "number": "18.01",
+    "et": "kaheksateistkümnendal jaanuaril",
+    "ru": "восемнадцатого января"
+  },
+  {
+    "file": "19.01_üheksateistkümnendal_jaanuaril.mp3",
+    "number": "19.01",
+    "et": "üheksateistkümnendal jaanuaril",
+    "ru": "девятнадцатого января"
+  },
+  {
+    "file": "20.01_kahekümnendal_jaanuaril.mp3",
+    "number": "20.01",
+    "et": "kahekümnendal jaanuaril",
+    "ru": "двадцатого января"
+  },
+  {
+    "file": "21.01_kahekümne_esimesel_jaanuaril.mp3",
+    "number": "21.01",
+    "et": "kahekümne esimesel jaanuaril",
+    "ru": "двадцать первого января"
+  },
+  {
+    "file": "22.01_kahekümne_teisel_jaanuaril.mp3",
+    "number": "22.01",
+    "et": "kahekümne teisel jaanuaril",
+    "ru": "двадцать второго января"
+  },
+  {
+    "file": "23.01_kahekümne_kolmandal_jaanuaril.mp3",
+    "number": "23.01",
+    "et": "kahekümne kolmandal jaanuaril",
+    "ru": "двадцать третьего января"
+  },
+  {
+    "file": "24.01_kahekümne_neljandal_jaanuaril.mp3",
+    "number": "24.01",
+    "et": "kahekümne neljandal jaanuaril",
+    "ru": "двадцать четвёртого января"
+  },
+  {
+    "file": "25.01_kahekümne_viiendal_jaanuaril.mp3",
+    "number": "25.01",
+    "et": "kahekümne viiendal jaanuaril",
+    "ru": "двадцать пятого января"
+  },
+  {
+    "file": "26.01_kahekümne_kuuendal_jaanuaril.mp3",
+    "number": "26.01",
+    "et": "kahekümne kuuendal jaanuaril",
+    "ru": "двадцать шестого января"
+  },
+  {
+    "file": "27.01_kahekümne_seitsmendal_jaanuaril.mp3",
+    "number": "27.01",
+    "et": "kahekümne seitsmendal jaanuaril",
+    "ru": "двадцать седьмого января"
+  },
+  {
+    "file": "28.01_kahekümne_kaheksandal_jaanuaril.mp3",
+    "number": "28.01",
+    "et": "kahekümne kaheksandal jaanuaril",
+    "ru": "двадцать восьмого января"
+  },
+  {
+    "file": "29.01_kahekümne_üheksandal_jaanuaril.mp3",
+    "number": "29.01",
+    "et": "kahekümne üheksandal jaanuaril",
+    "ru": "двадцать девятого января"
+  },
+  {
+    "file": "30.01_kolmekümnendal_jaanuaril.mp3",
+    "number": "30.01",
+    "et": "kolmekümnendal jaanuaril",
+    "ru": "тридцатого января"
+  },
+  {
+    "file": "31.01_kolmekümne_esimesel_jaanuaril.mp3",
+    "number": "31.01",
+    "et": "kolmekümne esimesel jaanuaril",
+    "ru": "тридцать первого января"
+  },
+  {
+    "file": "01.02_esimesel_veebruaril.mp3",
+    "number": "01.02",
+    "et": "esimesel veebruaril",
+    "ru": "первого февраля"
+  },
+  {
+    "file": "02.02_teisel_veebruaril.mp3",
+    "number": "02.02",
+    "et": "teisel veebruaril",
+    "ru": "второго февраля"
+  },
+  {
+    "file": "03.02_kolmandal_veebruaril.mp3",
+    "number": "03.02",
+    "et": "kolmandal veebruaril",
+    "ru": "третьего февраля"
+  },
+  {
+    "file": "04.02_neljandal_veebruaril.mp3",
+    "number": "04.02",
+    "et": "neljandal veebruaril",
+    "ru": "четвёртого февраля"
+  },
+  {
+    "file": "05.02_viiendal_veebruaril.mp3",
+    "number": "05.02",
+    "et": "viiendal veebruaril",
+    "ru": "пятого февраля"
+  },
+  {
+    "file": "06.02_kuuendal_veebruaril.mp3",
+    "number": "06.02",
+    "et": "kuuendal veebruaril",
+    "ru": "шестого февраля"
+  },
+  {
+    "file": "07.02_seitsmendal_veebruaril.mp3",
+    "number": "07.02",
+    "et": "seitsmendal veebruaril",
+    "ru": "седьмого февраля"
+  },
+  {
+    "file": "08.02_kaheksandal_veebruaril.mp3",
+    "number": "08.02",
+    "et": "kaheksandal veebruaril",
+    "ru": "восьмого февраля"
+  },
+  {
+    "file": "09.02_üheksandal_veebruaril.mp3",
+    "number": "09.02",
+    "et": "üheksandal veebruaril",
+    "ru": "девятого февраля"
+  },
+  {
+    "file": "10.02_kümnendal_veebruaril.mp3",
+    "number": "10.02",
+    "et": "kümnendal veebruaril",
+    "ru": "десятого февраля"
+  },
+  {
+    "file": "11.02_üheteistkümnendal_veebruaril.mp3",
+    "number": "11.02",
+    "et": "üheteistkümnendal veebruaril",
+    "ru": "одиннадцатого февраля"
+  },
+  {
+    "file": "12.02_kaheteistkümnendal_veebruaril.mp3",
+    "number": "12.02",
+    "et": "kaheteistkümnendal veebruaril",
+    "ru": "двенадцатого февраля"
+  },
+  {
+    "file": "13.02_kolmeteistkümnendal_veebruaril.mp3",
+    "number": "13.02",
+    "et": "kolmeteistkümnendal veebruaril",
+    "ru": "тринадцатого февраля"
+  },
+  {
+    "file": "14.02_neljateistkümnendal_veebruaril.mp3",
+    "number": "14.02",
+    "et": "neljateistkümnendal veebruaril",
+    "ru": "четырнадцатого февраля"
+  },
+  {
+    "file": "15.02_viieteistkümnendal_veebruaril.mp3",
+    "number": "15.02",
+    "et": "viieteistkümnendal veebruaril",
+    "ru": "пятнадцатого февраля"
+  },
+  {
+    "file": "16.02_kuueteistkümnendal_veebruaril.mp3",
+    "number": "16.02",
+    "et": "kuueteistkümnendal veebruaril",
+    "ru": "шестнадцатого февраля"
+  },
+  {
+    "file": "17.02_seitsmeteistkümnendal_veebruaril.mp3",
+    "number": "17.02",
+    "et": "seitsmeteistkümnendal veebruaril",
+    "ru": "семнадцатого февраля"
+  },
+  {
+    "file": "18.02_kaheksateistkümnendal_veebruaril.mp3",
+    "number": "18.02",
+    "et": "kaheksateistkümnendal veebruaril",
+    "ru": "восемнадцатого февраля"
+  },
+  {
+    "file": "19.02_üheksateistkümnendal_veebruaril.mp3",
+    "number": "19.02",
+    "et": "üheksateistkümnendal veebruaril",
+    "ru": "девятнадцатого февраля"
+  },
+  {
+    "file": "20.02_kahekümnendal_veebruaril.mp3",
+    "number": "20.02",
+    "et": "kahekümnendal veebruaril",
+    "ru": "двадцатого февраля"
+  },
+  {
+    "file": "21.02_kahekümne_esimesel_veebruaril.mp3",
+    "number": "21.02",
+    "et": "kahekümne esimesel veebruaril",
+    "ru": "двадцать первого февраля"
+  },
+  {
+    "file": "22.02_kahekümne_teisel_veebruaril.mp3",
+    "number": "22.02",
+    "et": "kahekümne teisel veebruaril",
+    "ru": "двадцать второго февраля"
+  },
+  {
+    "file": "23.02_kahekümne_kolmandal_veebruaril.mp3",
+    "number": "23.02",
+    "et": "kahekümne kolmandal veebruaril",
+    "ru": "двадцать третьего февраля"
+  },
+  {
+    "file": "24.02_kahekümne_neljandal_veebruaril.mp3",
+    "number": "24.02",
+    "et": "kahekümne neljandal veebruaril",
+    "ru": "двадцать четвёртого февраля"
+  },
+  {
+    "file": "25.02_kahekümne_viiendal_veebruaril.mp3",
+    "number": "25.02",
+    "et": "kahekümne viiendal veebruaril",
+    "ru": "двадцать пятого февраля"
+  },
+  {
+    "file": "26.02_kahekümne_kuuendal_veebruaril.mp3",
+    "number": "26.02",
+    "et": "kahekümne kuuendal veebruaril",
+    "ru": "двадцать шестого февраля"
+  },
+  {
+    "file": "27.02_kahekümne_seitsmendal_veebruaril.mp3",
+    "number": "27.02",
+    "et": "kahekümne seitsmendal veebruaril",
+    "ru": "двадцать седьмого февраля"
+  },
+  {
+    "file": "28.02_kahekümne_kaheksandal_veebruaril.mp3",
+    "number": "28.02",
+    "et": "kahekümne kaheksandal veebruaril",
+    "ru": "двадцать восьмого февраля"
+  },
+  {
+    "file": "01.03_esimesel_märtsil.mp3",
+    "number": "01.03",
+    "et": "esimesel märtsil",
+    "ru": "первого марта"
+  },
+  {
+    "file": "02.03_teisel_märtsil.mp3",
+    "number": "02.03",
+    "et": "teisel märtsil",
+    "ru": "второго марта"
+  },
+  {
+    "file": "03.03_kolmandal_märtsil.mp3",
+    "number": "03.03",
+    "et": "kolmandal märtsil",
+    "ru": "третьего марта"
+  },
+  {
+    "file": "04.03_neljandal_märtsil.mp3",
+    "number": "04.03",
+    "et": "neljandal märtsil",
+    "ru": "четвёртого марта"
+  },
+  {
+    "file": "05.03_viiendal_märtsil.mp3",
+    "number": "05.03",
+    "et": "viiendal märtsil",
+    "ru": "пятого марта"
+  },
+  {
+    "file": "06.03_kuuendal_märtsil.mp3",
+    "number": "06.03",
+    "et": "kuuendal märtsil",
+    "ru": "шестого марта"
+  },
+  {
+    "file": "07.03_seitsmendal_märtsil.mp3",
+    "number": "07.03",
+    "et": "seitsmendal märtsil",
+    "ru": "седьмого марта"
+  },
+  {
+    "file": "08.03_kaheksandal_märtsil.mp3",
+    "number": "08.03",
+    "et": "kaheksandal märtsil",
+    "ru": "восьмого марта"
+  },
+  {
+    "file": "09.03_üheksandal_märtsil.mp3",
+    "number": "09.03",
+    "et": "üheksandal märtsil",
+    "ru": "девятого марта"
+  },
+  {
+    "file": "10.03_kümnendal_märtsil.mp3",
+    "number": "10.03",
+    "et": "kümnendal märtsil",
+    "ru": "десятого марта"
+  },
+  {
+    "file": "11.03_üheteistkümnendal_märtsil.mp3",
+    "number": "11.03",
+    "et": "üheteistkümnendal märtsil",
+    "ru": "одиннадцатого марта"
+  },
+  {
+    "file": "12.03_kaheteistkümnendal_märtsil.mp3",
+    "number": "12.03",
+    "et": "kaheteistkümnendal märtsil",
+    "ru": "двенадцатого марта"
+  },
+  {
+    "file": "13.03_kolmeteistkümnendal_märtsil.mp3",
+    "number": "13.03",
+    "et": "kolmeteistkümnendal märtsil",
+    "ru": "тринадцатого марта"
+  },
+  {
+    "file": "14.03_neljateistkümnendal_märtsil.mp3",
+    "number": "14.03",
+    "et": "neljateistkümnendal märtsil",
+    "ru": "четырнадцатого марта"
+  },
+  {
+    "file": "15.03_viieteistkümnendal_märtsil.mp3",
+    "number": "15.03",
+    "et": "viieteistkümnendal märtsil",
+    "ru": "пятнадцатого марта"
+  },
+  {
+    "file": "16.03_kuueteistkümnendal_märtsil.mp3",
+    "number": "16.03",
+    "et": "kuueteistkümnendal märtsil",
+    "ru": "шестнадцатого марта"
+  },
+  {
+    "file": "17.03_seitsmeteistkümnendal_märtsil.mp3",
+    "number": "17.03",
+    "et": "seitsmeteistkümnendal märtsil",
+    "ru": "семнадцатого марта"
+  },
+  {
+    "file": "18.03_kaheksateistkümnendal_märtsil.mp3",
+    "number": "18.03",
+    "et": "kaheksateistkümnendal märtsil",
+    "ru": "восемнадцатого марта"
+  },
+  {
+    "file": "19.03_üheksateistkümnendal_märtsil.mp3",
+    "number": "19.03",
+    "et": "üheksateistkümnendal märtsil",
+    "ru": "девятнадцатого марта"
+  },
+  {
+    "file": "20.03_kahekümnendal_märtsil.mp3",
+    "number": "20.03",
+    "et": "kahekümnendal märtsil",
+    "ru": "двадцатого марта"
+  },
+  {
+    "file": "21.03_kahekümne_esimesel_märtsil.mp3",
+    "number": "21.03",
+    "et": "kahekümne esimesel märtsil",
+    "ru": "двадцать первого марта"
+  },
+  {
+    "file": "22.03_kahekümne_teisel_märtsil.mp3",
+    "number": "22.03",
+    "et": "kahekümne teisel märtsil",
+    "ru": "двадцать второго марта"
+  },
+  {
+    "file": "23.03_kahekümne_kolmandal_märtsil.mp3",
+    "number": "23.03",
+    "et": "kahekümne kolmandal märtsil",
+    "ru": "двадцать третьего марта"
+  },
+  {
+    "file": "24.03_kahekümne_neljandal_märtsil.mp3",
+    "number": "24.03",
+    "et": "kahekümne neljandal märtsil",
+    "ru": "двадцать четвёртого марта"
+  },
+  {
+    "file": "25.03_kahekümne_viiendal_märtsil.mp3",
+    "number": "25.03",
+    "et": "kahekümne viiendal märtsil",
+    "ru": "двадцать пятого марта"
+  },
+  {
+    "file": "26.03_kahekümne_kuuendal_märtsil.mp3",
+    "number": "26.03",
+    "et": "kahekümne kuuendal märtsil",
+    "ru": "двадцать шестого марта"
+  },
+  {
+    "file": "27.03_kahekümne_seitsmendal_märtsil.mp3",
+    "number": "27.03",
+    "et": "kahekümne seitsmendal märtsil",
+    "ru": "двадцать седьмого марта"
+  },
+  {
+    "file": "28.03_kahekümne_kaheksandal_märtsil.mp3",
+    "number": "28.03",
+    "et": "kahekümne kaheksandal märtsil",
+    "ru": "двадцать восьмого марта"
+  },
+  {
+    "file": "29.03_kahekümne_üheksandal_märtsil.mp3",
+    "number": "29.03",
+    "et": "kahekümne üheksandal märtsil",
+    "ru": "двадцать девятого марта"
+  },
+  {
+    "file": "30.03_kolmekümnendal_märtsil.mp3",
+    "number": "30.03",
+    "et": "kolmekümnendal märtsil",
+    "ru": "тридцатого марта"
+  },
+  {
+    "file": "31.03_kolmekümne_esimesel_märtsil.mp3",
+    "number": "31.03",
+    "et": "kolmekümne esimesel märtsil",
+    "ru": "тридцать первого марта"
+  },
+  {
+    "file": "01.04_esimesel_aprillil.mp3",
+    "number": "01.04",
+    "et": "esimesel aprillil",
+    "ru": "первого апреля"
+  },
+  {
+    "file": "02.04_teisel_aprillil.mp3",
+    "number": "02.04",
+    "et": "teisel aprillil",
+    "ru": "второго апреля"
+  },
+  {
+    "file": "03.04_kolmandal_aprillil.mp3",
+    "number": "03.04",
+    "et": "kolmandal aprillil",
+    "ru": "третьего апреля"
+  },
+  {
+    "file": "04.04_neljandal_aprillil.mp3",
+    "number": "04.04",
+    "et": "neljandal aprillil",
+    "ru": "четвёртого апреля"
+  },
+  {
+    "file": "05.04_viiendal_aprillil.mp3",
+    "number": "05.04",
+    "et": "viiendal aprillil",
+    "ru": "пятого апреля"
+  },
+  {
+    "file": "06.04_kuuendal_aprillil.mp3",
+    "number": "06.04",
+    "et": "kuuendal aprillil",
+    "ru": "шестого апреля"
+  },
+  {
+    "file": "07.04_seitsmendal_aprillil.mp3",
+    "number": "07.04",
+    "et": "seitsmendal aprillil",
+    "ru": "седьмого апреля"
+  },
+  {
+    "file": "08.04_kaheksandal_aprillil.mp3",
+    "number": "08.04",
+    "et": "kaheksandal aprillil",
+    "ru": "восьмого апреля"
+  },
+  {
+    "file": "09.04_üheksandal_aprillil.mp3",
+    "number": "09.04",
+    "et": "üheksandal aprillil",
+    "ru": "девятого апреля"
+  },
+  {
+    "file": "10.04_kümnendal_aprillil.mp3",
+    "number": "10.04",
+    "et": "kümnendal aprillil",
+    "ru": "десятого апреля"
+  },
+  {
+    "file": "11.04_üheteistkümnendal_aprillil.mp3",
+    "number": "11.04",
+    "et": "üheteistkümnendal aprillil",
+    "ru": "одиннадцатого апреля"
+  },
+  {
+    "file": "12.04_kaheteistkümnendal_aprillil.mp3",
+    "number": "12.04",
+    "et": "kaheteistkümnendal aprillil",
+    "ru": "двенадцатого апреля"
+  },
+  {
+    "file": "13.04_kolmeteistkümnendal_aprillil.mp3",
+    "number": "13.04",
+    "et": "kolmeteistkümnendal aprillil",
+    "ru": "тринадцатого апреля"
+  },
+  {
+    "file": "14.04_neljateistkümnendal_aprillil.mp3",
+    "number": "14.04",
+    "et": "neljateistkümnendal aprillil",
+    "ru": "четырнадцатого апреля"
+  },
+  {
+    "file": "15.04_viieteistkümnendal_aprillil.mp3",
+    "number": "15.04",
+    "et": "viieteistkümnendal aprillil",
+    "ru": "пятнадцатого апреля"
+  },
+  {
+    "file": "16.04_kuueteistkümnendal_aprillil.mp3",
+    "number": "16.04",
+    "et": "kuueteistkümnendal aprillil",
+    "ru": "шестнадцатого апреля"
+  },
+  {
+    "file": "17.04_seitsmeteistkümnendal_aprillil.mp3",
+    "number": "17.04",
+    "et": "seitsmeteistkümnendal aprillil",
+    "ru": "семнадцатого апреля"
+  },
+  {
+    "file": "18.04_kaheksateistkümnendal_aprillil.mp3",
+    "number": "18.04",
+    "et": "kaheksateistkümnendal aprillil",
+    "ru": "восемнадцатого апреля"
+  },
+  {
+    "file": "19.04_üheksateistkümnendal_aprillil.mp3",
+    "number": "19.04",
+    "et": "üheksateistkümnendal aprillil",
+    "ru": "девятнадцатого апреля"
+  },
+  {
+    "file": "20.04_kahekümnendal_aprillil.mp3",
+    "number": "20.04",
+    "et": "kahekümnendal aprillil",
+    "ru": "двадцатого апреля"
+  },
+  {
+    "file": "21.04_kahekümne_esimesel_aprillil.mp3",
+    "number": "21.04",
+    "et": "kahekümne esimesel aprillil",
+    "ru": "двадцать первого апреля"
+  },
+  {
+    "file": "22.04_kahekümne_teisel_aprillil.mp3",
+    "number": "22.04",
+    "et": "kahekümne teisel aprillil",
+    "ru": "двадцать второго апреля"
+  },
+  {
+    "file": "23.04_kahekümne_kolmandal_aprillil.mp3",
+    "number": "23.04",
+    "et": "kahekümne kolmandal aprillil",
+    "ru": "двадцать третьего апреля"
+  },
+  {
+    "file": "24.04_kahekümne_neljandal_aprillil.mp3",
+    "number": "24.04",
+    "et": "kahekümne neljandal aprillil",
+    "ru": "двадцать четвёртого апреля"
+  },
+  {
+    "file": "25.04_kahekümne_viiendal_aprillil.mp3",
+    "number": "25.04",
+    "et": "kahekümne viiendal aprillil",
+    "ru": "двадцать пятого апреля"
+  },
+  {
+    "file": "26.04_kahekümne_kuuendal_aprillil.mp3",
+    "number": "26.04",
+    "et": "kahekümne kuuendal aprillil",
+    "ru": "двадцать шестого апреля"
+  },
+  {
+    "file": "27.04_kahekümne_seitsmendal_aprillil.mp3",
+    "number": "27.04",
+    "et": "kahekümne seitsmendal aprillil",
+    "ru": "двадцать седьмого апреля"
+  },
+  {
+    "file": "28.04_kahekümne_kaheksandal_aprillil.mp3",
+    "number": "28.04",
+    "et": "kahekümne kaheksandal aprillil",
+    "ru": "двадцать восьмого апреля"
+  },
+  {
+    "file": "29.04_kahekümne_üheksandal_aprillil.mp3",
+    "number": "29.04",
+    "et": "kahekümne üheksandal aprillil",
+    "ru": "двадцать девятого апреля"
+  },
+  {
+    "file": "30.04_kolmekümnendal_aprillil.mp3",
+    "number": "30.04",
+    "et": "kolmekümnendal aprillil",
+    "ru": "тридцатого апреля"
+  },
+  {
+    "file": "01.05_esimesel_mail.mp3",
+    "number": "01.05",
+    "et": "esimesel mail",
+    "ru": "первого мая"
+  },
+  {
+    "file": "02.05_teisel_mail.mp3",
+    "number": "02.05",
+    "et": "teisel mail",
+    "ru": "второго мая"
+  },
+  {
+    "file": "03.05_kolmandal_mail.mp3",
+    "number": "03.05",
+    "et": "kolmandal mail",
+    "ru": "третьего мая"
+  },
+  {
+    "file": "04.05_neljandal_mail.mp3",
+    "number": "04.05",
+    "et": "neljandal mail",
+    "ru": "четвёртого мая"
+  },
+  {
+    "file": "05.05_viiendal_mail.mp3",
+    "number": "05.05",
+    "et": "viiendal mail",
+    "ru": "пятого мая"
+  },
+  {
+    "file": "06.05_kuuendal_mail.mp3",
+    "number": "06.05",
+    "et": "kuuendal mail",
+    "ru": "шестого мая"
+  },
+  {
+    "file": "07.05_seitsmendal_mail.mp3",
+    "number": "07.05",
+    "et": "seitsmendal mail",
+    "ru": "седьмого мая"
+  },
+  {
+    "file": "08.05_kaheksandal_mail.mp3",
+    "number": "08.05",
+    "et": "kaheksandal mail",
+    "ru": "восьмого мая"
+  },
+  {
+    "file": "09.05_üheksandal_mail.mp3",
+    "number": "09.05",
+    "et": "üheksandal mail",
+    "ru": "девятого мая"
+  },
+  {
+    "file": "10.05_kümnendal_mail.mp3",
+    "number": "10.05",
+    "et": "kümnendal mail",
+    "ru": "десятого мая"
+  },
+  {
+    "file": "11.05_üheteistkümnendal_mail.mp3",
+    "number": "11.05",
+    "et": "üheteistkümnendal mail",
+    "ru": "одиннадцатого мая"
+  },
+  {
+    "file": "12.05_kaheteistkümnendal_mail.mp3",
+    "number": "12.05",
+    "et": "kaheteistkümnendal mail",
+    "ru": "двенадцатого мая"
+  },
+  {
+    "file": "13.05_kolmeteistkümnendal_mail.mp3",
+    "number": "13.05",
+    "et": "kolmeteistkümnendal mail",
+    "ru": "тринадцатого мая"
+  },
+  {
+    "file": "14.05_neljateistkümnendal_mail.mp3",
+    "number": "14.05",
+    "et": "neljateistkümnendal mail",
+    "ru": "четырнадцатого мая"
+  },
+  {
+    "file": "15.05_viieteistkümnendal_mail.mp3",
+    "number": "15.05",
+    "et": "viieteistkümnendal mail",
+    "ru": "пятнадцатого мая"
+  },
+  {
+    "file": "16.05_kuueteistkümnendal_mail.mp3",
+    "number": "16.05",
+    "et": "kuueteistkümnendal mail",
+    "ru": "шестнадцатого мая"
+  },
+  {
+    "file": "17.05_seitsmeteistkümnendal_mail.mp3",
+    "number": "17.05",
+    "et": "seitsmeteistkümnendal mail",
+    "ru": "семнадцатого мая"
+  },
+  {
+    "file": "18.05_kaheksateistkümnendal_mail.mp3",
+    "number": "18.05",
+    "et": "kaheksateistkümnendal mail",
+    "ru": "восемнадцатого мая"
+  },
+  {
+    "file": "19.05_üheksateistkümnendal_mail.mp3",
+    "number": "19.05",
+    "et": "üheksateistkümnendal mail",
+    "ru": "девятнадцатого мая"
+  },
+  {
+    "file": "20.05_kahekümnendal_mail.mp3",
+    "number": "20.05",
+    "et": "kahekümnendal mail",
+    "ru": "двадцатого мая"
+  },
+  {
+    "file": "21.05_kahekümne_esimesel_mail.mp3",
+    "number": "21.05",
+    "et": "kahekümne esimesel mail",
+    "ru": "двадцать первого мая"
+  },
+  {
+    "file": "22.05_kahekümne_teisel_mail.mp3",
+    "number": "22.05",
+    "et": "kahekümne teisel mail",
+    "ru": "двадцать второго мая"
+  },
+  {
+    "file": "23.05_kahekümne_kolmandal_mail.mp3",
+    "number": "23.05",
+    "et": "kahekümne kolmandal mail",
+    "ru": "двадцать третьего мая"
+  },
+  {
+    "file": "24.05_kahekümne_neljandal_mail.mp3",
+    "number": "24.05",
+    "et": "kahekümne neljandal mail",
+    "ru": "двадцать четвёртого мая"
+  },
+  {
+    "file": "25.05_kahekümne_viiendal_mail.mp3",
+    "number": "25.05",
+    "et": "kahekümne viiendal mail",
+    "ru": "двадцать пятого мая"
+  },
+  {
+    "file": "26.05_kahekümne_kuuendal_mail.mp3",
+    "number": "26.05",
+    "et": "kahekümne kuuendal mail",
+    "ru": "двадцать шестого мая"
+  },
+  {
+    "file": "27.05_kahekümne_seitsmendal_mail.mp3",
+    "number": "27.05",
+    "et": "kahekümne seitsmendal mail",
+    "ru": "двадцать седьмого мая"
+  },
+  {
+    "file": "28.05_kahekümne_kaheksandal_mail.mp3",
+    "number": "28.05",
+    "et": "kahekümne kaheksandal mail",
+    "ru": "двадцать восьмого мая"
+  },
+  {
+    "file": "29.05_kahekümne_üheksandal_mail.mp3",
+    "number": "29.05",
+    "et": "kahekümne üheksandal mail",
+    "ru": "двадцать девятого мая"
+  },
+  {
+    "file": "30.05_kolmekümnendal_mail.mp3",
+    "number": "30.05",
+    "et": "kolmekümnendal mail",
+    "ru": "тридцатого мая"
+  },
+  {
+    "file": "31.05_kolmekümne_esimesel_mail.mp3",
+    "number": "31.05",
+    "et": "kolmekümne esimesel mail",
+    "ru": "тридцать первого мая"
+  },
+  {
+    "file": "01.06_esimesel_juunil.mp3",
+    "number": "01.06",
+    "et": "esimesel juunil",
+    "ru": "первого июня"
+  },
+  {
+    "file": "02.06_teisel_juunil.mp3",
+    "number": "02.06",
+    "et": "teisel juunil",
+    "ru": "второго июня"
+  },
+  {
+    "file": "03.06_kolmandal_juunil.mp3",
+    "number": "03.06",
+    "et": "kolmandal juunil",
+    "ru": "третьего июня"
+  },
+  {
+    "file": "04.06_neljandal_juunil.mp3",
+    "number": "04.06",
+    "et": "neljandal juunil",
+    "ru": "четвёртого июня"
+  },
+  {
+    "file": "05.06_viiendal_juunil.mp3",
+    "number": "05.06",
+    "et": "viiendal juunil",
+    "ru": "пятого июня"
+  },
+  {
+    "file": "06.06_kuuendal_juunil.mp3",
+    "number": "06.06",
+    "et": "kuuendal juunil",
+    "ru": "шестого июня"
+  },
+  {
+    "file": "07.06_seitsmendal_juunil.mp3",
+    "number": "07.06",
+    "et": "seitsmendal juunil",
+    "ru": "седьмого июня"
+  },
+  {
+    "file": "08.06_kaheksandal_juunil.mp3",
+    "number": "08.06",
+    "et": "kaheksandal juunil",
+    "ru": "восьмого июня"
+  },
+  {
+    "file": "09.06_üheksandal_juunil.mp3",
+    "number": "09.06",
+    "et": "üheksandal juunil",
+    "ru": "девятого июня"
+  },
+  {
+    "file": "10.06_kümnendal_juunil.mp3",
+    "number": "10.06",
+    "et": "kümnendal juunil",
+    "ru": "десятого июня"
+  },
+  {
+    "file": "11.06_üheteistkümnendal_juunil.mp3",
+    "number": "11.06",
+    "et": "üheteistkümnendal juunil",
+    "ru": "одиннадцатого июня"
+  },
+  {
+    "file": "12.06_kaheteistkümnendal_juunil.mp3",
+    "number": "12.06",
+    "et": "kaheteistkümnendal juunil",
+    "ru": "двенадцатого июня"
+  },
+  {
+    "file": "13.06_kolmeteistkümnendal_juunil.mp3",
+    "number": "13.06",
+    "et": "kolmeteistkümnendal juunil",
+    "ru": "тринадцатого июня"
+  },
+  {
+    "file": "14.06_neljateistkümnendal_juunil.mp3",
+    "number": "14.06",
+    "et": "neljateistkümnendal juunil",
+    "ru": "четырнадцатого июня"
+  },
+  {
+    "file": "15.06_viieteistkümnendal_juunil.mp3",
+    "number": "15.06",
+    "et": "viieteistkümnendal juunil",
+    "ru": "пятнадцатого июня"
+  },
+  {
+    "file": "16.06_kuueteistkümnendal_juunil.mp3",
+    "number": "16.06",
+    "et": "kuueteistkümnendal juunil",
+    "ru": "шестнадцатого июня"
+  },
+  {
+    "file": "17.06_seitsmeteistkümnendal_juunil.mp3",
+    "number": "17.06",
+    "et": "seitsmeteistkümnendal juunil",
+    "ru": "семнадцатого июня"
+  },
+  {
+    "file": "18.06_kaheksateistkümnendal_juunil.mp3",
+    "number": "18.06",
+    "et": "kaheksateistkümnendal juunil",
+    "ru": "восемнадцатого июня"
+  },
+  {
+    "file": "19.06_üheksateistkümnendal_juunil.mp3",
+    "number": "19.06",
+    "et": "üheksateistkümnendal juunil",
+    "ru": "девятнадцатого июня"
+  },
+  {
+    "file": "20.06_kahekümnendal_juunil.mp3",
+    "number": "20.06",
+    "et": "kahekümnendal juunil",
+    "ru": "двадцатого июня"
+  },
+  {
+    "file": "21.06_kahekümne_esimesel_juunil.mp3",
+    "number": "21.06",
+    "et": "kahekümne esimesel juunil",
+    "ru": "двадцать первого июня"
+  },
+  {
+    "file": "22.06_kahekümne_teisel_juunil.mp3",
+    "number": "22.06",
+    "et": "kahekümne teisel juunil",
+    "ru": "двадцать второго июня"
+  },
+  {
+    "file": "23.06_kahekümne_kolmandal_juunil.mp3",
+    "number": "23.06",
+    "et": "kahekümne kolmandal juunil",
+    "ru": "двадцать третьего июня"
+  },
+  {
+    "file": "24.06_kahekümne_neljandal_juunil.mp3",
+    "number": "24.06",
+    "et": "kahekümne neljandal juunil",
+    "ru": "двадцать четвёртого июня"
+  },
+  {
+    "file": "25.06_kahekümne_viiendal_juunil.mp3",
+    "number": "25.06",
+    "et": "kahekümne viiendal juunil",
+    "ru": "двадцать пятого июня"
+  },
+  {
+    "file": "26.06_kahekümne_kuuendal_juunil.mp3",
+    "number": "26.06",
+    "et": "kahekümne kuuendal juunil",
+    "ru": "двадцать шестого июня"
+  },
+  {
+    "file": "27.06_kahekümne_seitsmendal_juunil.mp3",
+    "number": "27.06",
+    "et": "kahekümne seitsmendal juunil",
+    "ru": "двадцать седьмого июня"
+  },
+  {
+    "file": "28.06_kahekümne_kaheksandal_juunil.mp3",
+    "number": "28.06",
+    "et": "kahekümne kaheksandal juunil",
+    "ru": "двадцать восьмого июня"
+  },
+  {
+    "file": "29.06_kahekümne_üheksandal_juunil.mp3",
+    "number": "29.06",
+    "et": "kahekümne üheksandal juunil",
+    "ru": "двадцать девятого июня"
+  },
+  {
+    "file": "30.06_kolmekümnendal_juunil.mp3",
+    "number": "30.06",
+    "et": "kolmekümnendal juunil",
+    "ru": "тридцатого июня"
+  },
+  {
+    "file": "01.07_esimesel_juulil.mp3",
+    "number": "01.07",
+    "et": "esimesel juulil",
+    "ru": "первого июля"
+  },
+  {
+    "file": "02.07_teisel_juulil.mp3",
+    "number": "02.07",
+    "et": "teisel juulil",
+    "ru": "второго июля"
+  },
+  {
+    "file": "03.07_kolmandal_juulil.mp3",
+    "number": "03.07",
+    "et": "kolmandal juulil",
+    "ru": "третьего июля"
+  },
+  {
+    "file": "04.07_neljandal_juulil.mp3",
+    "number": "04.07",
+    "et": "neljandal juulil",
+    "ru": "четвёртого июля"
+  },
+  {
+    "file": "05.07_viiendal_juulil.mp3",
+    "number": "05.07",
+    "et": "viiendal juulil",
+    "ru": "пятого июля"
+  },
+  {
+    "file": "06.07_kuuendal_juulil.mp3",
+    "number": "06.07",
+    "et": "kuuendal juulil",
+    "ru": "шестого июля"
+  },
+  {
+    "file": "07.07_seitsmendal_juulil.mp3",
+    "number": "07.07",
+    "et": "seitsmendal juulil",
+    "ru": "седьмого июля"
+  },
+  {
+    "file": "08.07_kaheksandal_juulil.mp3",
+    "number": "08.07",
+    "et": "kaheksandal juulil",
+    "ru": "восьмого июля"
+  },
+  {
+    "file": "09.07_üheksandal_juulil.mp3",
+    "number": "09.07",
+    "et": "üheksandal juulil",
+    "ru": "девятого июля"
+  },
+  {
+    "file": "10.07_kümnendal_juulil.mp3",
+    "number": "10.07",
+    "et": "kümnendal juulil",
+    "ru": "десятого июля"
+  },
+  {
+    "file": "11.07_üheteistkümnendal_juulil.mp3",
+    "number": "11.07",
+    "et": "üheteistkümnendal juulil",
+    "ru": "одиннадцатого июля"
+  },
+  {
+    "file": "12.07_kaheteistkümnendal_juulil.mp3",
+    "number": "12.07",
+    "et": "kaheteistkümnendal juulil",
+    "ru": "двенадцатого июля"
+  },
+  {
+    "file": "13.07_kolmeteistkümnendal_juulil.mp3",
+    "number": "13.07",
+    "et": "kolmeteistkümnendal juulil",
+    "ru": "тринадцатого июля"
+  },
+  {
+    "file": "14.07_neljateistkümnendal_juulil.mp3",
+    "number": "14.07",
+    "et": "neljateistkümnendal juulil",
+    "ru": "четырнадцатого июля"
+  },
+  {
+    "file": "15.07_viieteistkümnendal_juulil.mp3",
+    "number": "15.07",
+    "et": "viieteistkümnendal juulil",
+    "ru": "пятнадцатого июля"
+  },
+  {
+    "file": "16.07_kuueteistkümnendal_juulil.mp3",
+    "number": "16.07",
+    "et": "kuueteistkümnendal juulil",
+    "ru": "шестнадцатого июля"
+  },
+  {
+    "file": "17.07_seitsmeteistkümnendal_juulil.mp3",
+    "number": "17.07",
+    "et": "seitsmeteistkümnendal juulil",
+    "ru": "семнадцатого июля"
+  },
+  {
+    "file": "18.07_kaheksateistkümnendal_juulil.mp3",
+    "number": "18.07",
+    "et": "kaheksateistkümnendal juulil",
+    "ru": "восемнадцатого июля"
+  },
+  {
+    "file": "19.07_üheksateistkümnendal_juulil.mp3",
+    "number": "19.07",
+    "et": "üheksateistkümnendal juulil",
+    "ru": "девятнадцатого июля"
+  },
+  {
+    "file": "20.07_kahekümnendal_juulil.mp3",
+    "number": "20.07",
+    "et": "kahekümnendal juulil",
+    "ru": "двадцатого июля"
+  },
+  {
+    "file": "21.07_kahekümne_esimesel_juulil.mp3",
+    "number": "21.07",
+    "et": "kahekümne esimesel juulil",
+    "ru": "двадцать первого июля"
+  },
+  {
+    "file": "22.07_kahekümne_teisel_juulil.mp3",
+    "number": "22.07",
+    "et": "kahekümne teisel juulil",
+    "ru": "двадцать второго июля"
+  },
+  {
+    "file": "23.07_kahekümne_kolmandal_juulil.mp3",
+    "number": "23.07",
+    "et": "kahekümne kolmandal juulil",
+    "ru": "двадцать третьего июля"
+  },
+  {
+    "file": "24.07_kahekümne_neljandal_juulil.mp3",
+    "number": "24.07",
+    "et": "kahekümne neljandal juulil",
+    "ru": "двадцать четвёртого июля"
+  },
+  {
+    "file": "25.07_kahekümne_viiendal_juulil.mp3",
+    "number": "25.07",
+    "et": "kahekümne viiendal juulil",
+    "ru": "двадцать пятого июля"
+  },
+  {
+    "file": "26.07_kahekümne_kuuendal_juulil.mp3",
+    "number": "26.07",
+    "et": "kahekümne kuuendal juulil",
+    "ru": "двадцать шестого июля"
+  },
+  {
+    "file": "27.07_kahekümne_seitsmendal_juulil.mp3",
+    "number": "27.07",
+    "et": "kahekümne seitsmendal juulil",
+    "ru": "двадцать седьмого июля"
+  },
+  {
+    "file": "28.07_kahekümne_kaheksandal_juulil.mp3",
+    "number": "28.07",
+    "et": "kahekümne kaheksandal juulil",
+    "ru": "двадцать восьмого июля"
+  },
+  {
+    "file": "29.07_kahekümne_üheksandal_juulil.mp3",
+    "number": "29.07",
+    "et": "kahekümne üheksandal juulil",
+    "ru": "двадцать девятого июля"
+  },
+  {
+    "file": "30.07_kolmekümnendal_juulil.mp3",
+    "number": "30.07",
+    "et": "kolmekümnendal juulil",
+    "ru": "тридцатого июля"
+  },
+  {
+    "file": "31.07_kolmekümne_esimesel_juulil.mp3",
+    "number": "31.07",
+    "et": "kolmekümne esimesel juulil",
+    "ru": "тридцать первого июля"
+  },
+  {
+    "file": "01.08_esimesel_augustil.mp3",
+    "number": "01.08",
+    "et": "esimesel augustil",
+    "ru": "первого августа"
+  },
+  {
+    "file": "02.08_teisel_augustil.mp3",
+    "number": "02.08",
+    "et": "teisel augustil",
+    "ru": "второго августа"
+  },
+  {
+    "file": "03.08_kolmandal_augustil.mp3",
+    "number": "03.08",
+    "et": "kolmandal augustil",
+    "ru": "третьего августа"
+  },
+  {
+    "file": "04.08_neljandal_augustil.mp3",
+    "number": "04.08",
+    "et": "neljandal augustil",
+    "ru": "четвёртого августа"
+  },
+  {
+    "file": "05.08_viiendal_augustil.mp3",
+    "number": "05.08",
+    "et": "viiendal augustil",
+    "ru": "пятого августа"
+  },
+  {
+    "file": "06.08_kuuendal_augustil.mp3",
+    "number": "06.08",
+    "et": "kuuendal augustil",
+    "ru": "шестого августа"
+  },
+  {
+    "file": "07.08_seitsmendal_augustil.mp3",
+    "number": "07.08",
+    "et": "seitsmendal augustil",
+    "ru": "седьмого августа"
+  },
+  {
+    "file": "08.08_kaheksandal_augustil.mp3",
+    "number": "08.08",
+    "et": "kaheksandal augustil",
+    "ru": "восьмого августа"
+  },
+  {
+    "file": "09.08_üheksandal_augustil.mp3",
+    "number": "09.08",
+    "et": "üheksandal augustil",
+    "ru": "девятого августа"
+  },
+  {
+    "file": "10.08_kümnendal_augustil.mp3",
+    "number": "10.08",
+    "et": "kümnendal augustil",
+    "ru": "десятого августа"
+  },
+  {
+    "file": "11.08_üheteistkümnendal_augustil.mp3",
+    "number": "11.08",
+    "et": "üheteistkümnendal augustil",
+    "ru": "одиннадцатого августа"
+  },
+  {
+    "file": "12.08_kaheteistkümnendal_augustil.mp3",
+    "number": "12.08",
+    "et": "kaheteistkümnendal augustil",
+    "ru": "двенадцатого августа"
+  },
+  {
+    "file": "13.08_kolmeteistkümnendal_augustil.mp3",
+    "number": "13.08",
+    "et": "kolmeteistkümnendal augustil",
+    "ru": "тринадцатого августа"
+  },
+  {
+    "file": "14.08_neljateistkümnendal_augustil.mp3",
+    "number": "14.08",
+    "et": "neljateistkümnendal augustil",
+    "ru": "четырнадцатого августа"
+  },
+  {
+    "file": "15.08_viieteistkümnendal_augustil.mp3",
+    "number": "15.08",
+    "et": "viieteistkümnendal augustil",
+    "ru": "пятнадцатого августа"
+  },
+  {
+    "file": "16.08_kuueteistkümnendal_augustil.mp3",
+    "number": "16.08",
+    "et": "kuueteistkümnendal augustil",
+    "ru": "шестнадцатого августа"
+  },
+  {
+    "file": "17.08_seitsmeteistkümnendal_augustil.mp3",
+    "number": "17.08",
+    "et": "seitsmeteistkümnendal augustil",
+    "ru": "семнадцатого августа"
+  },
+  {
+    "file": "18.08_kaheksateistkümnendal_augustil.mp3",
+    "number": "18.08",
+    "et": "kaheksateistkümnendal augustil",
+    "ru": "восемнадцатого августа"
+  },
+  {
+    "file": "19.08_üheksateistkümnendal_augustil.mp3",
+    "number": "19.08",
+    "et": "üheksateistkümnendal augustil",
+    "ru": "девятнадцатого августа"
+  },
+  {
+    "file": "20.08_kahekümnendal_augustil.mp3",
+    "number": "20.08",
+    "et": "kahekümnendal augustil",
+    "ru": "двадцатого августа"
+  },
+  {
+    "file": "21.08_kahekümne_esimesel_augustil.mp3",
+    "number": "21.08",
+    "et": "kahekümne esimesel augustil",
+    "ru": "двадцать первого августа"
+  },
+  {
+    "file": "22.08_kahekümne_teisel_augustil.mp3",
+    "number": "22.08",
+    "et": "kahekümne teisel augustil",
+    "ru": "двадцать второго августа"
+  },
+  {
+    "file": "23.08_kahekümne_kolmandal_augustil.mp3",
+    "number": "23.08",
+    "et": "kahekümne kolmandal augustil",
+    "ru": "двадцать третьего августа"
+  },
+  {
+    "file": "24.08_kahekümne_neljandal_augustil.mp3",
+    "number": "24.08",
+    "et": "kahekümne neljandal augustil",
+    "ru": "двадцать четвёртого августа"
+  },
+  {
+    "file": "25.08_kahekümne_viiendal_augustil.mp3",
+    "number": "25.08",
+    "et": "kahekümne viiendal augustil",
+    "ru": "двадцать пятого августа"
+  },
+  {
+    "file": "26.08_kahekümne_kuuendal_augustil.mp3",
+    "number": "26.08",
+    "et": "kahekümne kuuendal augustil",
+    "ru": "двадцать шестого августа"
+  },
+  {
+    "file": "27.08_kahekümne_seitsmendal_augustil.mp3",
+    "number": "27.08",
+    "et": "kahekümne seitsmendal augustil",
+    "ru": "двадцать седьмого августа"
+  },
+  {
+    "file": "28.08_kahekümne_kaheksandal_augustil.mp3",
+    "number": "28.08",
+    "et": "kahekümne kaheksandal augustil",
+    "ru": "двадцать восьмого августа"
+  },
+  {
+    "file": "29.08_kahekümne_üheksandal_augustil.mp3",
+    "number": "29.08",
+    "et": "kahekümne üheksandal augustil",
+    "ru": "двадцать девятого августа"
+  },
+  {
+    "file": "30.08_kolmekümnendal_augustil.mp3",
+    "number": "30.08",
+    "et": "kolmekümnendal augustil",
+    "ru": "тридцатого августа"
+  },
+  {
+    "file": "31.08_kolmekümne_esimesel_augustil.mp3",
+    "number": "31.08",
+    "et": "kolmekümne esimesel augustil",
+    "ru": "тридцать первого августа"
+  },
+  {
+    "file": "01.09_esimesel_septembril.mp3",
+    "number": "01.09",
+    "et": "esimesel septembril",
+    "ru": "первого сентября"
+  },
+  {
+    "file": "02.09_teisel_septembril.mp3",
+    "number": "02.09",
+    "et": "teisel septembril",
+    "ru": "второго сентября"
+  },
+  {
+    "file": "03.09_kolmandal_septembril.mp3",
+    "number": "03.09",
+    "et": "kolmandal septembril",
+    "ru": "третьего сентября"
+  },
+  {
+    "file": "04.09_neljandal_septembril.mp3",
+    "number": "04.09",
+    "et": "neljandal septembril",
+    "ru": "четвёртого сентября"
+  },
+  {
+    "file": "05.09_viiendal_septembril.mp3",
+    "number": "05.09",
+    "et": "viiendal septembril",
+    "ru": "пятого сентября"
+  },
+  {
+    "file": "06.09_kuuendal_septembril.mp3",
+    "number": "06.09",
+    "et": "kuuendal septembril",
+    "ru": "шестого сентября"
+  },
+  {
+    "file": "07.09_seitsmendal_septembril.mp3",
+    "number": "07.09",
+    "et": "seitsmendal septembril",
+    "ru": "седьмого сентября"
+  },
+  {
+    "file": "08.09_kaheksandal_septembril.mp3",
+    "number": "08.09",
+    "et": "kaheksandal septembril",
+    "ru": "восьмого сентября"
+  },
+  {
+    "file": "09.09_üheksandal_septembril.mp3",
+    "number": "09.09",
+    "et": "üheksandal septembril",
+    "ru": "девятого сентября"
+  },
+  {
+    "file": "10.09_kümnendal_septembril.mp3",
+    "number": "10.09",
+    "et": "kümnendal septembril",
+    "ru": "десятого сентября"
+  },
+  {
+    "file": "11.09_üheteistkümnendal_septembril.mp3",
+    "number": "11.09",
+    "et": "üheteistkümnendal septembril",
+    "ru": "одиннадцатого сентября"
+  },
+  {
+    "file": "12.09_kaheteistkümnendal_septembril.mp3",
+    "number": "12.09",
+    "et": "kaheteistkümnendal septembril",
+    "ru": "двенадцатого сентября"
+  },
+  {
+    "file": "13.09_kolmeteistkümnendal_septembril.mp3",
+    "number": "13.09",
+    "et": "kolmeteistkümnendal septembril",
+    "ru": "тринадцатого сентября"
+  },
+  {
+    "file": "14.09_neljateistkümnendal_septembril.mp3",
+    "number": "14.09",
+    "et": "neljateistkümnendal septembril",
+    "ru": "четырнадцатого сентября"
+  },
+  {
+    "file": "15.09_viieteistkümnendal_septembril.mp3",
+    "number": "15.09",
+    "et": "viieteistkümnendal septembril",
+    "ru": "пятнадцатого сентября"
+  },
+  {
+    "file": "16.09_kuueteistkümnendal_septembril.mp3",
+    "number": "16.09",
+    "et": "kuueteistkümnendal septembril",
+    "ru": "шестнадцатого сентября"
+  },
+  {
+    "file": "17.09_seitsmeteistkümnendal_septembril.mp3",
+    "number": "17.09",
+    "et": "seitsmeteistkümnendal septembril",
+    "ru": "семнадцатого сентября"
+  },
+  {
+    "file": "18.09_kaheksateistkümnendal_septembril.mp3",
+    "number": "18.09",
+    "et": "kaheksateistkümnendal septembril",
+    "ru": "восемнадцатого сентября"
+  },
+  {
+    "file": "19.09_üheksateistkümnendal_septembril.mp3",
+    "number": "19.09",
+    "et": "üheksateistkümnendal septembril",
+    "ru": "девятнадцатого сентября"
+  },
+  {
+    "file": "20.09_kahekümnendal_septembril.mp3",
+    "number": "20.09",
+    "et": "kahekümnendal septembril",
+    "ru": "двадцатого сентября"
+  },
+  {
+    "file": "21.09_kahekümne_esimesel_septembril.mp3",
+    "number": "21.09",
+    "et": "kahekümne esimesel septembril",
+    "ru": "двадцать первого сентября"
+  },
+  {
+    "file": "22.09_kahekümne_teisel_septembril.mp3",
+    "number": "22.09",
+    "et": "kahekümne teisel septembril",
+    "ru": "двадцать второго сентября"
+  },
+  {
+    "file": "23.09_kahekümne_kolmandal_septembril.mp3",
+    "number": "23.09",
+    "et": "kahekümne kolmandal septembril",
+    "ru": "двадцать третьего сентября"
+  },
+  {
+    "file": "24.09_kahekümne_neljandal_septembril.mp3",
+    "number": "24.09",
+    "et": "kahekümne neljandal septembril",
+    "ru": "двадцать четвёртого сентября"
+  },
+  {
+    "file": "25.09_kahekümne_viiendal_septembril.mp3",
+    "number": "25.09",
+    "et": "kahekümne viiendal septembril",
+    "ru": "двадцать пятого сентября"
+  },
+  {
+    "file": "26.09_kahekümne_kuuendal_septembril.mp3",
+    "number": "26.09",
+    "et": "kahekümne kuuendal septembril",
+    "ru": "двадцать шестого сентября"
+  },
+  {
+    "file": "27.09_kahekümne_seitsmendal_septembril.mp3",
+    "number": "27.09",
+    "et": "kahekümne seitsmendal septembril",
+    "ru": "двадцать седьмого сентября"
+  },
+  {
+    "file": "28.09_kahekümne_kaheksandal_septembril.mp3",
+    "number": "28.09",
+    "et": "kahekümne kaheksandal septembril",
+    "ru": "двадцать восьмого сентября"
+  },
+  {
+    "file": "29.09_kahekümne_üheksandal_septembril.mp3",
+    "number": "29.09",
+    "et": "kahekümne üheksandal septembril",
+    "ru": "двадцать девятого сентября"
+  },
+  {
+    "file": "30.09_kolmekümnendal_septembril.mp3",
+    "number": "30.09",
+    "et": "kolmekümnendal septembril",
+    "ru": "тридцатого сентября"
+  },
+  {
+    "file": "01.10_esimesel_oktoobril.mp3",
+    "number": "01.10",
+    "et": "esimesel oktoobril",
+    "ru": "первого октября"
+  },
+  {
+    "file": "02.10_teisel_oktoobril.mp3",
+    "number": "02.10",
+    "et": "teisel oktoobril",
+    "ru": "второго октября"
+  },
+  {
+    "file": "03.10_kolmandal_oktoobril.mp3",
+    "number": "03.10",
+    "et": "kolmandal oktoobril",
+    "ru": "третьего октября"
+  },
+  {
+    "file": "04.10_neljandal_oktoobril.mp3",
+    "number": "04.10",
+    "et": "neljandal oktoobril",
+    "ru": "четвёртого октября"
+  },
+  {
+    "file": "05.10_viiendal_oktoobril.mp3",
+    "number": "05.10",
+    "et": "viiendal oktoobril",
+    "ru": "пятого октября"
+  },
+  {
+    "file": "06.10_kuuendal_oktoobril.mp3",
+    "number": "06.10",
+    "et": "kuuendal oktoobril",
+    "ru": "шестого октября"
+  },
+  {
+    "file": "07.10_seitsmendal_oktoobril.mp3",
+    "number": "07.10",
+    "et": "seitsmendal oktoobril",
+    "ru": "седьмого октября"
+  },
+  {
+    "file": "08.10_kaheksandal_oktoobril.mp3",
+    "number": "08.10",
+    "et": "kaheksandal oktoobril",
+    "ru": "восьмого октября"
+  },
+  {
+    "file": "09.10_üheksandal_oktoobril.mp3",
+    "number": "09.10",
+    "et": "üheksandal oktoobril",
+    "ru": "девятого октября"
+  },
+  {
+    "file": "10.10_kümnendal_oktoobril.mp3",
+    "number": "10.10",
+    "et": "kümnendal oktoobril",
+    "ru": "десятого октября"
+  },
+  {
+    "file": "11.10_üheteistkümnendal_oktoobril.mp3",
+    "number": "11.10",
+    "et": "üheteistkümnendal oktoobril",
+    "ru": "одиннадцатого октября"
+  },
+  {
+    "file": "12.10_kaheteistkümnendal_oktoobril.mp3",
+    "number": "12.10",
+    "et": "kaheteistkümnendal oktoobril",
+    "ru": "двенадцатого октября"
+  },
+  {
+    "file": "13.10_kolmeteistkümnendal_oktoobril.mp3",
+    "number": "13.10",
+    "et": "kolmeteistkümnendal oktoobril",
+    "ru": "тринадцатого октября"
+  },
+  {
+    "file": "14.10_neljateistkümnendal_oktoobril.mp3",
+    "number": "14.10",
+    "et": "neljateistkümnendal oktoobril",
+    "ru": "четырнадцатого октября"
+  },
+  {
+    "file": "15.10_viieteistkümnendal_oktoobril.mp3",
+    "number": "15.10",
+    "et": "viieteistkümnendal oktoobril",
+    "ru": "пятнадцатого октября"
+  },
+  {
+    "file": "16.10_kuueteistkümnendal_oktoobril.mp3",
+    "number": "16.10",
+    "et": "kuueteistkümnendal oktoobril",
+    "ru": "шестнадцатого октября"
+  },
+  {
+    "file": "17.10_seitsmeteistkümnendal_oktoobril.mp3",
+    "number": "17.10",
+    "et": "seitsmeteistkümnendal oktoobril",
+    "ru": "семнадцатого октября"
+  },
+  {
+    "file": "18.10_kaheksateistkümnendal_oktoobril.mp3",
+    "number": "18.10",
+    "et": "kaheksateistkümnendal oktoobril",
+    "ru": "восемнадцатого октября"
+  },
+  {
+    "file": "19.10_üheksateistkümnendal_oktoobril.mp3",
+    "number": "19.10",
+    "et": "üheksateistkümnendal oktoobril",
+    "ru": "девятнадцатого октября"
+  },
+  {
+    "file": "20.10_kahekümnendal_oktoobril.mp3",
+    "number": "20.10",
+    "et": "kahekümnendal oktoobril",
+    "ru": "двадцатого октября"
+  },
+  {
+    "file": "21.10_kahekümne_esimesel_oktoobril.mp3",
+    "number": "21.10",
+    "et": "kahekümne esimesel oktoobril",
+    "ru": "двадцать первого октября"
+  },
+  {
+    "file": "22.10_kahekümne_teisel_oktoobril.mp3",
+    "number": "22.10",
+    "et": "kahekümne teisel oktoobril",
+    "ru": "двадцать второго октября"
+  },
+  {
+    "file": "23.10_kahekümne_kolmandal_oktoobril.mp3",
+    "number": "23.10",
+    "et": "kahekümne kolmandal oktoobril",
+    "ru": "двадцать третьего октября"
+  },
+  {
+    "file": "24.10_kahekümne_neljandal_oktoobril.mp3",
+    "number": "24.10",
+    "et": "kahekümne neljandal oktoobril",
+    "ru": "двадцать четвёртого октября"
+  },
+  {
+    "file": "25.10_kahekümne_viiendal_oktoobril.mp3",
+    "number": "25.10",
+    "et": "kahekümne viiendal oktoobril",
+    "ru": "двадцать пятого октября"
+  },
+  {
+    "file": "26.10_kahekümne_kuuendal_oktoobril.mp3",
+    "number": "26.10",
+    "et": "kahekümne kuuendal oktoobril",
+    "ru": "двадцать шестого октября"
+  },
+  {
+    "file": "27.10_kahekümne_seitsmendal_oktoobril.mp3",
+    "number": "27.10",
+    "et": "kahekümne seitsmendal oktoobril",
+    "ru": "двадцать седьмого октября"
+  },
+  {
+    "file": "28.10_kahekümne_kaheksandal_oktoobril.mp3",
+    "number": "28.10",
+    "et": "kahekümne kaheksandal oktoobril",
+    "ru": "двадцать восьмого октября"
+  },
+  {
+    "file": "29.10_kahekümne_üheksandal_oktoobril.mp3",
+    "number": "29.10",
+    "et": "kahekümne üheksandal oktoobril",
+    "ru": "двадцать девятого октября"
+  },
+  {
+    "file": "30.10_kolmekümnendal_oktoobril.mp3",
+    "number": "30.10",
+    "et": "kolmekümnendal oktoobril",
+    "ru": "тридцатого октября"
+  },
+  {
+    "file": "31.10_kolmekümne_esimesel_oktoobril.mp3",
+    "number": "31.10",
+    "et": "kolmekümne esimesel oktoobril",
+    "ru": "тридцать первого октября"
+  },
+  {
+    "file": "01.11_esimesel_novembril.mp3",
+    "number": "01.11",
+    "et": "esimesel novembril",
+    "ru": "первого ноября"
+  },
+  {
+    "file": "02.11_teisel_novembril.mp3",
+    "number": "02.11",
+    "et": "teisel novembril",
+    "ru": "второго ноября"
+  },
+  {
+    "file": "03.11_kolmandal_novembril.mp3",
+    "number": "03.11",
+    "et": "kolmandal novembril",
+    "ru": "третьего ноября"
+  },
+  {
+    "file": "04.11_neljandal_novembril.mp3",
+    "number": "04.11",
+    "et": "neljandal novembril",
+    "ru": "четвёртого ноября"
+  },
+  {
+    "file": "05.11_viiendal_novembril.mp3",
+    "number": "05.11",
+    "et": "viiendal novembril",
+    "ru": "пятого ноября"
+  },
+  {
+    "file": "06.11_kuuendal_novembril.mp3",
+    "number": "06.11",
+    "et": "kuuendal novembril",
+    "ru": "шестого ноября"
+  },
+  {
+    "file": "07.11_seitsmendal_novembril.mp3",
+    "number": "07.11",
+    "et": "seitsmendal novembril",
+    "ru": "седьмого ноября"
+  },
+  {
+    "file": "08.11_kaheksandal_novembril.mp3",
+    "number": "08.11",
+    "et": "kaheksandal novembril",
+    "ru": "восьмого ноября"
+  },
+  {
+    "file": "09.11_üheksandal_novembril.mp3",
+    "number": "09.11",
+    "et": "üheksandal novembril",
+    "ru": "девятого ноября"
+  },
+  {
+    "file": "10.11_kümnendal_novembril.mp3",
+    "number": "10.11",
+    "et": "kümnendal novembril",
+    "ru": "десятого ноября"
+  },
+  {
+    "file": "11.11_üheteistkümnendal_novembril.mp3",
+    "number": "11.11",
+    "et": "üheteistkümnendal novembril",
+    "ru": "одиннадцатого ноября"
+  },
+  {
+    "file": "12.11_kaheteistkümnendal_novembril.mp3",
+    "number": "12.11",
+    "et": "kaheteistkümnendal novembril",
+    "ru": "двенадцатого ноября"
+  },
+  {
+    "file": "13.11_kolmeteistkümnendal_novembril.mp3",
+    "number": "13.11",
+    "et": "kolmeteistkümnendal novembril",
+    "ru": "тринадцатого ноября"
+  },
+  {
+    "file": "14.11_neljateistkümnendal_novembril.mp3",
+    "number": "14.11",
+    "et": "neljateistkümnendal novembril",
+    "ru": "четырнадцатого ноября"
+  },
+  {
+    "file": "15.11_viieteistkümnendal_novembril.mp3",
+    "number": "15.11",
+    "et": "viieteistkümnendal novembril",
+    "ru": "пятнадцатого ноября"
+  },
+  {
+    "file": "16.11_kuueteistkümnendal_novembril.mp3",
+    "number": "16.11",
+    "et": "kuueteistkümnendal novembril",
+    "ru": "шестнадцатого ноября"
+  },
+  {
+    "file": "17.11_seitsmeteistkümnendal_novembril.mp3",
+    "number": "17.11",
+    "et": "seitsmeteistkümnendal novembril",
+    "ru": "семнадцатого ноября"
+  },
+  {
+    "file": "18.11_kaheksateistkümnendal_novembril.mp3",
+    "number": "18.11",
+    "et": "kaheksateistkümnendal novembril",
+    "ru": "восемнадцатого ноября"
+  },
+  {
+    "file": "19.11_üheksateistkümnendal_novembril.mp3",
+    "number": "19.11",
+    "et": "üheksateistkümnendal novembril",
+    "ru": "девятнадцатого ноября"
+  },
+  {
+    "file": "20.11_kahekümnendal_novembril.mp3",
+    "number": "20.11",
+    "et": "kahekümnendal novembril",
+    "ru": "двадцатого ноября"
+  },
+  {
+    "file": "21.11_kahekümne_esimesel_novembril.mp3",
+    "number": "21.11",
+    "et": "kahekümne esimesel novembril",
+    "ru": "двадцать первого ноября"
+  },
+  {
+    "file": "22.11_kahekümne_teisel_novembril.mp3",
+    "number": "22.11",
+    "et": "kahekümne teisel novembril",
+    "ru": "двадцать второго ноября"
+  },
+  {
+    "file": "23.11_kahekümne_kolmandal_novembril.mp3",
+    "number": "23.11",
+    "et": "kahekümne kolmandal novembril",
+    "ru": "двадцать третьего ноября"
+  },
+  {
+    "file": "24.11_kahekümne_neljandal_novembril.mp3",
+    "number": "24.11",
+    "et": "kahekümne neljandal novembril",
+    "ru": "двадцать четвёртого ноября"
+  },
+  {
+    "file": "25.11_kahekümne_viiendal_novembril.mp3",
+    "number": "25.11",
+    "et": "kahekümne viiendal novembril",
+    "ru": "двадцать пятого ноября"
+  },
+  {
+    "file": "26.11_kahekümne_kuuendal_novembril.mp3",
+    "number": "26.11",
+    "et": "kahekümne kuuendal novembril",
+    "ru": "двадцать шестого ноября"
+  },
+  {
+    "file": "27.11_kahekümne_seitsmendal_novembril.mp3",
+    "number": "27.11",
+    "et": "kahekümne seitsmendal novembril",
+    "ru": "двадцать седьмого ноября"
+  },
+  {
+    "file": "28.11_kahekümne_kaheksandal_novembril.mp3",
+    "number": "28.11",
+    "et": "kahekümne kaheksandal novembril",
+    "ru": "двадцать восьмого ноября"
+  },
+  {
+    "file": "29.11_kahekümne_üheksandal_novembril.mp3",
+    "number": "29.11",
+    "et": "kahekümne üheksandal novembril",
+    "ru": "двадцать девятого ноября"
+  },
+  {
+    "file": "30.11_kolmekümnendal_novembril.mp3",
+    "number": "30.11",
+    "et": "kolmekümnendal novembril",
+    "ru": "тридцатого ноября"
+  },
+  {
+    "file": "01.12_esimesel_detsembril.mp3",
+    "number": "01.12",
+    "et": "esimesel detsembril",
+    "ru": "первого декабря"
+  },
+  {
+    "file": "02.12_teisel_detsembril.mp3",
+    "number": "02.12",
+    "et": "teisel detsembril",
+    "ru": "второго декабря"
+  },
+  {
+    "file": "03.12_kolmandal_detsembril.mp3",
+    "number": "03.12",
+    "et": "kolmandal detsembril",
+    "ru": "третьего декабря"
+  },
+  {
+    "file": "04.12_neljandal_detsembril.mp3",
+    "number": "04.12",
+    "et": "neljandal detsembril",
+    "ru": "четвёртого декабря"
+  },
+  {
+    "file": "05.12_viiendal_detsembril.mp3",
+    "number": "05.12",
+    "et": "viiendal detsembril",
+    "ru": "пятого декабря"
+  },
+  {
+    "file": "06.12_kuuendal_detsembril.mp3",
+    "number": "06.12",
+    "et": "kuuendal detsembril",
+    "ru": "шестого декабря"
+  },
+  {
+    "file": "07.12_seitsmendal_detsembril.mp3",
+    "number": "07.12",
+    "et": "seitsmendal detsembril",
+    "ru": "седьмого декабря"
+  },
+  {
+    "file": "08.12_kaheksandal_detsembril.mp3",
+    "number": "08.12",
+    "et": "kaheksandal detsembril",
+    "ru": "восьмого декабря"
+  },
+  {
+    "file": "09.12_üheksandal_detsembril.mp3",
+    "number": "09.12",
+    "et": "üheksandal detsembril",
+    "ru": "девятого декабря"
+  },
+  {
+    "file": "10.12_kümnendal_detsembril.mp3",
+    "number": "10.12",
+    "et": "kümnendal detsembril",
+    "ru": "десятого декабря"
+  },
+  {
+    "file": "11.12_üheteistkümnendal_detsembril.mp3",
+    "number": "11.12",
+    "et": "üheteistkümnendal detsembril",
+    "ru": "одиннадцатого декабря"
+  },
+  {
+    "file": "12.12_kaheteistkümnendal_detsembril.mp3",
+    "number": "12.12",
+    "et": "kaheteistkümnendal detsembril",
+    "ru": "двенадцатого декабря"
+  },
+  {
+    "file": "13.12_kolmeteistkümnendal_detsembril.mp3",
+    "number": "13.12",
+    "et": "kolmeteistkümnendal detsembril",
+    "ru": "тринадцатого декабря"
+  },
+  {
+    "file": "14.12_neljateistkümnendal_detsembril.mp3",
+    "number": "14.12",
+    "et": "neljateistkümnendal detsembril",
+    "ru": "четырнадцатого декабря"
+  },
+  {
+    "file": "15.12_viieteistkümnendal_detsembril.mp3",
+    "number": "15.12",
+    "et": "viieteistkümnendal detsembril",
+    "ru": "пятнадцатого декабря"
+  },
+  {
+    "file": "16.12_kuueteistkümnendal_detsembril.mp3",
+    "number": "16.12",
+    "et": "kuueteistkümnendal detsembril",
+    "ru": "шестнадцатого декабря"
+  },
+  {
+    "file": "17.12_seitsmeteistkümnendal_detsembril.mp3",
+    "number": "17.12",
+    "et": "seitsmeteistkümnendal detsembril",
+    "ru": "семнадцатого декабря"
+  },
+  {
+    "file": "18.12_kaheksateistkümnendal_detsembril.mp3",
+    "number": "18.12",
+    "et": "kaheksateistkümnendal detsembril",
+    "ru": "восемнадцатого декабря"
+  },
+  {
+    "file": "19.12_üheksateistkümnendal_detsembril.mp3",
+    "number": "19.12",
+    "et": "üheksateistkümnendal detsembril",
+    "ru": "девятнадцатого декабря"
+  },
+  {
+    "file": "20.12_kahekümnendal_detsembril.mp3",
+    "number": "20.12",
+    "et": "kahekümnendal detsembril",
+    "ru": "двадцатого декабря"
+  },
+  {
+    "file": "21.12_kahekümne_esimesel_detsembril.mp3",
+    "number": "21.12",
+    "et": "kahekümne esimesel detsembril",
+    "ru": "двадцать первого декабря"
+  },
+  {
+    "file": "22.12_kahekümne_teisel_detsembril.mp3",
+    "number": "22.12",
+    "et": "kahekümne teisel detsembril",
+    "ru": "двадцать второго декабря"
+  },
+  {
+    "file": "23.12_kahekümne_kolmandal_detsembril.mp3",
+    "number": "23.12",
+    "et": "kahekümne kolmandal detsembril",
+    "ru": "двадцать третьего декабря"
+  },
+  {
+    "file": "24.12_kahekümne_neljandal_detsembril.mp3",
+    "number": "24.12",
+    "et": "kahekümne neljandal detsembril",
+    "ru": "двадцать четвёртого декабря"
+  },
+  {
+    "file": "25.12_kahekümne_viiendal_detsembril.mp3",
+    "number": "25.12",
+    "et": "kahekümne viiendal detsembril",
+    "ru": "двадцать пятого декабря"
+  },
+  {
+    "file": "26.12_kahekümne_kuuendal_detsembril.mp3",
+    "number": "26.12",
+    "et": "kahekümne kuuendal detsembril",
+    "ru": "двадцать шестого декабря"
+  },
+  {
+    "file": "27.12_kahekümne_seitsmendal_detsembril.mp3",
+    "number": "27.12",
+    "et": "kahekümne seitsmendal detsembril",
+    "ru": "двадцать седьмого декабря"
+  },
+  {
+    "file": "28.12_kahekümne_kaheksandal_detsembril.mp3",
+    "number": "28.12",
+    "et": "kahekümne kaheksandal detsembril",
+    "ru": "двадцать восьмого декабря"
+  },
+  {
+    "file": "29.12_kahekümne_üheksandal_detsembril.mp3",
+    "number": "29.12",
+    "et": "kahekümne üheksandal detsembril",
+    "ru": "двадцать девятого декабря"
+  },
+  {
+    "file": "30.12_kolmekümnendal_detsembril.mp3",
+    "number": "30.12",
+    "et": "kolmekümnendal detsembril",
+    "ru": "тридцатого декабря"
+  },
+  {
+    "file": "31.12_kolmekümne_esimesel_detsembril.mp3",
+    "number": "31.12",
+    "et": "kolmekümne esimesel detsembril",
+    "ru": "тридцать первого декабря"
+  }
+]
