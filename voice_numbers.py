@@ -12,12 +12,12 @@ PAUSE_SECONDS = 0.5   # seconds of silence between ET and RU in the output (afte
 parser = argparse.ArgumentParser()
 parser.add_argument("--limit",   type=int, default=None, metavar="N",
                     help="generate only the first N items per group (useful for testing)")
-parser.add_argument("--lang",    choices=["both", "et", "ru"], default="both",
-                    help="generate both languages (default), ET only, or RU only")
+parser.add_argument("--lang",    choices=["et-ru", "ru-et", "et", "ru", "both"], default="et-ru",
+                    help="language mode: 'et-ru' (ET then RU), 'ru-et' (RU then ET), 'et', or 'ru' (default: 'et-ru')")
 args = parser.parse_args()
 
 LIMIT = args.limit
-LANG    = args.lang
+LANG  = "et-ru" if args.lang == "both" else args.lang
 
 OUTPUT_DIR = "output"
 
@@ -189,8 +189,8 @@ def ru_ordinal_genitive(n):
 #           output/et-ru/dates/02.03_teine_märts.mp3
 # Parsing:  number = everything before the first "_", ET text = the rest with "_" → " ".
 # Each category folder also gets an index.json with {file, number, et, ru} per item.
-LANG_DIR = {"both": "et-ru", "et": "et", "ru": "ru"}[LANG]
-LEGACY_SUFFIX = "" if LANG == "both" else f"_{LANG}"
+LANG_DIR = LANG
+LEGACY_SUFFIX = "" if LANG == "et-ru" else f"_{LANG}"
 
 index = {}   # category → list of entries for index.json
 
@@ -238,15 +238,28 @@ def _generate_single(et_text, ru_text, output_path, i=None, total=None):
     if os.path.exists(output_path):
         print(f"{label}(skipped) {os.path.basename(output_path)}")
         return
-    label_text = et_text if LANG == "et" else ru_text if LANG == "ru" else f"{et_text} / {ru_text}"
+    if LANG == "et":
+        label_text = et_text
+    elif LANG == "ru":
+        label_text = ru_text
+    elif LANG == "ru-et":
+        label_text = f"{ru_text} / {et_text}"
+    else:
+        label_text = f"{et_text} / {ru_text}"
     print(f"{label}{label_text}")
     with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
         tmp_path = tmp.name
-        if LANG in ("both", "et"):
+        if LANG == "et":
             tmp.write(tts_bytes(et_text, 'et'))
-        if LANG == "both":
+        elif LANG == "ru":
+            tmp.write(tts_bytes(ru_text, 'ru'))
+        elif LANG == "ru-et":
+            tmp.write(tts_bytes(ru_text, 'ru'))
             tmp.write(silence_bytes(PAUSE_SECONDS * SPEED))
-        if LANG in ("both", "ru"):
+            tmp.write(tts_bytes(et_text, 'et'))
+        else:  # et-ru
+            tmp.write(tts_bytes(et_text, 'et'))
+            tmp.write(silence_bytes(PAUSE_SECONDS * SPEED))
             tmp.write(tts_bytes(ru_text, 'ru'))
     apply_speed(tmp_path, output_path, SPEED)
     os.unlink(tmp_path)
