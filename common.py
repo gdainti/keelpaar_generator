@@ -10,12 +10,16 @@ NORMAL = 1.0
 FAST   = 1.5
 
 
-def tts_bytes(text, lang, retries=5, backoff=5):
+TTS_DELAY = 0.3   # seconds to wait after each TTS request to avoid rate limits
+
+
+def tts_bytes(text, lang, delay=TTS_DELAY, retries=5, backoff=5):
     for attempt in range(retries):
         try:
             buf = io.BytesIO()
             gTTS(text=text, lang=lang, slow=False).write_to_fp(buf)
-            time.sleep(1.5)   # pause to avoid rate limiting
+            if delay > 0:
+                time.sleep(delay)
             return buf.getvalue()
         except Exception:
             if attempt == retries - 1:
