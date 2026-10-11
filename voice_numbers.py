@@ -1,5 +1,5 @@
 from num2words import num2words
-from common import SLOW, NORMAL, FAST, tts_bytes, apply_speed, silence_bytes
+from common import SLOW, NORMAL, FAST, speech_bytes, apply_speed, silence_bytes, add_engine_args
 import argparse
 import tempfile
 import os
@@ -14,9 +14,12 @@ parser.add_argument("--limit",   type=int, default=None, metavar="N",
                     help="generate only the first N items per group (useful for testing)")
 parser.add_argument("--lang",    choices=["et-ru", "ru-et", "et", "ru", "both"], default="et-ru",
                     help="language mode: 'et-ru' (ET then RU), 'ru-et' (RU then ET), 'et', or 'ru' (default: 'et-ru')")
+add_engine_args(parser)
 args = parser.parse_args()
 
 LIMIT = args.limit
+ENGINE = args.engine
+VOICE  = args.voice
 LANG  = "et-ru" if args.lang == "both" else args.lang
 
 OUTPUT_DIR = "output"
@@ -189,7 +192,8 @@ def ru_ordinal_genitive(n):
 #           output/et-ru/dates/02.03_teine_märts.mp3
 # Parsing:  number = everything before the first "_", ET text = the rest with "_" → " ".
 # Each category folder also gets an index.json with {file, number, et, ru} per item.
-LANG_DIR = LANG
+# Neurokõne output goes to its own folder per voice, e.g. output/et-ru_neurokone_mari/
+LANG_DIR = LANG if ENGINE == "google" or LANG == "ru" else f"{LANG}_{ENGINE}_{VOICE}"
 LEGACY_SUFFIX = "" if LANG == "et-ru" else f"_{LANG}"
 
 index = {}   # category → list of entries for index.json
@@ -219,7 +223,7 @@ def generate_batch(items, category):
         filename = make_filename(it["number"], it["et"])
         output_path = os.path.join(out_dir, filename)
         legacy_path = os.path.join(OUTPUT_DIR, f"{it['legacy']}{LEGACY_SUFFIX}.mp3")
-        if not os.path.exists(output_path) and os.path.exists(legacy_path):
+        if LANG_DIR == LANG and not os.path.exists(output_path) and os.path.exists(legacy_path):
             os.replace(legacy_path, output_path)   # reuse previously generated audio
         _generate_single(it["et_speech"], it["ru_speech"], output_path, i, total)
         index.setdefault(category, []).append(
@@ -247,20 +251,23 @@ def _generate_single(et_text, ru_text, output_path, i=None, total=None):
     else:
         label_text = f"{et_text} / {ru_text}"
     print(f"{label}{label_text}")
+    def speak(text, lang):
+        return speech_bytes(text, lang, ENGINE, VOICE)
+
     with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
         tmp_path = tmp.name
         if LANG == "et":
-            tmp.write(tts_bytes(et_text, 'et'))
+            tmp.write(speak(et_text, 'et'))
         elif LANG == "ru":
-            tmp.write(tts_bytes(ru_text, 'ru'))
+            tmp.write(speak(ru_text, 'ru'))
         elif LANG == "ru-et":
-            tmp.write(tts_bytes(ru_text, 'ru'))
+            tmp.write(speak(ru_text, 'ru'))
             tmp.write(silence_bytes(PAUSE_SECONDS * SPEED))
-            tmp.write(tts_bytes(et_text, 'et'))
+            tmp.write(speak(et_text, 'et'))
         else:  # et-ru
-            tmp.write(tts_bytes(et_text, 'et'))
+            tmp.write(speak(et_text, 'et'))
             tmp.write(silence_bytes(PAUSE_SECONDS * SPEED))
-            tmp.write(tts_bytes(ru_text, 'ru'))
+            tmp.write(speak(ru_text, 'ru'))
     apply_speed(tmp_path, output_path, SPEED)
     os.unlink(tmp_path)
 
