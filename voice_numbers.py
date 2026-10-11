@@ -125,7 +125,7 @@ def et_ordinal(n):
     if 1_000_000 <= n <= 999_999_999:
         millions, rest = divmod(n, 1_000_000)
         if rest == 0:
-            return "miljones" if millions == 1 else f"{et_cardinal_genitive(millions)} miljonis"
+            return "miljones" if millions == 1 else f"{et_cardinal_genitive(millions)} miljones"
         prefix = "miljoni" if millions == 1 else f"{et_cardinal_genitive(millions)} miljoni"
         return f"{prefix} {et_ordinal(rest)}"
     return str(n)
