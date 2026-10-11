@@ -1,5 +1,5 @@
 venv/
 .venv/
-output/
+#output/
 __pycache__/
 *.pyc
