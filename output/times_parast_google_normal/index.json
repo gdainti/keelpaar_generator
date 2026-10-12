@@ -1,0 +1,1442 @@
+[
+  {
+    "file": "00_00.mp3",
+    "time": "00:00",
+    "text": "kell null"
+  },
+  {
+    "file": "00_05.mp3",
+    "time": "00:05",
+    "text": "viis minutit üle nulli"
+  },
+  {
+    "file": "00_10.mp3",
+    "time": "00:10",
+    "text": "kümme minutit üle nulli"
+  },
+  {
+    "file": "00_15.mp3",
+    "time": "00:15",
+    "text": "veerand üks"
+  },
+  {
+    "file": "00_20.mp3",
+    "time": "00:20",
+    "text": "kümme minutit enne pool üks"
+  },
+  {
+    "file": "00_25.mp3",
+    "time": "00:25",
+    "text": "viis minutit enne pool üks"
+  },
+  {
+    "file": "00_30.mp3",
+    "time": "00:30",
+    "text": "pool üks"
+  },
+  {
+    "file": "00_35.mp3",
+    "time": "00:35",
+    "text": "viis minutit pärast pool üks"
+  },
+  {
+    "file": "00_40.mp3",
+    "time": "00:40",
+    "text": "kümme minutit pärast pool üks"
+  },
+  {
+    "file": "00_45.mp3",
+    "time": "00:45",
+    "text": "kolmveerand üks"
+  },
+  {
+    "file": "00_50.mp3",
+    "time": "00:50",
+    "text": "kümme minutit üheni"
+  },
+  {
+    "file": "00_55.mp3",
+    "time": "00:55",
+    "text": "viis minutit üheni"
+  },
+  {
+    "file": "01_00.mp3",
+    "time": "01:00",
+    "text": "kell üks"
+  },
+  {
+    "file": "01_05.mp3",
+    "time": "01:05",
+    "text": "viis minutit üle ühe"
+  },
+  {
+    "file": "01_10.mp3",
+    "time": "01:10",
+    "text": "kümme minutit üle ühe"
+  },
+  {
+    "file": "01_15.mp3",
+    "time": "01:15",
+    "text": "veerand kaks"
+  },
+  {
+    "file": "01_20.mp3",
+    "time": "01:20",
+    "text": "kümme minutit enne pool kaks"
+  },
+  {
+    "file": "01_25.mp3",
+    "time": "01:25",
+    "text": "viis minutit enne pool kaks"
+  },
+  {
+    "file": "01_30.mp3",
+    "time": "01:30",
+    "text": "pool kaks"
+  },
+  {
+    "file": "01_35.mp3",
+    "time": "01:35",
+    "text": "viis minutit pärast pool kaks"
+  },
+  {
+    "file": "01_40.mp3",
+    "time": "01:40",
+    "text": "kümme minutit pärast pool kaks"
+  },
+  {
+    "file": "01_45.mp3",
+    "time": "01:45",
+    "text": "kolmveerand kaks"
+  },
+  {
+    "file": "01_50.mp3",
+    "time": "01:50",
+    "text": "kümme minutit kaheni"
+  },
+  {
+    "file": "01_55.mp3",
+    "time": "01:55",
+    "text": "viis minutit kaheni"
+  },
+  {
+    "file": "02_00.mp3",
+    "time": "02:00",
+    "text": "kell kaks"
+  },
+  {
+    "file": "02_05.mp3",
+    "time": "02:05",
+    "text": "viis minutit üle kahe"
+  },
+  {
+    "file": "02_10.mp3",
+    "time": "02:10",
+    "text": "kümme minutit üle kahe"
+  },
+  {
+    "file": "02_15.mp3",
+    "time": "02:15",
+    "text": "veerand kolm"
+  },
+  {
+    "file": "02_20.mp3",
+    "time": "02:20",
+    "text": "kümme minutit enne pool kolm"
+  },
+  {
+    "file": "02_25.mp3",
+    "time": "02:25",
+    "text": "viis minutit enne pool kolm"
+  },
+  {
+    "file": "02_30.mp3",
+    "time": "02:30",
+    "text": "pool kolm"
+  },
+  {
+    "file": "02_35.mp3",
+    "time": "02:35",
+    "text": "viis minutit pärast pool kolm"
+  },
+  {
+    "file": "02_40.mp3",
+    "time": "02:40",
+    "text": "kümme minutit pärast pool kolm"
+  },
+  {
+    "file": "02_45.mp3",
+    "time": "02:45",
+    "text": "kolmveerand kolm"
+  },
+  {
+    "file": "02_50.mp3",
+    "time": "02:50",
+    "text": "kümme minutit kolmeni"
+  },
+  {
+    "file": "02_55.mp3",
+    "time": "02:55",
+    "text": "viis minutit kolmeni"
+  },
+  {
+    "file": "03_00.mp3",
+    "time": "03:00",
+    "text": "kell kolm"
+  },
+  {
+    "file": "03_05.mp3",
+    "time": "03:05",
+    "text": "viis minutit üle kolme"
+  },
+  {
+    "file": "03_10.mp3",
+    "time": "03:10",
+    "text": "kümme minutit üle kolme"
+  },
+  {
+    "file": "03_15.mp3",
+    "time": "03:15",
+    "text": "veerand neli"
+  },
+  {
+    "file": "03_20.mp3",
+    "time": "03:20",
+    "text": "kümme minutit enne pool neli"
+  },
+  {
+    "file": "03_25.mp3",
+    "time": "03:25",
+    "text": "viis minutit enne pool neli"
+  },
+  {
+    "file": "03_30.mp3",
+    "time": "03:30",
+    "text": "pool neli"
+  },
+  {
+    "file": "03_35.mp3",
+    "time": "03:35",
+    "text": "viis minutit pärast pool neli"
+  },
+  {
+    "file": "03_40.mp3",
+    "time": "03:40",
+    "text": "kümme minutit pärast pool neli"
+  },
+  {
+    "file": "03_45.mp3",
+    "time": "03:45",
+    "text": "kolmveerand neli"
+  },
+  {
+    "file": "03_50.mp3",
+    "time": "03:50",
+    "text": "kümme minutit neljani"
+  },
+  {
+    "file": "03_55.mp3",
+    "time": "03:55",
+    "text": "viis minutit neljani"
+  },
+  {
+    "file": "04_00.mp3",
+    "time": "04:00",
+    "text": "kell neli"
+  },
+  {
+    "file": "04_05.mp3",
+    "time": "04:05",
+    "text": "viis minutit üle nelja"
+  },
+  {
+    "file": "04_10.mp3",
+    "time": "04:10",
+    "text": "kümme minutit üle nelja"
+  },
+  {
+    "file": "04_15.mp3",
+    "time": "04:15",
+    "text": "veerand viis"
+  },
+  {
+    "file": "04_20.mp3",
+    "time": "04:20",
+    "text": "kümme minutit enne pool viis"
+  },
+  {
+    "file": "04_25.mp3",
+    "time": "04:25",
+    "text": "viis minutit enne pool viis"
+  },
+  {
+    "file": "04_30.mp3",
+    "time": "04:30",
+    "text": "pool viis"
+  },
+  {
+    "file": "04_35.mp3",
+    "time": "04:35",
+    "text": "viis minutit pärast pool viis"
+  },
+  {
+    "file": "04_40.mp3",
+    "time": "04:40",
+    "text": "kümme minutit pärast pool viis"
+  },
+  {
+    "file": "04_45.mp3",
+    "time": "04:45",
+    "text": "kolmveerand viis"
+  },
+  {
+    "file": "04_50.mp3",
+    "time": "04:50",
+    "text": "kümme minutit viieni"
+  },
+  {
+    "file": "04_55.mp3",
+    "time": "04:55",
+    "text": "viis minutit viieni"
+  },
+  {
+    "file": "05_00.mp3",
+    "time": "05:00",
+    "text": "kell viis"
+  },
+  {
+    "file": "05_05.mp3",
+    "time": "05:05",
+    "text": "viis minutit üle viie"
+  },
+  {
+    "file": "05_10.mp3",
+    "time": "05:10",
+    "text": "kümme minutit üle viie"
+  },
+  {
+    "file": "05_15.mp3",
+    "time": "05:15",
+    "text": "veerand kuus"
+  },
+  {
+    "file": "05_20.mp3",
+    "time": "05:20",
+    "text": "kümme minutit enne pool kuus"
+  },
+  {
+    "file": "05_25.mp3",
+    "time": "05:25",
+    "text": "viis minutit enne pool kuus"
+  },
+  {
+    "file": "05_30.mp3",
+    "time": "05:30",
+    "text": "pool kuus"
+  },
+  {
+    "file": "05_35.mp3",
+    "time": "05:35",
+    "text": "viis minutit pärast pool kuus"
+  },
+  {
+    "file": "05_40.mp3",
+    "time": "05:40",
+    "text": "kümme minutit pärast pool kuus"
+  },
+  {
+    "file": "05_45.mp3",
+    "time": "05:45",
+    "text": "kolmveerand kuus"
+  },
+  {
+    "file": "05_50.mp3",
+    "time": "05:50",
+    "text": "kümme minutit kuueni"
+  },
+  {
+    "file": "05_55.mp3",
+    "time": "05:55",
+    "text": "viis minutit kuueni"
+  },
+  {
+    "file": "06_00.mp3",
+    "time": "06:00",
+    "text": "kell kuus"
+  },
+  {
+    "file": "06_05.mp3",
+    "time": "06:05",
+    "text": "viis minutit üle kuue"
+  },
+  {
+    "file": "06_10.mp3",
+    "time": "06:10",
+    "text": "kümme minutit üle kuue"
+  },
+  {
+    "file": "06_15.mp3",
+    "time": "06:15",
+    "text": "veerand seitse"
+  },
+  {
+    "file": "06_20.mp3",
+    "time": "06:20",
+    "text": "kümme minutit enne pool seitse"
+  },
+  {
+    "file": "06_25.mp3",
+    "time": "06:25",
+    "text": "viis minutit enne pool seitse"
+  },
+  {
+    "file": "06_30.mp3",
+    "time": "06:30",
+    "text": "pool seitse"
+  },
+  {
+    "file": "06_35.mp3",
+    "time": "06:35",
+    "text": "viis minutit pärast pool seitse"
+  },
+  {
+    "file": "06_40.mp3",
+    "time": "06:40",
+    "text": "kümme minutit pärast pool seitse"
+  },
+  {
+    "file": "06_45.mp3",
+    "time": "06:45",
+    "text": "kolmveerand seitse"
+  },
+  {
+    "file": "06_50.mp3",
+    "time": "06:50",
+    "text": "kümme minutit seitsmeni"
+  },
+  {
+    "file": "06_55.mp3",
+    "time": "06:55",
+    "text": "viis minutit seitsmeni"
+  },
+  {
+    "file": "07_00.mp3",
+    "time": "07:00",
+    "text": "kell seitse"
+  },
+  {
+    "file": "07_05.mp3",
+    "time": "07:05",
+    "text": "viis minutit üle seitsme"
+  },
+  {
+    "file": "07_10.mp3",
+    "time": "07:10",
+    "text": "kümme minutit üle seitsme"
+  },
+  {
+    "file": "07_15.mp3",
+    "time": "07:15",
+    "text": "veerand kaheksa"
+  },
+  {
+    "file": "07_20.mp3",
+    "time": "07:20",
+    "text": "kümme minutit enne pool kaheksa"
+  },
+  {
+    "file": "07_25.mp3",
+    "time": "07:25",
+    "text": "viis minutit enne pool kaheksa"
+  },
+  {
+    "file": "07_30.mp3",
+    "time": "07:30",
+    "text": "pool kaheksa"
+  },
+  {
+    "file": "07_35.mp3",
+    "time": "07:35",
+    "text": "viis minutit pärast pool kaheksa"
+  },
+  {
+    "file": "07_40.mp3",
+    "time": "07:40",
+    "text": "kümme minutit pärast pool kaheksa"
+  },
+  {
+    "file": "07_45.mp3",
+    "time": "07:45",
+    "text": "kolmveerand kaheksa"
+  },
+  {
+    "file": "07_50.mp3",
+    "time": "07:50",
+    "text": "kümme minutit kaheksani"
+  },
+  {
+    "file": "07_55.mp3",
+    "time": "07:55",
+    "text": "viis minutit kaheksani"
+  },
+  {
+    "file": "08_00.mp3",
+    "time": "08:00",
+    "text": "kell kaheksa"
+  },
+  {
+    "file": "08_05.mp3",
+    "time": "08:05",
+    "text": "viis minutit üle kaheksa"
+  },
+  {
+    "file": "08_10.mp3",
+    "time": "08:10",
+    "text": "kümme minutit üle kaheksa"
+  },
+  {
+    "file": "08_15.mp3",
+    "time": "08:15",
+    "text": "veerand üheksa"
+  },
+  {
+    "file": "08_20.mp3",
+    "time": "08:20",
+    "text": "kümme minutit enne pool üheksa"
+  },
+  {
+    "file": "08_25.mp3",
+    "time": "08:25",
+    "text": "viis minutit enne pool üheksa"
+  },
+  {
+    "file": "08_30.mp3",
+    "time": "08:30",
+    "text": "pool üheksa"
+  },
+  {
+    "file": "08_35.mp3",
+    "time": "08:35",
+    "text": "viis minutit pärast pool üheksa"
+  },
+  {
+    "file": "08_40.mp3",
+    "time": "08:40",
+    "text": "kümme minutit pärast pool üheksa"
+  },
+  {
+    "file": "08_45.mp3",
+    "time": "08:45",
+    "text": "kolmveerand üheksa"
+  },
+  {
+    "file": "08_50.mp3",
+    "time": "08:50",
+    "text": "kümme minutit üheksani"
+  },
+  {
+    "file": "08_55.mp3",
+    "time": "08:55",
+    "text": "viis minutit üheksani"
+  },
+  {
+    "file": "09_00.mp3",
+    "time": "09:00",
+    "text": "kell üheksa"
+  },
+  {
+    "file": "09_05.mp3",
+    "time": "09:05",
+    "text": "viis minutit üle üheksa"
+  },
+  {
+    "file": "09_10.mp3",
+    "time": "09:10",
+    "text": "kümme minutit üle üheksa"
+  },
+  {
+    "file": "09_15.mp3",
+    "time": "09:15",
+    "text": "veerand kümme"
+  },
+  {
+    "file": "09_20.mp3",
+    "time": "09:20",
+    "text": "kümme minutit enne pool kümme"
+  },
+  {
+    "file": "09_25.mp3",
+    "time": "09:25",
+    "text": "viis minutit enne pool kümme"
+  },
+  {
+    "file": "09_30.mp3",
+    "time": "09:30",
+    "text": "pool kümme"
+  },
+  {
+    "file": "09_35.mp3",
+    "time": "09:35",
+    "text": "viis minutit pärast pool kümme"
+  },
+  {
+    "file": "09_40.mp3",
+    "time": "09:40",
+    "text": "kümme minutit pärast pool kümme"
+  },
+  {
+    "file": "09_45.mp3",
+    "time": "09:45",
+    "text": "kolmveerand kümme"
+  },
+  {
+    "file": "09_50.mp3",
+    "time": "09:50",
+    "text": "kümme minutit kümneni"
+  },
+  {
+    "file": "09_55.mp3",
+    "time": "09:55",
+    "text": "viis minutit kümneni"
+  },
+  {
+    "file": "10_00.mp3",
+    "time": "10:00",
+    "text": "kell kümme"
+  },
+  {
+    "file": "10_05.mp3",
+    "time": "10:05",
+    "text": "viis minutit üle kümne"
+  },
+  {
+    "file": "10_10.mp3",
+    "time": "10:10",
+    "text": "kümme minutit üle kümne"
+  },
+  {
+    "file": "10_15.mp3",
+    "time": "10:15",
+    "text": "veerand üksteist"
+  },
+  {
+    "file": "10_20.mp3",
+    "time": "10:20",
+    "text": "kümme minutit enne pool üksteist"
+  },
+  {
+    "file": "10_25.mp3",
+    "time": "10:25",
+    "text": "viis minutit enne pool üksteist"
+  },
+  {
+    "file": "10_30.mp3",
+    "time": "10:30",
+    "text": "pool üksteist"
+  },
+  {
+    "file": "10_35.mp3",
+    "time": "10:35",
+    "text": "viis minutit pärast pool üksteist"
+  },
+  {
+    "file": "10_40.mp3",
+    "time": "10:40",
+    "text": "kümme minutit pärast pool üksteist"
+  },
+  {
+    "file": "10_45.mp3",
+    "time": "10:45",
+    "text": "kolmveerand üksteist"
+  },
+  {
+    "file": "10_50.mp3",
+    "time": "10:50",
+    "text": "kümme minutit üheteistkümneni"
+  },
+  {
+    "file": "10_55.mp3",
+    "time": "10:55",
+    "text": "viis minutit üheteistkümneni"
+  },
+  {
+    "file": "11_00.mp3",
+    "time": "11:00",
+    "text": "kell üksteist"
+  },
+  {
+    "file": "11_05.mp3",
+    "time": "11:05",
+    "text": "viis minutit üle üheteistkümne"
+  },
+  {
+    "file": "11_10.mp3",
+    "time": "11:10",
+    "text": "kümme minutit üle üheteistkümne"
+  },
+  {
+    "file": "11_15.mp3",
+    "time": "11:15",
+    "text": "veerand kaksteist"
+  },
+  {
+    "file": "11_20.mp3",
+    "time": "11:20",
+    "text": "kümme minutit enne pool kaksteist"
+  },
+  {
+    "file": "11_25.mp3",
+    "time": "11:25",
+    "text": "viis minutit enne pool kaksteist"
+  },
+  {
+    "file": "11_30.mp3",
+    "time": "11:30",
+    "text": "pool kaksteist"
+  },
+  {
+    "file": "11_35.mp3",
+    "time": "11:35",
+    "text": "viis minutit pärast pool kaksteist"
+  },
+  {
+    "file": "11_40.mp3",
+    "time": "11:40",
+    "text": "kümme minutit pärast pool kaksteist"
+  },
+  {
+    "file": "11_45.mp3",
+    "time": "11:45",
+    "text": "kolmveerand kaksteist"
+  },
+  {
+    "file": "11_50.mp3",
+    "time": "11:50",
+    "text": "kümme minutit kaheteistkümneni"
+  },
+  {
+    "file": "11_55.mp3",
+    "time": "11:55",
+    "text": "viis minutit kaheteistkümneni"
+  },
+  {
+    "file": "12_00.mp3",
+    "time": "12:00",
+    "text": "kell kaksteist"
+  },
+  {
+    "file": "12_05.mp3",
+    "time": "12:05",
+    "text": "viis minutit üle kaheteistkümne"
+  },
+  {
+    "file": "12_10.mp3",
+    "time": "12:10",
+    "text": "kümme minutit üle kaheteistkümne"
+  },
+  {
+    "file": "12_15.mp3",
+    "time": "12:15",
+    "text": "veerand kolmteist"
+  },
+  {
+    "file": "12_20.mp3",
+    "time": "12:20",
+    "text": "kümme minutit enne pool kolmteist"
+  },
+  {
+    "file": "12_25.mp3",
+    "time": "12:25",
+    "text": "viis minutit enne pool kolmteist"
+  },
+  {
+    "file": "12_30.mp3",
+    "time": "12:30",
+    "text": "pool kolmteist"
+  },
+  {
+    "file": "12_35.mp3",
+    "time": "12:35",
+    "text": "viis minutit pärast pool kolmteist"
+  },
+  {
+    "file": "12_40.mp3",
+    "time": "12:40",
+    "text": "kümme minutit pärast pool kolmteist"
+  },
+  {
+    "file": "12_45.mp3",
+    "time": "12:45",
+    "text": "kolmveerand kolmteist"
+  },
+  {
+    "file": "12_50.mp3",
+    "time": "12:50",
+    "text": "kümme minutit kolmeteistkümneni"
+  },
+  {
+    "file": "12_55.mp3",
+    "time": "12:55",
+    "text": "viis minutit kolmeteistkümneni"
+  },
+  {
+    "file": "13_00.mp3",
+    "time": "13:00",
+    "text": "kell kolmteist"
+  },
+  {
+    "file": "13_05.mp3",
+    "time": "13:05",
+    "text": "viis minutit üle kolmeteistkümne"
+  },
+  {
+    "file": "13_10.mp3",
+    "time": "13:10",
+    "text": "kümme minutit üle kolmeteistkümne"
+  },
+  {
+    "file": "13_15.mp3",
+    "time": "13:15",
+    "text": "veerand neliteist"
+  },
+  {
+    "file": "13_20.mp3",
+    "time": "13:20",
+    "text": "kümme minutit enne pool neliteist"
+  },
+  {
+    "file": "13_25.mp3",
+    "time": "13:25",
+    "text": "viis minutit enne pool neliteist"
+  },
+  {
+    "file": "13_30.mp3",
+    "time": "13:30",
+    "text": "pool neliteist"
+  },
+  {
+    "file": "13_35.mp3",
+    "time": "13:35",
+    "text": "viis minutit pärast pool neliteist"
+  },
+  {
+    "file": "13_40.mp3",
+    "time": "13:40",
+    "text": "kümme minutit pärast pool neliteist"
+  },
+  {
+    "file": "13_45.mp3",
+    "time": "13:45",
+    "text": "kolmveerand neliteist"
+  },
+  {
+    "file": "13_50.mp3",
+    "time": "13:50",
+    "text": "kümme minutit neljateistkümneni"
+  },
+  {
+    "file": "13_55.mp3",
+    "time": "13:55",
+    "text": "viis minutit neljateistkümneni"
+  },
+  {
+    "file": "14_00.mp3",
+    "time": "14:00",
+    "text": "kell neliteist"
+  },
+  {
+    "file": "14_05.mp3",
+    "time": "14:05",
+    "text": "viis minutit üle neljateistkümne"
+  },
+  {
+    "file": "14_10.mp3",
+    "time": "14:10",
+    "text": "kümme minutit üle neljateistkümne"
+  },
+  {
+    "file": "14_15.mp3",
+    "time": "14:15",
+    "text": "veerand viisteist"
+  },
+  {
+    "file": "14_20.mp3",
+    "time": "14:20",
+    "text": "kümme minutit enne pool viisteist"
+  },
+  {
+    "file": "14_25.mp3",
+    "time": "14:25",
+    "text": "viis minutit enne pool viisteist"
+  },
+  {
+    "file": "14_30.mp3",
+    "time": "14:30",
+    "text": "pool viisteist"
+  },
+  {
+    "file": "14_35.mp3",
+    "time": "14:35",
+    "text": "viis minutit pärast pool viisteist"
+  },
+  {
+    "file": "14_40.mp3",
+    "time": "14:40",
+    "text": "kümme minutit pärast pool viisteist"
+  },
+  {
+    "file": "14_45.mp3",
+    "time": "14:45",
+    "text": "kolmveerand viisteist"
+  },
+  {
+    "file": "14_50.mp3",
+    "time": "14:50",
+    "text": "kümme minutit viieteistkümneni"
+  },
+  {
+    "file": "14_55.mp3",
+    "time": "14:55",
+    "text": "viis minutit viieteistkümneni"
+  },
+  {
+    "file": "15_00.mp3",
+    "time": "15:00",
+    "text": "kell viisteist"
+  },
+  {
+    "file": "15_05.mp3",
+    "time": "15:05",
+    "text": "viis minutit üle viieteistkümne"
+  },
+  {
+    "file": "15_10.mp3",
+    "time": "15:10",
+    "text": "kümme minutit üle viieteistkümne"
+  },
+  {
+    "file": "15_15.mp3",
+    "time": "15:15",
+    "text": "veerand kuusteist"
+  },
+  {
+    "file": "15_20.mp3",
+    "time": "15:20",
+    "text": "kümme minutit enne pool kuusteist"
+  },
+  {
+    "file": "15_25.mp3",
+    "time": "15:25",
+    "text": "viis minutit enne pool kuusteist"
+  },
+  {
+    "file": "15_30.mp3",
+    "time": "15:30",
+    "text": "pool kuusteist"
+  },
+  {
+    "file": "15_35.mp3",
+    "time": "15:35",
+    "text": "viis minutit pärast pool kuusteist"
+  },
+  {
+    "file": "15_40.mp3",
+    "time": "15:40",
+    "text": "kümme minutit pärast pool kuusteist"
+  },
+  {
+    "file": "15_45.mp3",
+    "time": "15:45",
+    "text": "kolmveerand kuusteist"
+  },
+  {
+    "file": "15_50.mp3",
+    "time": "15:50",
+    "text": "kümme minutit kuueteistkümneni"
+  },
+  {
+    "file": "15_55.mp3",
+    "time": "15:55",
+    "text": "viis minutit kuueteistkümneni"
+  },
+  {
+    "file": "16_00.mp3",
+    "time": "16:00",
+    "text": "kell kuusteist"
+  },
+  {
+    "file": "16_05.mp3",
+    "time": "16:05",
+    "text": "viis minutit üle kuueteistkümne"
+  },
+  {
+    "file": "16_10.mp3",
+    "time": "16:10",
+    "text": "kümme minutit üle kuueteistkümne"
+  },
+  {
+    "file": "16_15.mp3",
+    "time": "16:15",
+    "text": "veerand seitseteist"
+  },
+  {
+    "file": "16_20.mp3",
+    "time": "16:20",
+    "text": "kümme minutit enne pool seitseteist"
+  },
+  {
+    "file": "16_25.mp3",
+    "time": "16:25",
+    "text": "viis minutit enne pool seitseteist"
+  },
+  {
+    "file": "16_30.mp3",
+    "time": "16:30",
+    "text": "pool seitseteist"
+  },
+  {
+    "file": "16_35.mp3",
+    "time": "16:35",
+    "text": "viis minutit pärast pool seitseteist"
+  },
+  {
+    "file": "16_40.mp3",
+    "time": "16:40",
+    "text": "kümme minutit pärast pool seitseteist"
+  },
+  {
+    "file": "16_45.mp3",
+    "time": "16:45",
+    "text": "kolmveerand seitseteist"
+  },
+  {
+    "file": "16_50.mp3",
+    "time": "16:50",
+    "text": "kümme minutit seitsmeteistkümneni"
+  },
+  {
+    "file": "16_55.mp3",
+    "time": "16:55",
+    "text": "viis minutit seitsmeteistkümneni"
+  },
+  {
+    "file": "17_00.mp3",
+    "time": "17:00",
+    "text": "kell seitseteist"
+  },
+  {
+    "file": "17_05.mp3",
+    "time": "17:05",
+    "text": "viis minutit üle seitsmeteistkümne"
+  },
+  {
+    "file": "17_10.mp3",
+    "time": "17:10",
+    "text": "kümme minutit üle seitsmeteistkümne"
+  },
+  {
+    "file": "17_15.mp3",
+    "time": "17:15",
+    "text": "veerand kaheksateist"
+  },
+  {
+    "file": "17_20.mp3",
+    "time": "17:20",
+    "text": "kümme minutit enne pool kaheksateist"
+  },
+  {
+    "file": "17_25.mp3",
+    "time": "17:25",
+    "text": "viis minutit enne pool kaheksateist"
+  },
+  {
+    "file": "17_30.mp3",
+    "time": "17:30",
+    "text": "pool kaheksateist"
+  },
+  {
+    "file": "17_35.mp3",
+    "time": "17:35",
+    "text": "viis minutit pärast pool kaheksateist"
+  },
+  {
+    "file": "17_40.mp3",
+    "time": "17:40",
+    "text": "kümme minutit pärast pool kaheksateist"
+  },
+  {
+    "file": "17_45.mp3",
+    "time": "17:45",
+    "text": "kolmveerand kaheksateist"
+  },
+  {
+    "file": "17_50.mp3",
+    "time": "17:50",
+    "text": "kümme minutit kaheksateistkümneni"
+  },
+  {
+    "file": "17_55.mp3",
+    "time": "17:55",
+    "text": "viis minutit kaheksateistkümneni"
+  },
+  {
+    "file": "18_00.mp3",
+    "time": "18:00",
+    "text": "kell kaheksateist"
+  },
+  {
+    "file": "18_05.mp3",
+    "time": "18:05",
+    "text": "viis minutit üle kaheksateistkümne"
+  },
+  {
+    "file": "18_10.mp3",
+    "time": "18:10",
+    "text": "kümme minutit üle kaheksateistkümne"
+  },
+  {
+    "file": "18_15.mp3",
+    "time": "18:15",
+    "text": "veerand üheksateist"
+  },
+  {
+    "file": "18_20.mp3",
+    "time": "18:20",
+    "text": "kümme minutit enne pool üheksateist"
+  },
+  {
+    "file": "18_25.mp3",
+    "time": "18:25",
+    "text": "viis minutit enne pool üheksateist"
+  },
+  {
+    "file": "18_30.mp3",
+    "time": "18:30",
+    "text": "pool üheksateist"
+  },
+  {
+    "file": "18_35.mp3",
+    "time": "18:35",
+    "text": "viis minutit pärast pool üheksateist"
+  },
+  {
+    "file": "18_40.mp3",
+    "time": "18:40",
+    "text": "kümme minutit pärast pool üheksateist"
+  },
+  {
+    "file": "18_45.mp3",
+    "time": "18:45",
+    "text": "kolmveerand üheksateist"
+  },
+  {
+    "file": "18_50.mp3",
+    "time": "18:50",
+    "text": "kümme minutit üheksateistkümneni"
+  },
+  {
+    "file": "18_55.mp3",
+    "time": "18:55",
+    "text": "viis minutit üheksateistkümneni"
+  },
+  {
+    "file": "19_00.mp3",
+    "time": "19:00",
+    "text": "kell üheksateist"
+  },
+  {
+    "file": "19_05.mp3",
+    "time": "19:05",
+    "text": "viis minutit üle üheksateistkümne"
+  },
+  {
+    "file": "19_10.mp3",
+    "time": "19:10",
+    "text": "kümme minutit üle üheksateistkümne"
+  },
+  {
+    "file": "19_15.mp3",
+    "time": "19:15",
+    "text": "veerand kakskümmend"
+  },
+  {
+    "file": "19_20.mp3",
+    "time": "19:20",
+    "text": "kümme minutit enne pool kakskümmend"
+  },
+  {
+    "file": "19_25.mp3",
+    "time": "19:25",
+    "text": "viis minutit enne pool kakskümmend"
+  },
+  {
+    "file": "19_30.mp3",
+    "time": "19:30",
+    "text": "pool kakskümmend"
+  },
+  {
+    "file": "19_35.mp3",
+    "time": "19:35",
+    "text": "viis minutit pärast pool kakskümmend"
+  },
+  {
+    "file": "19_40.mp3",
+    "time": "19:40",
+    "text": "kümme minutit pärast pool kakskümmend"
+  },
+  {
+    "file": "19_45.mp3",
+    "time": "19:45",
+    "text": "kolmveerand kakskümmend"
+  },
+  {
+    "file": "19_50.mp3",
+    "time": "19:50",
+    "text": "kümme minutit kahekümneni"
+  },
+  {
+    "file": "19_55.mp3",
+    "time": "19:55",
+    "text": "viis minutit kahekümneni"
+  },
+  {
+    "file": "20_00.mp3",
+    "time": "20:00",
+    "text": "kell kakskümmend"
+  },
+  {
+    "file": "20_05.mp3",
+    "time": "20:05",
+    "text": "viis minutit üle kahekümne"
+  },
+  {
+    "file": "20_10.mp3",
+    "time": "20:10",
+    "text": "kümme minutit üle kahekümne"
+  },
+  {
+    "file": "20_15.mp3",
+    "time": "20:15",
+    "text": "veerand kakskümmend üks"
+  },
+  {
+    "file": "20_20.mp3",
+    "time": "20:20",
+    "text": "kümme minutit enne pool kakskümmend üks"
+  },
+  {
+    "file": "20_25.mp3",
+    "time": "20:25",
+    "text": "viis minutit enne pool kakskümmend üks"
+  },
+  {
+    "file": "20_30.mp3",
+    "time": "20:30",
+    "text": "pool kakskümmend üks"
+  },
+  {
+    "file": "20_35.mp3",
+    "time": "20:35",
+    "text": "viis minutit pärast pool kakskümmend üks"
+  },
+  {
+    "file": "20_40.mp3",
+    "time": "20:40",
+    "text": "kümme minutit pärast pool kakskümmend üks"
+  },
+  {
+    "file": "20_45.mp3",
+    "time": "20:45",
+    "text": "kolmveerand kakskümmend üks"
+  },
+  {
+    "file": "20_50.mp3",
+    "time": "20:50",
+    "text": "kümme minutit kahekümne üheni"
+  },
+  {
+    "file": "20_55.mp3",
+    "time": "20:55",
+    "text": "viis minutit kahekümne üheni"
+  },
+  {
+    "file": "21_00.mp3",
+    "time": "21:00",
+    "text": "kell kakskümmend üks"
+  },
+  {
+    "file": "21_05.mp3",
+    "time": "21:05",
+    "text": "viis minutit üle kahekümne ühe"
+  },
+  {
+    "file": "21_10.mp3",
+    "time": "21:10",
+    "text": "kümme minutit üle kahekümne ühe"
+  },
+  {
+    "file": "21_15.mp3",
+    "time": "21:15",
+    "text": "veerand kakskümmend kaks"
+  },
+  {
+    "file": "21_20.mp3",
+    "time": "21:20",
+    "text": "kümme minutit enne pool kakskümmend kaks"
+  },
+  {
+    "file": "21_25.mp3",
+    "time": "21:25",
+    "text": "viis minutit enne pool kakskümmend kaks"
+  },
+  {
+    "file": "21_30.mp3",
+    "time": "21:30",
+    "text": "pool kakskümmend kaks"
+  },
+  {
+    "file": "21_35.mp3",
+    "time": "21:35",
+    "text": "viis minutit pärast pool kakskümmend kaks"
+  },
+  {
+    "file": "21_40.mp3",
+    "time": "21:40",
+    "text": "kümme minutit pärast pool kakskümmend kaks"
+  },
+  {
+    "file": "21_45.mp3",
+    "time": "21:45",
+    "text": "kolmveerand kakskümmend kaks"
+  },
+  {
+    "file": "21_50.mp3",
+    "time": "21:50",
+    "text": "kümme minutit kahekümne kaheni"
+  },
+  {
+    "file": "21_55.mp3",
+    "time": "21:55",
+    "text": "viis minutit kahekümne kaheni"
+  },
+  {
+    "file": "22_00.mp3",
+    "time": "22:00",
+    "text": "kell kakskümmend kaks"
+  },
+  {
+    "file": "22_05.mp3",
+    "time": "22:05",
+    "text": "viis minutit üle kahekümne kahe"
+  },
+  {
+    "file": "22_10.mp3",
+    "time": "22:10",
+    "text": "kümme minutit üle kahekümne kahe"
+  },
+  {
+    "file": "22_15.mp3",
+    "time": "22:15",
+    "text": "veerand kakskümmend kolm"
+  },
+  {
+    "file": "22_20.mp3",
+    "time": "22:20",
+    "text": "kümme minutit enne pool kakskümmend kolm"
+  },
+  {
+    "file": "22_25.mp3",
+    "time": "22:25",
+    "text": "viis minutit enne pool kakskümmend kolm"
+  },
+  {
+    "file": "22_30.mp3",
+    "time": "22:30",
+    "text": "pool kakskümmend kolm"
+  },
+  {
+    "file": "22_35.mp3",
+    "time": "22:35",
+    "text": "viis minutit pärast pool kakskümmend kolm"
+  },
+  {
+    "file": "22_40.mp3",
+    "time": "22:40",
+    "text": "kümme minutit pärast pool kakskümmend kolm"
+  },
+  {
+    "file": "22_45.mp3",
+    "time": "22:45",
+    "text": "kolmveerand kakskümmend kolm"
+  },
+  {
+    "file": "22_50.mp3",
+    "time": "22:50",
+    "text": "kümme minutit kahekümne kolmeni"
+  },
+  {
+    "file": "22_55.mp3",
+    "time": "22:55",
+    "text": "viis minutit kahekümne kolmeni"
+  },
+  {
+    "file": "23_00.mp3",
+    "time": "23:00",
+    "text": "kell kakskümmend kolm"
+  },
+  {
+    "file": "23_05.mp3",
+    "time": "23:05",
+    "text": "viis minutit üle kahekümne kolme"
+  },
+  {
+    "file": "23_10.mp3",
+    "time": "23:10",
+    "text": "kümme minutit üle kahekümne kolme"
+  },
+  {
+    "file": "23_15.mp3",
+    "time": "23:15",
+    "text": "veerand null"
+  },
+  {
+    "file": "23_20.mp3",
+    "time": "23:20",
+    "text": "kümme minutit enne pool null"
+  },
+  {
+    "file": "23_25.mp3",
+    "time": "23:25",
+    "text": "viis minutit enne pool null"
+  },
+  {
+    "file": "23_30.mp3",
+    "time": "23:30",
+    "text": "pool null"
+  },
+  {
+    "file": "23_35.mp3",
+    "time": "23:35",
+    "text": "viis minutit pärast pool null"
+  },
+  {
+    "file": "23_40.mp3",
+    "time": "23:40",
+    "text": "kümme minutit pärast pool null"
+  },
+  {
+    "file": "23_45.mp3",
+    "time": "23:45",
+    "text": "kolmveerand null"
+  },
+  {
+    "file": "23_50.mp3",
+    "time": "23:50",
+    "text": "kümme minutit nullini"
+  },
+  {
+    "file": "23_55.mp3",
+    "time": "23:55",
+    "text": "viis minutit nullini"
+  }
+]

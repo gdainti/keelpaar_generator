@@ -7,51 +7,46 @@ import json
 import unicodedata
 
 SPEED = FAST
-PAUSE_SECONDS = 0.5   # seconds of silence between ET and RU in the output (after speed is applied)
+PAUSE_SECONDS = 0.5   # silence between ET and RU in combined files (before speed is applied)
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--limit",   type=int, default=None, metavar="N",
+parser.add_argument("--limit", type=int, default=None, metavar="N",
                     help="generate only the first N items per group (useful for testing)")
-parser.add_argument("--lang",    choices=["et-ru", "ru-et", "et", "ru", "both"], default="et-ru",
-                    help="language mode: 'et-ru' (ET then RU), 'ru-et' (RU then ET), 'et', or 'ru' (default: 'et-ru')")
+parser.add_argument("--combined", action="store_true",
+                    help="also generate ET+gap+RU audio in <category>/et-ru/")
+parser.add_argument("--langs", default="et,ru",
+                    help="comma-separated languages to generate: et, ru, en (default: et,ru)")
 add_engine_args(parser)
 args = parser.parse_args()
 
-LIMIT = args.limit
-ENGINE = args.engine
-VOICE  = args.voice
-LANG  = "et-ru" if args.lang == "both" else args.lang
+LIMIT    = args.limit
+ENGINE   = args.engine
+VOICE    = args.voice
+COMBINED = args.combined
+LANGS    = set(args.langs.split(","))
 
 OUTPUT_DIR = "output"
 
 MONTHS = [
-    # (days, ET nominative,  ET adessive,    RU genitive)
-    (31, "jaanuar",   "jaanuaril",  "января"),
-    (28, "veebruar",  "veebruaril", "февраля"),
-    (31, "märts",     "märtsil",    "марта"),
-    (30, "aprill",    "aprillil",   "апреля"),
-    (31, "mai",       "mail",       "мая"),
-    (30, "juuni",     "juunil",     "июня"),
-    (31, "juuli",     "juulil",     "июля"),
-    (31, "august",    "augustil",   "августа"),
-    (30, "september", "septembril", "сентября"),
-    (31, "oktoober",  "oktoobril",  "октября"),
-    (30, "november",  "novembril",  "ноября"),
-    (31, "detsember", "detsembril", "декабря"),
+    # (days, ET nominative,  ET adessive,    RU genitive,  EN nominative)
+    (31, "jaanuar",   "jaanuaril",  "января",    "January"),
+    (28, "veebruar",  "veebruaril", "февраля",   "February"),
+    (31, "märts",     "märtsil",    "марта",     "March"),
+    (30, "aprill",    "aprillil",   "апреля",    "April"),
+    (31, "mai",       "mail",       "мая",       "May"),
+    (30, "juuni",     "juunil",     "июня",      "June"),
+    (31, "juuli",     "juulil",     "июля",      "July"),
+    (31, "august",    "augustil",   "августа",   "August"),
+    (30, "september", "septembril", "сентября",  "September"),
+    (31, "oktoober",  "oktoobril",  "октября",   "October"),
+    (30, "november",  "novembril",  "ноября",    "November"),
+    (31, "detsember", "detsembril", "декабря",   "December"),
 ]
 
 # --- number lists ---
-cardinals = (
-    list(range(1, 101)) +
-    [1000, 10000, 100000, 1000000] +
-    list(range(1980, 2031))
-)
+cardinals = list(range(0, 3001))
 
-ordinals = (
-    list(range(1, 101)) +
-    [1000, 10000, 100000, 1000000] +
-    list(range(1980, 2031))
-)
+ordinals = list(range(1, 3001))  # ordinals start from 1; there is no "zeroth" in Estonian
 
 
 # --- Estonian ordinal helpers ---
@@ -187,119 +182,137 @@ def ru_ordinal_genitive(n):
     return ' '.join(words)
 
 # --- generation ---
-# Layout:   output/<lang>/<category>/<number>_<estonian_text>.mp3
-#   e.g.    output/et-ru/cardinals/21_kakskümmend_üks.mp3
-#           output/et-ru/dates/02.03_teine_märts.mp3
-# Parsing:  number = everything before the first "_", ET text = the rest with "_" → " ".
-# Each category folder also gets an index.json with {file, number, et, ru} per item.
-# Neurokõne output goes to its own folder per voice, e.g. output/et-ru_neurokone_mari/
-LANG_DIR = LANG if ENGINE == "google" or LANG == "ru" else f"{LANG}_{ENGINE}_{VOICE}"
-LEGACY_SUFFIX = "" if LANG == "et-ru" else f"_{LANG}"
+# Layout:   output/<category>/<lang>/<number>.mp3  one folder per generated language
+#           output/<category>/et-ru/<number>.mp3   combined ET+gap+RU (--combined flag)
+# Metadata: output/<category>/index.json  always includes et, ru, en text fields
+# Neurokõne: BASE_DIR becomes output/neurokone_<voice>/ (ET only; other langs use google)
+BASE_DIR = OUTPUT_DIR if ENGINE == "google" else os.path.join(OUTPUT_DIR, f"neurokone_{VOICE}")
 
 index = {}   # category → list of entries for index.json
 
 
-def make_filename(number, et_text):
-    text = unicodedata.normalize("NFC", et_text).strip().replace("/", "-")
-    return f"{number}_{'_'.join(text.split())}.mp3"
+def make_filename(number):
+    return f"{number}.mp3"
 
 
-def item(number, et_text, ru_text, legacy_name, et_speech=None, ru_speech=None):
-    """number: the answer as shown in the filename ("21", "02.03").
-    et_text / ru_text: written words. *_speech: what TTS reads (defaults to the text).
-    legacy_name: old flat filename (without suffix/extension) for migrating existing files."""
-    return dict(number=number, et=et_text, ru=ru_text, legacy=legacy_name,
-                et_speech=et_speech or et_text, ru_speech=ru_speech or ru_text)
+def item(number, et_text, ru_text, en_text, et_speech=None, ru_speech=None, en_speech=None):
+    """number: the answer key ("21", "02.03").
+    *_text: written words shown in UI. *_speech: what TTS reads (defaults to the text)."""
+    return dict(number=number, et=et_text, ru=ru_text, en=en_text,
+                et_speech=et_speech or et_text,
+                ru_speech=ru_speech or ru_text,
+                en_speech=en_speech or en_text)
 
 
 def generate_batch(items, category):
     if LIMIT is not None:
         items = items[:LIMIT]
 
-    out_dir = os.path.join(OUTPUT_DIR, LANG_DIR, category)
-    os.makedirs(out_dir, exist_ok=True)
+    lang_dirs = {}
+    for lang in LANGS:
+        d = os.path.join(BASE_DIR, category, lang)
+        os.makedirs(d, exist_ok=True)
+        lang_dirs[lang] = d
+    if COMBINED:
+        combined_dir = os.path.join(BASE_DIR, category, "et-ru")
+        os.makedirs(combined_dir, exist_ok=True)
+
     total = len(items)
     for i, it in enumerate(items, 1):
-        filename = make_filename(it["number"], it["et"])
-        output_path = os.path.join(out_dir, filename)
-        legacy_path = os.path.join(OUTPUT_DIR, f"{it['legacy']}{LEGACY_SUFFIX}.mp3")
-        if LANG_DIR == LANG and not os.path.exists(output_path) and os.path.exists(legacy_path):
-            os.replace(legacy_path, output_path)   # reuse previously generated audio
-        _generate_single(it["et_speech"], it["ru_speech"], output_path, i, total)
+        filename = make_filename(it["number"])
+
+        for lang, d in lang_dirs.items():
+            _generate_lang(it[f"{lang}_speech"], lang, os.path.join(d, filename),
+                           it[lang], i, total)
+        if COMBINED:
+            combined_path = os.path.join(combined_dir, filename)
+            old = os.path.join(BASE_DIR, category, filename)
+            if not os.path.exists(combined_path) and os.path.exists(old):
+                os.replace(old, combined_path)
+            _generate_combined(it["et_speech"], it["ru_speech"],
+                               it["et"], it["ru"], combined_path, i, total)
+
         index.setdefault(category, []).append(
-            {"file": filename, "number": it["number"], "et": it["et"], "ru": it["ru"]})
+            {"file": filename, "number": it["number"],
+             "et": it["et"], "ru": it["ru"], "en": it["en"]})
 
 
 def write_indexes():
     for category, entries in index.items():
-        path = os.path.join(OUTPUT_DIR, LANG_DIR, category, "index.json")
+        path = os.path.join(BASE_DIR, category, "index.json")
         with open(path, "w", encoding="utf-8") as f:
             json.dump(entries, f, ensure_ascii=False, indent=2)
 
 
-def _generate_single(et_text, ru_text, output_path, i=None, total=None):
-    label = f"  {i}/{total}: " if i is not None else "  "
+def _generate_lang(speech_text, lang, output_path, display_text, i, total):
+    label = f"  {i}/{total} {lang.upper()}: "
     if os.path.exists(output_path):
         print(f"{label}(skipped) {os.path.basename(output_path)}")
         return
-    if LANG == "et":
-        label_text = et_text
-    elif LANG == "ru":
-        label_text = ru_text
-    elif LANG == "ru-et":
-        label_text = f"{ru_text} / {et_text}"
-    else:
-        label_text = f"{et_text} / {ru_text}"
-    print(f"{label}{label_text}")
-    def speak(text, lang):
-        return speech_bytes(text, lang, ENGINE, VOICE)
-
+    print(f"{label}{display_text}")
     with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
         tmp_path = tmp.name
-        if LANG == "et":
-            tmp.write(speak(et_text, 'et'))
-        elif LANG == "ru":
-            tmp.write(speak(ru_text, 'ru'))
-        elif LANG == "ru-et":
-            tmp.write(speak(ru_text, 'ru'))
-            tmp.write(silence_bytes(PAUSE_SECONDS * SPEED))
-            tmp.write(speak(et_text, 'et'))
-        else:  # et-ru
-            tmp.write(speak(et_text, 'et'))
-            tmp.write(silence_bytes(PAUSE_SECONDS * SPEED))
-            tmp.write(speak(ru_text, 'ru'))
-    apply_speed(tmp_path, output_path, SPEED)
-    os.unlink(tmp_path)
+        tmp.write(speech_bytes(speech_text, lang, ENGINE, VOICE))
+    if ENGINE == "google":
+        apply_speed(tmp_path, output_path, SPEED)
+        os.unlink(tmp_path)
+    else:
+        os.replace(tmp_path, output_path)
+
+
+def _generate_combined(et_speech, ru_speech, et_display, ru_display, output_path, i, total):
+    label = f"  {i}/{total} ET+RU: "
+    if os.path.exists(output_path):
+        print(f"{label}(skipped) {os.path.basename(output_path)}")
+        return
+    print(f"{label}{et_display} / {ru_display}")
+    with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
+        tmp_path = tmp.name
+        tmp.write(speech_bytes(et_speech, 'et', ENGINE, VOICE))
+        tmp.write(silence_bytes(PAUSE_SECONDS * SPEED))
+        tmp.write(speech_bytes(ru_speech, 'ru', ENGINE, VOICE))
+    if ENGINE == "google":
+        apply_speed(tmp_path, output_path, SPEED)
+        os.unlink(tmp_path)
+    else:
+        os.replace(tmp_path, output_path)
 
 
 print("Generating cardinals...")
 generate_batch(
-    # TTS still reads the digits (as before); filename/index get the written words
-    [item(str(n), et_cardinal(n), num2words(n, lang='ru'), f"cardinal_{n}",
-          et_speech=str(n), ru_speech=str(n)) for n in cardinals],
+    # TTS reads digits; index gets the written words
+    [item(str(n), et_cardinal(n), num2words(n, lang='ru'), num2words(n, lang='en'),
+          et_speech=str(n), ru_speech=str(n), en_speech=str(n)) for n in cardinals],
     category="cardinals",
 )
 
 print("Generating ordinals...")
 generate_batch(
-    [item(str(n), et_ordinal(n), num2words(n, lang='ru', to='ordinal'), f"ordinal_{n}")
+    [item(str(n), et_ordinal(n), num2words(n, lang='ru', to='ordinal'),
+          num2words(n, lang='en', to='ordinal'))
      for n in ordinals],
     category="ordinals",
 )
 
-for i, (days, et_nom, et_ade, ru_gen) in enumerate(MONTHS, 1):
+for i, (days, et_nom, et_ade, ru_gen, en_nom) in enumerate(MONTHS, 1):
     key = f"{i:02d}"
     date_nums = list(range(1, days + 1))
 
     print(f"Generating dates — {et_nom} ({days} days)...")
     generate_batch(
-        [item(f"{n:02d}.{key}", f"{et_ordinal(n)} {et_nom}", f"{ru_ordinal_neuter(n)} {ru_gen}",
-              f"date_{key}_{n}") for n in date_nums],
+        [item(f"{n:02d}.{key}",
+              f"{et_ordinal(n)} {et_nom}",
+              f"{ru_ordinal_neuter(n)} {ru_gen}",
+              f"{num2words(n, lang='en', to='ordinal')} of {en_nom}")
+         for n in date_nums],
         category="dates",
     )
     generate_batch(
-        [item(f"{n:02d}.{key}", f"{et_adessive_ordinal(n)} {et_ade}", f"{ru_ordinal_genitive(n)} {ru_gen}",
-              f"date_on_{key}_{n}") for n in date_nums],
+        [item(f"{n:02d}.{key}",
+              f"{et_adessive_ordinal(n)} {et_ade}",
+              f"{ru_ordinal_genitive(n)} {ru_gen}",
+              f"on the {num2words(n, lang='en', to='ordinal')} of {en_nom}")
+         for n in date_nums],
         category="dates_on",
     )
 

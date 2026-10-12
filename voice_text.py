@@ -4,7 +4,7 @@ import argparse
 TEXT   = ""        # "tere maailm"
 OUTPUT = ""        # "output/hello.mp3"
 LANG   = "et"
-SPEED  = FAST
+SPEED  = NORMAL
 ENGINE = "google"  # "google" or "neurokone"
 VOICE  = "mari"    # Neurokõne voice (Estonian only)
 
@@ -13,8 +13,8 @@ if not TEXT or not OUTPUT:
     parser.add_argument("text",  help="Text to speak")
     parser.add_argument("output", help="Output MP3 file path")
     parser.add_argument("--lang",  default=LANG,  help=f"Language code (default: {LANG})")
-    parser.add_argument("--speed", default=SPEED, type=float,
-                        help=f"Speed — SLOW={SLOW}, NORMAL={NORMAL}, FAST={FAST} (default: {SPEED})")
+    parser.add_argument("--google-speed", default=SPEED, type=float, dest="speed",
+                        help=f"Google TTS ffmpeg speed — SLOW={SLOW}, NORMAL={NORMAL}, FAST={FAST} (default: {SPEED})")
     add_engine_args(parser)
     args = parser.parse_args()
     TEXT   = args.text

@@ -1,0 +1,1442 @@
+[
+  {
+    "file": "00_00.mp3",
+    "time": "00:00",
+    "text": "kell null"
+  },
+  {
+    "file": "00_05.mp3",
+    "time": "00:05",
+    "text": "kell null viis"
+  },
+  {
+    "file": "00_10.mp3",
+    "time": "00:10",
+    "text": "kell null kümme"
+  },
+  {
+    "file": "00_15.mp3",
+    "time": "00:15",
+    "text": "kell null viisteist"
+  },
+  {
+    "file": "00_20.mp3",
+    "time": "00:20",
+    "text": "kell null kakskümmend"
+  },
+  {
+    "file": "00_25.mp3",
+    "time": "00:25",
+    "text": "kell null kakskümmend viis"
+  },
+  {
+    "file": "00_30.mp3",
+    "time": "00:30",
+    "text": "kell null kolmkümmend"
+  },
+  {
+    "file": "00_35.mp3",
+    "time": "00:35",
+    "text": "kell null kolmkümmend viis"
+  },
+  {
+    "file": "00_40.mp3",
+    "time": "00:40",
+    "text": "kell null nelikümmend"
+  },
+  {
+    "file": "00_45.mp3",
+    "time": "00:45",
+    "text": "kell null nelikümmend viis"
+  },
+  {
+    "file": "00_50.mp3",
+    "time": "00:50",
+    "text": "kell null viiskümmend"
+  },
+  {
+    "file": "00_55.mp3",
+    "time": "00:55",
+    "text": "kell null viiskümmend viis"
+  },
+  {
+    "file": "01_00.mp3",
+    "time": "01:00",
+    "text": "kell üks"
+  },
+  {
+    "file": "01_05.mp3",
+    "time": "01:05",
+    "text": "kell üks viis"
+  },
+  {
+    "file": "01_10.mp3",
+    "time": "01:10",
+    "text": "kell üks kümme"
+  },
+  {
+    "file": "01_15.mp3",
+    "time": "01:15",
+    "text": "kell üks viisteist"
+  },
+  {
+    "file": "01_20.mp3",
+    "time": "01:20",
+    "text": "kell üks kakskümmend"
+  },
+  {
+    "file": "01_25.mp3",
+    "time": "01:25",
+    "text": "kell üks kakskümmend viis"
+  },
+  {
+    "file": "01_30.mp3",
+    "time": "01:30",
+    "text": "kell üks kolmkümmend"
+  },
+  {
+    "file": "01_35.mp3",
+    "time": "01:35",
+    "text": "kell üks kolmkümmend viis"
+  },
+  {
+    "file": "01_40.mp3",
+    "time": "01:40",
+    "text": "kell üks nelikümmend"
+  },
+  {
+    "file": "01_45.mp3",
+    "time": "01:45",
+    "text": "kell üks nelikümmend viis"
+  },
+  {
+    "file": "01_50.mp3",
+    "time": "01:50",
+    "text": "kell üks viiskümmend"
+  },
+  {
+    "file": "01_55.mp3",
+    "time": "01:55",
+    "text": "kell üks viiskümmend viis"
+  },
+  {
+    "file": "02_00.mp3",
+    "time": "02:00",
+    "text": "kell kaks"
+  },
+  {
+    "file": "02_05.mp3",
+    "time": "02:05",
+    "text": "kell kaks viis"
+  },
+  {
+    "file": "02_10.mp3",
+    "time": "02:10",
+    "text": "kell kaks kümme"
+  },
+  {
+    "file": "02_15.mp3",
+    "time": "02:15",
+    "text": "kell kaks viisteist"
+  },
+  {
+    "file": "02_20.mp3",
+    "time": "02:20",
+    "text": "kell kaks kakskümmend"
+  },
+  {
+    "file": "02_25.mp3",
+    "time": "02:25",
+    "text": "kell kaks kakskümmend viis"
+  },
+  {
+    "file": "02_30.mp3",
+    "time": "02:30",
+    "text": "kell kaks kolmkümmend"
+  },
+  {
+    "file": "02_35.mp3",
+    "time": "02:35",
+    "text": "kell kaks kolmkümmend viis"
+  },
+  {
+    "file": "02_40.mp3",
+    "time": "02:40",
+    "text": "kell kaks nelikümmend"
+  },
+  {
+    "file": "02_45.mp3",
+    "time": "02:45",
+    "text": "kell kaks nelikümmend viis"
+  },
+  {
+    "file": "02_50.mp3",
+    "time": "02:50",
+    "text": "kell kaks viiskümmend"
+  },
+  {
+    "file": "02_55.mp3",
+    "time": "02:55",
+    "text": "kell kaks viiskümmend viis"
+  },
+  {
+    "file": "03_00.mp3",
+    "time": "03:00",
+    "text": "kell kolm"
+  },
+  {
+    "file": "03_05.mp3",
+    "time": "03:05",
+    "text": "kell kolm viis"
+  },
+  {
+    "file": "03_10.mp3",
+    "time": "03:10",
+    "text": "kell kolm kümme"
+  },
+  {
+    "file": "03_15.mp3",
+    "time": "03:15",
+    "text": "kell kolm viisteist"
+  },
+  {
+    "file": "03_20.mp3",
+    "time": "03:20",
+    "text": "kell kolm kakskümmend"
+  },
+  {
+    "file": "03_25.mp3",
+    "time": "03:25",
+    "text": "kell kolm kakskümmend viis"
+  },
+  {
+    "file": "03_30.mp3",
+    "time": "03:30",
+    "text": "kell kolm kolmkümmend"
+  },
+  {
+    "file": "03_35.mp3",
+    "time": "03:35",
+    "text": "kell kolm kolmkümmend viis"
+  },
+  {
+    "file": "03_40.mp3",
+    "time": "03:40",
+    "text": "kell kolm nelikümmend"
+  },
+  {
+    "file": "03_45.mp3",
+    "time": "03:45",
+    "text": "kell kolm nelikümmend viis"
+  },
+  {
+    "file": "03_50.mp3",
+    "time": "03:50",
+    "text": "kell kolm viiskümmend"
+  },
+  {
+    "file": "03_55.mp3",
+    "time": "03:55",
+    "text": "kell kolm viiskümmend viis"
+  },
+  {
+    "file": "04_00.mp3",
+    "time": "04:00",
+    "text": "kell neli"
+  },
+  {
+    "file": "04_05.mp3",
+    "time": "04:05",
+    "text": "kell neli viis"
+  },
+  {
+    "file": "04_10.mp3",
+    "time": "04:10",
+    "text": "kell neli kümme"
+  },
+  {
+    "file": "04_15.mp3",
+    "time": "04:15",
+    "text": "kell neli viisteist"
+  },
+  {
+    "file": "04_20.mp3",
+    "time": "04:20",
+    "text": "kell neli kakskümmend"
+  },
+  {
+    "file": "04_25.mp3",
+    "time": "04:25",
+    "text": "kell neli kakskümmend viis"
+  },
+  {
+    "file": "04_30.mp3",
+    "time": "04:30",
+    "text": "kell neli kolmkümmend"
+  },
+  {
+    "file": "04_35.mp3",
+    "time": "04:35",
+    "text": "kell neli kolmkümmend viis"
+  },
+  {
+    "file": "04_40.mp3",
+    "time": "04:40",
+    "text": "kell neli nelikümmend"
+  },
+  {
+    "file": "04_45.mp3",
+    "time": "04:45",
+    "text": "kell neli nelikümmend viis"
+  },
+  {
+    "file": "04_50.mp3",
+    "time": "04:50",
+    "text": "kell neli viiskümmend"
+  },
+  {
+    "file": "04_55.mp3",
+    "time": "04:55",
+    "text": "kell neli viiskümmend viis"
+  },
+  {
+    "file": "05_00.mp3",
+    "time": "05:00",
+    "text": "kell viis"
+  },
+  {
+    "file": "05_05.mp3",
+    "time": "05:05",
+    "text": "kell viis viis"
+  },
+  {
+    "file": "05_10.mp3",
+    "time": "05:10",
+    "text": "kell viis kümme"
+  },
+  {
+    "file": "05_15.mp3",
+    "time": "05:15",
+    "text": "kell viis viisteist"
+  },
+  {
+    "file": "05_20.mp3",
+    "time": "05:20",
+    "text": "kell viis kakskümmend"
+  },
+  {
+    "file": "05_25.mp3",
+    "time": "05:25",
+    "text": "kell viis kakskümmend viis"
+  },
+  {
+    "file": "05_30.mp3",
+    "time": "05:30",
+    "text": "kell viis kolmkümmend"
+  },
+  {
+    "file": "05_35.mp3",
+    "time": "05:35",
+    "text": "kell viis kolmkümmend viis"
+  },
+  {
+    "file": "05_40.mp3",
+    "time": "05:40",
+    "text": "kell viis nelikümmend"
+  },
+  {
+    "file": "05_45.mp3",
+    "time": "05:45",
+    "text": "kell viis nelikümmend viis"
+  },
+  {
+    "file": "05_50.mp3",
+    "time": "05:50",
+    "text": "kell viis viiskümmend"
+  },
+  {
+    "file": "05_55.mp3",
+    "time": "05:55",
+    "text": "kell viis viiskümmend viis"
+  },
+  {
+    "file": "06_00.mp3",
+    "time": "06:00",
+    "text": "kell kuus"
+  },
+  {
+    "file": "06_05.mp3",
+    "time": "06:05",
+    "text": "kell kuus viis"
+  },
+  {
+    "file": "06_10.mp3",
+    "time": "06:10",
+    "text": "kell kuus kümme"
+  },
+  {
+    "file": "06_15.mp3",
+    "time": "06:15",
+    "text": "kell kuus viisteist"
+  },
+  {
+    "file": "06_20.mp3",
+    "time": "06:20",
+    "text": "kell kuus kakskümmend"
+  },
+  {
+    "file": "06_25.mp3",
+    "time": "06:25",
+    "text": "kell kuus kakskümmend viis"
+  },
+  {
+    "file": "06_30.mp3",
+    "time": "06:30",
+    "text": "kell kuus kolmkümmend"
+  },
+  {
+    "file": "06_35.mp3",
+    "time": "06:35",
+    "text": "kell kuus kolmkümmend viis"
+  },
+  {
+    "file": "06_40.mp3",
+    "time": "06:40",
+    "text": "kell kuus nelikümmend"
+  },
+  {
+    "file": "06_45.mp3",
+    "time": "06:45",
+    "text": "kell kuus nelikümmend viis"
+  },
+  {
+    "file": "06_50.mp3",
+    "time": "06:50",
+    "text": "kell kuus viiskümmend"
+  },
+  {
+    "file": "06_55.mp3",
+    "time": "06:55",
+    "text": "kell kuus viiskümmend viis"
+  },
+  {
+    "file": "07_00.mp3",
+    "time": "07:00",
+    "text": "kell seitse"
+  },
+  {
+    "file": "07_05.mp3",
+    "time": "07:05",
+    "text": "kell seitse viis"
+  },
+  {
+    "file": "07_10.mp3",
+    "time": "07:10",
+    "text": "kell seitse kümme"
+  },
+  {
+    "file": "07_15.mp3",
+    "time": "07:15",
+    "text": "kell seitse viisteist"
+  },
+  {
+    "file": "07_20.mp3",
+    "time": "07:20",
+    "text": "kell seitse kakskümmend"
+  },
+  {
+    "file": "07_25.mp3",
+    "time": "07:25",
+    "text": "kell seitse kakskümmend viis"
+  },
+  {
+    "file": "07_30.mp3",
+    "time": "07:30",
+    "text": "kell seitse kolmkümmend"
+  },
+  {
+    "file": "07_35.mp3",
+    "time": "07:35",
+    "text": "kell seitse kolmkümmend viis"
+  },
+  {
+    "file": "07_40.mp3",
+    "time": "07:40",
+    "text": "kell seitse nelikümmend"
+  },
+  {
+    "file": "07_45.mp3",
+    "time": "07:45",
+    "text": "kell seitse nelikümmend viis"
+  },
+  {
+    "file": "07_50.mp3",
+    "time": "07:50",
+    "text": "kell seitse viiskümmend"
+  },
+  {
+    "file": "07_55.mp3",
+    "time": "07:55",
+    "text": "kell seitse viiskümmend viis"
+  },
+  {
+    "file": "08_00.mp3",
+    "time": "08:00",
+    "text": "kell kaheksa"
+  },
+  {
+    "file": "08_05.mp3",
+    "time": "08:05",
+    "text": "kell kaheksa viis"
+  },
+  {
+    "file": "08_10.mp3",
+    "time": "08:10",
+    "text": "kell kaheksa kümme"
+  },
+  {
+    "file": "08_15.mp3",
+    "time": "08:15",
+    "text": "kell kaheksa viisteist"
+  },
+  {
+    "file": "08_20.mp3",
+    "time": "08:20",
+    "text": "kell kaheksa kakskümmend"
+  },
+  {
+    "file": "08_25.mp3",
+    "time": "08:25",
+    "text": "kell kaheksa kakskümmend viis"
+  },
+  {
+    "file": "08_30.mp3",
+    "time": "08:30",
+    "text": "kell kaheksa kolmkümmend"
+  },
+  {
+    "file": "08_35.mp3",
+    "time": "08:35",
+    "text": "kell kaheksa kolmkümmend viis"
+  },
+  {
+    "file": "08_40.mp3",
+    "time": "08:40",
+    "text": "kell kaheksa nelikümmend"
+  },
+  {
+    "file": "08_45.mp3",
+    "time": "08:45",
+    "text": "kell kaheksa nelikümmend viis"
+  },
+  {
+    "file": "08_50.mp3",
+    "time": "08:50",
+    "text": "kell kaheksa viiskümmend"
+  },
+  {
+    "file": "08_55.mp3",
+    "time": "08:55",
+    "text": "kell kaheksa viiskümmend viis"
+  },
+  {
+    "file": "09_00.mp3",
+    "time": "09:00",
+    "text": "kell üheksa"
+  },
+  {
+    "file": "09_05.mp3",
+    "time": "09:05",
+    "text": "kell üheksa viis"
+  },
+  {
+    "file": "09_10.mp3",
+    "time": "09:10",
+    "text": "kell üheksa kümme"
+  },
+  {
+    "file": "09_15.mp3",
+    "time": "09:15",
+    "text": "kell üheksa viisteist"
+  },
+  {
+    "file": "09_20.mp3",
+    "time": "09:20",
+    "text": "kell üheksa kakskümmend"
+  },
+  {
+    "file": "09_25.mp3",
+    "time": "09:25",
+    "text": "kell üheksa kakskümmend viis"
+  },
+  {
+    "file": "09_30.mp3",
+    "time": "09:30",
+    "text": "kell üheksa kolmkümmend"
+  },
+  {
+    "file": "09_35.mp3",
+    "time": "09:35",
+    "text": "kell üheksa kolmkümmend viis"
+  },
+  {
+    "file": "09_40.mp3",
+    "time": "09:40",
+    "text": "kell üheksa nelikümmend"
+  },
+  {
+    "file": "09_45.mp3",
+    "time": "09:45",
+    "text": "kell üheksa nelikümmend viis"
+  },
+  {
+    "file": "09_50.mp3",
+    "time": "09:50",
+    "text": "kell üheksa viiskümmend"
+  },
+  {
+    "file": "09_55.mp3",
+    "time": "09:55",
+    "text": "kell üheksa viiskümmend viis"
+  },
+  {
+    "file": "10_00.mp3",
+    "time": "10:00",
+    "text": "kell kümme"
+  },
+  {
+    "file": "10_05.mp3",
+    "time": "10:05",
+    "text": "kell kümme viis"
+  },
+  {
+    "file": "10_10.mp3",
+    "time": "10:10",
+    "text": "kell kümme kümme"
+  },
+  {
+    "file": "10_15.mp3",
+    "time": "10:15",
+    "text": "kell kümme viisteist"
+  },
+  {
+    "file": "10_20.mp3",
+    "time": "10:20",
+    "text": "kell kümme kakskümmend"
+  },
+  {
+    "file": "10_25.mp3",
+    "time": "10:25",
+    "text": "kell kümme kakskümmend viis"
+  },
+  {
+    "file": "10_30.mp3",
+    "time": "10:30",
+    "text": "kell kümme kolmkümmend"
+  },
+  {
+    "file": "10_35.mp3",
+    "time": "10:35",
+    "text": "kell kümme kolmkümmend viis"
+  },
+  {
+    "file": "10_40.mp3",
+    "time": "10:40",
+    "text": "kell kümme nelikümmend"
+  },
+  {
+    "file": "10_45.mp3",
+    "time": "10:45",
+    "text": "kell kümme nelikümmend viis"
+  },
+  {
+    "file": "10_50.mp3",
+    "time": "10:50",
+    "text": "kell kümme viiskümmend"
+  },
+  {
+    "file": "10_55.mp3",
+    "time": "10:55",
+    "text": "kell kümme viiskümmend viis"
+  },
+  {
+    "file": "11_00.mp3",
+    "time": "11:00",
+    "text": "kell üksteist"
+  },
+  {
+    "file": "11_05.mp3",
+    "time": "11:05",
+    "text": "kell üksteist viis"
+  },
+  {
+    "file": "11_10.mp3",
+    "time": "11:10",
+    "text": "kell üksteist kümme"
+  },
+  {
+    "file": "11_15.mp3",
+    "time": "11:15",
+    "text": "kell üksteist viisteist"
+  },
+  {
+    "file": "11_20.mp3",
+    "time": "11:20",
+    "text": "kell üksteist kakskümmend"
+  },
+  {
+    "file": "11_25.mp3",
+    "time": "11:25",
+    "text": "kell üksteist kakskümmend viis"
+  },
+  {
+    "file": "11_30.mp3",
+    "time": "11:30",
+    "text": "kell üksteist kolmkümmend"
+  },
+  {
+    "file": "11_35.mp3",
+    "time": "11:35",
+    "text": "kell üksteist kolmkümmend viis"
+  },
+  {
+    "file": "11_40.mp3",
+    "time": "11:40",
+    "text": "kell üksteist nelikümmend"
+  },
+  {
+    "file": "11_45.mp3",
+    "time": "11:45",
+    "text": "kell üksteist nelikümmend viis"
+  },
+  {
+    "file": "11_50.mp3",
+    "time": "11:50",
+    "text": "kell üksteist viiskümmend"
+  },
+  {
+    "file": "11_55.mp3",
+    "time": "11:55",
+    "text": "kell üksteist viiskümmend viis"
+  },
+  {
+    "file": "12_00.mp3",
+    "time": "12:00",
+    "text": "kell kaksteist"
+  },
+  {
+    "file": "12_05.mp3",
+    "time": "12:05",
+    "text": "kell kaksteist viis"
+  },
+  {
+    "file": "12_10.mp3",
+    "time": "12:10",
+    "text": "kell kaksteist kümme"
+  },
+  {
+    "file": "12_15.mp3",
+    "time": "12:15",
+    "text": "kell kaksteist viisteist"
+  },
+  {
+    "file": "12_20.mp3",
+    "time": "12:20",
+    "text": "kell kaksteist kakskümmend"
+  },
+  {
+    "file": "12_25.mp3",
+    "time": "12:25",
+    "text": "kell kaksteist kakskümmend viis"
+  },
+  {
+    "file": "12_30.mp3",
+    "time": "12:30",
+    "text": "kell kaksteist kolmkümmend"
+  },
+  {
+    "file": "12_35.mp3",
+    "time": "12:35",
+    "text": "kell kaksteist kolmkümmend viis"
+  },
+  {
+    "file": "12_40.mp3",
+    "time": "12:40",
+    "text": "kell kaksteist nelikümmend"
+  },
+  {
+    "file": "12_45.mp3",
+    "time": "12:45",
+    "text": "kell kaksteist nelikümmend viis"
+  },
+  {
+    "file": "12_50.mp3",
+    "time": "12:50",
+    "text": "kell kaksteist viiskümmend"
+  },
+  {
+    "file": "12_55.mp3",
+    "time": "12:55",
+    "text": "kell kaksteist viiskümmend viis"
+  },
+  {
+    "file": "13_00.mp3",
+    "time": "13:00",
+    "text": "kell kolmteist"
+  },
+  {
+    "file": "13_05.mp3",
+    "time": "13:05",
+    "text": "kell kolmteist viis"
+  },
+  {
+    "file": "13_10.mp3",
+    "time": "13:10",
+    "text": "kell kolmteist kümme"
+  },
+  {
+    "file": "13_15.mp3",
+    "time": "13:15",
+    "text": "kell kolmteist viisteist"
+  },
+  {
+    "file": "13_20.mp3",
+    "time": "13:20",
+    "text": "kell kolmteist kakskümmend"
+  },
+  {
+    "file": "13_25.mp3",
+    "time": "13:25",
+    "text": "kell kolmteist kakskümmend viis"
+  },
+  {
+    "file": "13_30.mp3",
+    "time": "13:30",
+    "text": "kell kolmteist kolmkümmend"
+  },
+  {
+    "file": "13_35.mp3",
+    "time": "13:35",
+    "text": "kell kolmteist kolmkümmend viis"
+  },
+  {
+    "file": "13_40.mp3",
+    "time": "13:40",
+    "text": "kell kolmteist nelikümmend"
+  },
+  {
+    "file": "13_45.mp3",
+    "time": "13:45",
+    "text": "kell kolmteist nelikümmend viis"
+  },
+  {
+    "file": "13_50.mp3",
+    "time": "13:50",
+    "text": "kell kolmteist viiskümmend"
+  },
+  {
+    "file": "13_55.mp3",
+    "time": "13:55",
+    "text": "kell kolmteist viiskümmend viis"
+  },
+  {
+    "file": "14_00.mp3",
+    "time": "14:00",
+    "text": "kell neliteist"
+  },
+  {
+    "file": "14_05.mp3",
+    "time": "14:05",
+    "text": "kell neliteist viis"
+  },
+  {
+    "file": "14_10.mp3",
+    "time": "14:10",
+    "text": "kell neliteist kümme"
+  },
+  {
+    "file": "14_15.mp3",
+    "time": "14:15",
+    "text": "kell neliteist viisteist"
+  },
+  {
+    "file": "14_20.mp3",
+    "time": "14:20",
+    "text": "kell neliteist kakskümmend"
+  },
+  {
+    "file": "14_25.mp3",
+    "time": "14:25",
+    "text": "kell neliteist kakskümmend viis"
+  },
+  {
+    "file": "14_30.mp3",
+    "time": "14:30",
+    "text": "kell neliteist kolmkümmend"
+  },
+  {
+    "file": "14_35.mp3",
+    "time": "14:35",
+    "text": "kell neliteist kolmkümmend viis"
+  },
+  {
+    "file": "14_40.mp3",
+    "time": "14:40",
+    "text": "kell neliteist nelikümmend"
+  },
+  {
+    "file": "14_45.mp3",
+    "time": "14:45",
+    "text": "kell neliteist nelikümmend viis"
+  },
+  {
+    "file": "14_50.mp3",
+    "time": "14:50",
+    "text": "kell neliteist viiskümmend"
+  },
+  {
+    "file": "14_55.mp3",
+    "time": "14:55",
+    "text": "kell neliteist viiskümmend viis"
+  },
+  {
+    "file": "15_00.mp3",
+    "time": "15:00",
+    "text": "kell viisteist"
+  },
+  {
+    "file": "15_05.mp3",
+    "time": "15:05",
+    "text": "kell viisteist viis"
+  },
+  {
+    "file": "15_10.mp3",
+    "time": "15:10",
+    "text": "kell viisteist kümme"
+  },
+  {
+    "file": "15_15.mp3",
+    "time": "15:15",
+    "text": "kell viisteist viisteist"
+  },
+  {
+    "file": "15_20.mp3",
+    "time": "15:20",
+    "text": "kell viisteist kakskümmend"
+  },
+  {
+    "file": "15_25.mp3",
+    "time": "15:25",
+    "text": "kell viisteist kakskümmend viis"
+  },
+  {
+    "file": "15_30.mp3",
+    "time": "15:30",
+    "text": "kell viisteist kolmkümmend"
+  },
+  {
+    "file": "15_35.mp3",
+    "time": "15:35",
+    "text": "kell viisteist kolmkümmend viis"
+  },
+  {
+    "file": "15_40.mp3",
+    "time": "15:40",
+    "text": "kell viisteist nelikümmend"
+  },
+  {
+    "file": "15_45.mp3",
+    "time": "15:45",
+    "text": "kell viisteist nelikümmend viis"
+  },
+  {
+    "file": "15_50.mp3",
+    "time": "15:50",
+    "text": "kell viisteist viiskümmend"
+  },
+  {
+    "file": "15_55.mp3",
+    "time": "15:55",
+    "text": "kell viisteist viiskümmend viis"
+  },
+  {
+    "file": "16_00.mp3",
+    "time": "16:00",
+    "text": "kell kuusteist"
+  },
+  {
+    "file": "16_05.mp3",
+    "time": "16:05",
+    "text": "kell kuusteist viis"
+  },
+  {
+    "file": "16_10.mp3",
+    "time": "16:10",
+    "text": "kell kuusteist kümme"
+  },
+  {
+    "file": "16_15.mp3",
+    "time": "16:15",
+    "text": "kell kuusteist viisteist"
+  },
+  {
+    "file": "16_20.mp3",
+    "time": "16:20",
+    "text": "kell kuusteist kakskümmend"
+  },
+  {
+    "file": "16_25.mp3",
+    "time": "16:25",
+    "text": "kell kuusteist kakskümmend viis"
+  },
+  {
+    "file": "16_30.mp3",
+    "time": "16:30",
+    "text": "kell kuusteist kolmkümmend"
+  },
+  {
+    "file": "16_35.mp3",
+    "time": "16:35",
+    "text": "kell kuusteist kolmkümmend viis"
+  },
+  {
+    "file": "16_40.mp3",
+    "time": "16:40",
+    "text": "kell kuusteist nelikümmend"
+  },
+  {
+    "file": "16_45.mp3",
+    "time": "16:45",
+    "text": "kell kuusteist nelikümmend viis"
+  },
+  {
+    "file": "16_50.mp3",
+    "time": "16:50",
+    "text": "kell kuusteist viiskümmend"
+  },
+  {
+    "file": "16_55.mp3",
+    "time": "16:55",
+    "text": "kell kuusteist viiskümmend viis"
+  },
+  {
+    "file": "17_00.mp3",
+    "time": "17:00",
+    "text": "kell seitseteist"
+  },
+  {
+    "file": "17_05.mp3",
+    "time": "17:05",
+    "text": "kell seitseteist viis"
+  },
+  {
+    "file": "17_10.mp3",
+    "time": "17:10",
+    "text": "kell seitseteist kümme"
+  },
+  {
+    "file": "17_15.mp3",
+    "time": "17:15",
+    "text": "kell seitseteist viisteist"
+  },
+  {
+    "file": "17_20.mp3",
+    "time": "17:20",
+    "text": "kell seitseteist kakskümmend"
+  },
+  {
+    "file": "17_25.mp3",
+    "time": "17:25",
+    "text": "kell seitseteist kakskümmend viis"
+  },
+  {
+    "file": "17_30.mp3",
+    "time": "17:30",
+    "text": "kell seitseteist kolmkümmend"
+  },
+  {
+    "file": "17_35.mp3",
+    "time": "17:35",
+    "text": "kell seitseteist kolmkümmend viis"
+  },
+  {
+    "file": "17_40.mp3",
+    "time": "17:40",
+    "text": "kell seitseteist nelikümmend"
+  },
+  {
+    "file": "17_45.mp3",
+    "time": "17:45",
+    "text": "kell seitseteist nelikümmend viis"
+  },
+  {
+    "file": "17_50.mp3",
+    "time": "17:50",
+    "text": "kell seitseteist viiskümmend"
+  },
+  {
+    "file": "17_55.mp3",
+    "time": "17:55",
+    "text": "kell seitseteist viiskümmend viis"
+  },
+  {
+    "file": "18_00.mp3",
+    "time": "18:00",
+    "text": "kell kaheksateist"
+  },
+  {
+    "file": "18_05.mp3",
+    "time": "18:05",
+    "text": "kell kaheksateist viis"
+  },
+  {
+    "file": "18_10.mp3",
+    "time": "18:10",
+    "text": "kell kaheksateist kümme"
+  },
+  {
+    "file": "18_15.mp3",
+    "time": "18:15",
+    "text": "kell kaheksateist viisteist"
+  },
+  {
+    "file": "18_20.mp3",
+    "time": "18:20",
+    "text": "kell kaheksateist kakskümmend"
+  },
+  {
+    "file": "18_25.mp3",
+    "time": "18:25",
+    "text": "kell kaheksateist kakskümmend viis"
+  },
+  {
+    "file": "18_30.mp3",
+    "time": "18:30",
+    "text": "kell kaheksateist kolmkümmend"
+  },
+  {
+    "file": "18_35.mp3",
+    "time": "18:35",
+    "text": "kell kaheksateist kolmkümmend viis"
+  },
+  {
+    "file": "18_40.mp3",
+    "time": "18:40",
+    "text": "kell kaheksateist nelikümmend"
+  },
+  {
+    "file": "18_45.mp3",
+    "time": "18:45",
+    "text": "kell kaheksateist nelikümmend viis"
+  },
+  {
+    "file": "18_50.mp3",
+    "time": "18:50",
+    "text": "kell kaheksateist viiskümmend"
+  },
+  {
+    "file": "18_55.mp3",
+    "time": "18:55",
+    "text": "kell kaheksateist viiskümmend viis"
+  },
+  {
+    "file": "19_00.mp3",
+    "time": "19:00",
+    "text": "kell üheksateist"
+  },
+  {
+    "file": "19_05.mp3",
+    "time": "19:05",
+    "text": "kell üheksateist viis"
+  },
+  {
+    "file": "19_10.mp3",
+    "time": "19:10",
+    "text": "kell üheksateist kümme"
+  },
+  {
+    "file": "19_15.mp3",
+    "time": "19:15",
+    "text": "kell üheksateist viisteist"
+  },
+  {
+    "file": "19_20.mp3",
+    "time": "19:20",
+    "text": "kell üheksateist kakskümmend"
+  },
+  {
+    "file": "19_25.mp3",
+    "time": "19:25",
+    "text": "kell üheksateist kakskümmend viis"
+  },
+  {
+    "file": "19_30.mp3",
+    "time": "19:30",
+    "text": "kell üheksateist kolmkümmend"
+  },
+  {
+    "file": "19_35.mp3",
+    "time": "19:35",
+    "text": "kell üheksateist kolmkümmend viis"
+  },
+  {
+    "file": "19_40.mp3",
+    "time": "19:40",
+    "text": "kell üheksateist nelikümmend"
+  },
+  {
+    "file": "19_45.mp3",
+    "time": "19:45",
+    "text": "kell üheksateist nelikümmend viis"
+  },
+  {
+    "file": "19_50.mp3",
+    "time": "19:50",
+    "text": "kell üheksateist viiskümmend"
+  },
+  {
+    "file": "19_55.mp3",
+    "time": "19:55",
+    "text": "kell üheksateist viiskümmend viis"
+  },
+  {
+    "file": "20_00.mp3",
+    "time": "20:00",
+    "text": "kell kakskümmend"
+  },
+  {
+    "file": "20_05.mp3",
+    "time": "20:05",
+    "text": "kell kakskümmend viis"
+  },
+  {
+    "file": "20_10.mp3",
+    "time": "20:10",
+    "text": "kell kakskümmend kümme"
+  },
+  {
+    "file": "20_15.mp3",
+    "time": "20:15",
+    "text": "kell kakskümmend viisteist"
+  },
+  {
+    "file": "20_20.mp3",
+    "time": "20:20",
+    "text": "kell kakskümmend kakskümmend"
+  },
+  {
+    "file": "20_25.mp3",
+    "time": "20:25",
+    "text": "kell kakskümmend kakskümmend viis"
+  },
+  {
+    "file": "20_30.mp3",
+    "time": "20:30",
+    "text": "kell kakskümmend kolmkümmend"
+  },
+  {
+    "file": "20_35.mp3",
+    "time": "20:35",
+    "text": "kell kakskümmend kolmkümmend viis"
+  },
+  {
+    "file": "20_40.mp3",
+    "time": "20:40",
+    "text": "kell kakskümmend nelikümmend"
+  },
+  {
+    "file": "20_45.mp3",
+    "time": "20:45",
+    "text": "kell kakskümmend nelikümmend viis"
+  },
+  {
+    "file": "20_50.mp3",
+    "time": "20:50",
+    "text": "kell kakskümmend viiskümmend"
+  },
+  {
+    "file": "20_55.mp3",
+    "time": "20:55",
+    "text": "kell kakskümmend viiskümmend viis"
+  },
+  {
+    "file": "21_00.mp3",
+    "time": "21:00",
+    "text": "kell kakskümmend üks"
+  },
+  {
+    "file": "21_05.mp3",
+    "time": "21:05",
+    "text": "kell kakskümmend üks viis"
+  },
+  {
+    "file": "21_10.mp3",
+    "time": "21:10",
+    "text": "kell kakskümmend üks kümme"
+  },
+  {
+    "file": "21_15.mp3",
+    "time": "21:15",
+    "text": "kell kakskümmend üks viisteist"
+  },
+  {
+    "file": "21_20.mp3",
+    "time": "21:20",
+    "text": "kell kakskümmend üks kakskümmend"
+  },
+  {
+    "file": "21_25.mp3",
+    "time": "21:25",
+    "text": "kell kakskümmend üks kakskümmend viis"
+  },
+  {
+    "file": "21_30.mp3",
+    "time": "21:30",
+    "text": "kell kakskümmend üks kolmkümmend"
+  },
+  {
+    "file": "21_35.mp3",
+    "time": "21:35",
+    "text": "kell kakskümmend üks kolmkümmend viis"
+  },
+  {
+    "file": "21_40.mp3",
+    "time": "21:40",
+    "text": "kell kakskümmend üks nelikümmend"
+  },
+  {
+    "file": "21_45.mp3",
+    "time": "21:45",
+    "text": "kell kakskümmend üks nelikümmend viis"
+  },
+  {
+    "file": "21_50.mp3",
+    "time": "21:50",
+    "text": "kell kakskümmend üks viiskümmend"
+  },
+  {
+    "file": "21_55.mp3",
+    "time": "21:55",
+    "text": "kell kakskümmend üks viiskümmend viis"
+  },
+  {
+    "file": "22_00.mp3",
+    "time": "22:00",
+    "text": "kell kakskümmend kaks"
+  },
+  {
+    "file": "22_05.mp3",
+    "time": "22:05",
+    "text": "kell kakskümmend kaks viis"
+  },
+  {
+    "file": "22_10.mp3",
+    "time": "22:10",
+    "text": "kell kakskümmend kaks kümme"
+  },
+  {
+    "file": "22_15.mp3",
+    "time": "22:15",
+    "text": "kell kakskümmend kaks viisteist"
+  },
+  {
+    "file": "22_20.mp3",
+    "time": "22:20",
+    "text": "kell kakskümmend kaks kakskümmend"
+  },
+  {
+    "file": "22_25.mp3",
+    "time": "22:25",
+    "text": "kell kakskümmend kaks kakskümmend viis"
+  },
+  {
+    "file": "22_30.mp3",
+    "time": "22:30",
+    "text": "kell kakskümmend kaks kolmkümmend"
+  },
+  {
+    "file": "22_35.mp3",
+    "time": "22:35",
+    "text": "kell kakskümmend kaks kolmkümmend viis"
+  },
+  {
+    "file": "22_40.mp3",
+    "time": "22:40",
+    "text": "kell kakskümmend kaks nelikümmend"
+  },
+  {
+    "file": "22_45.mp3",
+    "time": "22:45",
+    "text": "kell kakskümmend kaks nelikümmend viis"
+  },
+  {
+    "file": "22_50.mp3",
+    "time": "22:50",
+    "text": "kell kakskümmend kaks viiskümmend"
+  },
+  {
+    "file": "22_55.mp3",
+    "time": "22:55",
+    "text": "kell kakskümmend kaks viiskümmend viis"
+  },
+  {
+    "file": "23_00.mp3",
+    "time": "23:00",
+    "text": "kell kakskümmend kolm"
+  },
+  {
+    "file": "23_05.mp3",
+    "time": "23:05",
+    "text": "kell kakskümmend kolm viis"
+  },
+  {
+    "file": "23_10.mp3",
+    "time": "23:10",
+    "text": "kell kakskümmend kolm kümme"
+  },
+  {
+    "file": "23_15.mp3",
+    "time": "23:15",
+    "text": "kell kakskümmend kolm viisteist"
+  },
+  {
+    "file": "23_20.mp3",
+    "time": "23:20",
+    "text": "kell kakskümmend kolm kakskümmend"
+  },
+  {
+    "file": "23_25.mp3",
+    "time": "23:25",
+    "text": "kell kakskümmend kolm kakskümmend viis"
+  },
+  {
+    "file": "23_30.mp3",
+    "time": "23:30",
+    "text": "kell kakskümmend kolm kolmkümmend"
+  },
+  {
+    "file": "23_35.mp3",
+    "time": "23:35",
+    "text": "kell kakskümmend kolm kolmkümmend viis"
+  },
+  {
+    "file": "23_40.mp3",
+    "time": "23:40",
+    "text": "kell kakskümmend kolm nelikümmend"
+  },
+  {
+    "file": "23_45.mp3",
+    "time": "23:45",
+    "text": "kell kakskümmend kolm nelikümmend viis"
+  },
+  {
+    "file": "23_50.mp3",
+    "time": "23:50",
+    "text": "kell kakskümmend kolm viiskümmend"
+  },
+  {
+    "file": "23_55.mp3",
+    "time": "23:55",
+    "text": "kell kakskümmend kolm viiskümmend viis"
+  }
+]

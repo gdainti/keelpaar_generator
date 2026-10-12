@@ -1,0 +1,1087 @@
+[
+  {
+    "file": "1.mp3",
+    "number": "1",
+    "et": "esimene",
+    "ru": "первый",
+    "en": "first"
+  },
+  {
+    "file": "2.mp3",
+    "number": "2",
+    "et": "teine",
+    "ru": "второй",
+    "en": "second"
+  },
+  {
+    "file": "3.mp3",
+    "number": "3",
+    "et": "kolmas",
+    "ru": "третий",
+    "en": "third"
+  },
+  {
+    "file": "4.mp3",
+    "number": "4",
+    "et": "neljas",
+    "ru": "четвёртый",
+    "en": "fourth"
+  },
+  {
+    "file": "5.mp3",
+    "number": "5",
+    "et": "viies",
+    "ru": "пятый",
+    "en": "fifth"
+  },
+  {
+    "file": "6.mp3",
+    "number": "6",
+    "et": "kuues",
+    "ru": "шестой",
+    "en": "sixth"
+  },
+  {
+    "file": "7.mp3",
+    "number": "7",
+    "et": "seitsmes",
+    "ru": "седьмой",
+    "en": "seventh"
+  },
+  {
+    "file": "8.mp3",
+    "number": "8",
+    "et": "kaheksas",
+    "ru": "восьмой",
+    "en": "eighth"
+  },
+  {
+    "file": "9.mp3",
+    "number": "9",
+    "et": "üheksas",
+    "ru": "девятый",
+    "en": "ninth"
+  },
+  {
+    "file": "10.mp3",
+    "number": "10",
+    "et": "kümnes",
+    "ru": "десятый",
+    "en": "tenth"
+  },
+  {
+    "file": "11.mp3",
+    "number": "11",
+    "et": "üheteistkümnes",
+    "ru": "одиннадцатый",
+    "en": "eleventh"
+  },
+  {
+    "file": "12.mp3",
+    "number": "12",
+    "et": "kaheteistkümnes",
+    "ru": "двенадцатый",
+    "en": "twelfth"
+  },
+  {
+    "file": "13.mp3",
+    "number": "13",
+    "et": "kolmeteistkümnes",
+    "ru": "тринадцатый",
+    "en": "thirteenth"
+  },
+  {
+    "file": "14.mp3",
+    "number": "14",
+    "et": "neljateistkümnes",
+    "ru": "четырнадцатый",
+    "en": "fourteenth"
+  },
+  {
+    "file": "15.mp3",
+    "number": "15",
+    "et": "viieteistkümnes",
+    "ru": "пятнадцатый",
+    "en": "fifteenth"
+  },
+  {
+    "file": "16.mp3",
+    "number": "16",
+    "et": "kuueteistkümnes",
+    "ru": "шестнадцатый",
+    "en": "sixteenth"
+  },
+  {
+    "file": "17.mp3",
+    "number": "17",
+    "et": "seitsmeteistkümnes",
+    "ru": "семнадцатый",
+    "en": "seventeenth"
+  },
+  {
+    "file": "18.mp3",
+    "number": "18",
+    "et": "kaheksateistkümnes",
+    "ru": "восемнадцатый",
+    "en": "eighteenth"
+  },
+  {
+    "file": "19.mp3",
+    "number": "19",
+    "et": "üheksateistkümnes",
+    "ru": "девятнадцатый",
+    "en": "nineteenth"
+  },
+  {
+    "file": "20.mp3",
+    "number": "20",
+    "et": "kahekümnes",
+    "ru": "двадцатый",
+    "en": "twentieth"
+  },
+  {
+    "file": "21.mp3",
+    "number": "21",
+    "et": "kahekümne esimene",
+    "ru": "двадцать первый",
+    "en": "twenty-first"
+  },
+  {
+    "file": "22.mp3",
+    "number": "22",
+    "et": "kahekümne teine",
+    "ru": "двадцать второй",
+    "en": "twenty-second"
+  },
+  {
+    "file": "23.mp3",
+    "number": "23",
+    "et": "kahekümne kolmas",
+    "ru": "двадцать третий",
+    "en": "twenty-third"
+  },
+  {
+    "file": "24.mp3",
+    "number": "24",
+    "et": "kahekümne neljas",
+    "ru": "двадцать четвёртый",
+    "en": "twenty-fourth"
+  },
+  {
+    "file": "25.mp3",
+    "number": "25",
+    "et": "kahekümne viies",
+    "ru": "двадцать пятый",
+    "en": "twenty-fifth"
+  },
+  {
+    "file": "26.mp3",
+    "number": "26",
+    "et": "kahekümne kuues",
+    "ru": "двадцать шестой",
+    "en": "twenty-sixth"
+  },
+  {
+    "file": "27.mp3",
+    "number": "27",
+    "et": "kahekümne seitsmes",
+    "ru": "двадцать седьмой",
+    "en": "twenty-seventh"
+  },
+  {
+    "file": "28.mp3",
+    "number": "28",
+    "et": "kahekümne kaheksas",
+    "ru": "двадцать восьмой",
+    "en": "twenty-eighth"
+  },
+  {
+    "file": "29.mp3",
+    "number": "29",
+    "et": "kahekümne üheksas",
+    "ru": "двадцать девятый",
+    "en": "twenty-ninth"
+  },
+  {
+    "file": "30.mp3",
+    "number": "30",
+    "et": "kolmekümnes",
+    "ru": "тридцатый",
+    "en": "thirtieth"
+  },
+  {
+    "file": "31.mp3",
+    "number": "31",
+    "et": "kolmekümne esimene",
+    "ru": "тридцать первый",
+    "en": "thirty-first"
+  },
+  {
+    "file": "32.mp3",
+    "number": "32",
+    "et": "kolmekümne teine",
+    "ru": "тридцать второй",
+    "en": "thirty-second"
+  },
+  {
+    "file": "33.mp3",
+    "number": "33",
+    "et": "kolmekümne kolmas",
+    "ru": "тридцать третий",
+    "en": "thirty-third"
+  },
+  {
+    "file": "34.mp3",
+    "number": "34",
+    "et": "kolmekümne neljas",
+    "ru": "тридцать четвёртый",
+    "en": "thirty-fourth"
+  },
+  {
+    "file": "35.mp3",
+    "number": "35",
+    "et": "kolmekümne viies",
+    "ru": "тридцать пятый",
+    "en": "thirty-fifth"
+  },
+  {
+    "file": "36.mp3",
+    "number": "36",
+    "et": "kolmekümne kuues",
+    "ru": "тридцать шестой",
+    "en": "thirty-sixth"
+  },
+  {
+    "file": "37.mp3",
+    "number": "37",
+    "et": "kolmekümne seitsmes",
+    "ru": "тридцать седьмой",
+    "en": "thirty-seventh"
+  },
+  {
+    "file": "38.mp3",
+    "number": "38",
+    "et": "kolmekümne kaheksas",
+    "ru": "тридцать восьмой",
+    "en": "thirty-eighth"
+  },
+  {
+    "file": "39.mp3",
+    "number": "39",
+    "et": "kolmekümne üheksas",
+    "ru": "тридцать девятый",
+    "en": "thirty-ninth"
+  },
+  {
+    "file": "40.mp3",
+    "number": "40",
+    "et": "neljakümnes",
+    "ru": "сороковой",
+    "en": "fortieth"
+  },
+  {
+    "file": "41.mp3",
+    "number": "41",
+    "et": "neljakümne esimene",
+    "ru": "сорок первый",
+    "en": "forty-first"
+  },
+  {
+    "file": "42.mp3",
+    "number": "42",
+    "et": "neljakümne teine",
+    "ru": "сорок второй",
+    "en": "forty-second"
+  },
+  {
+    "file": "43.mp3",
+    "number": "43",
+    "et": "neljakümne kolmas",
+    "ru": "сорок третий",
+    "en": "forty-third"
+  },
+  {
+    "file": "44.mp3",
+    "number": "44",
+    "et": "neljakümne neljas",
+    "ru": "сорок четвёртый",
+    "en": "forty-fourth"
+  },
+  {
+    "file": "45.mp3",
+    "number": "45",
+    "et": "neljakümne viies",
+    "ru": "сорок пятый",
+    "en": "forty-fifth"
+  },
+  {
+    "file": "46.mp3",
+    "number": "46",
+    "et": "neljakümne kuues",
+    "ru": "сорок шестой",
+    "en": "forty-sixth"
+  },
+  {
+    "file": "47.mp3",
+    "number": "47",
+    "et": "neljakümne seitsmes",
+    "ru": "сорок седьмой",
+    "en": "forty-seventh"
+  },
+  {
+    "file": "48.mp3",
+    "number": "48",
+    "et": "neljakümne kaheksas",
+    "ru": "сорок восьмой",
+    "en": "forty-eighth"
+  },
+  {
+    "file": "49.mp3",
+    "number": "49",
+    "et": "neljakümne üheksas",
+    "ru": "сорок девятый",
+    "en": "forty-ninth"
+  },
+  {
+    "file": "50.mp3",
+    "number": "50",
+    "et": "viiekümnes",
+    "ru": "пятидесятый",
+    "en": "fiftieth"
+  },
+  {
+    "file": "51.mp3",
+    "number": "51",
+    "et": "viiekümne esimene",
+    "ru": "пятьдесят первый",
+    "en": "fifty-first"
+  },
+  {
+    "file": "52.mp3",
+    "number": "52",
+    "et": "viiekümne teine",
+    "ru": "пятьдесят второй",
+    "en": "fifty-second"
+  },
+  {
+    "file": "53.mp3",
+    "number": "53",
+    "et": "viiekümne kolmas",
+    "ru": "пятьдесят третий",
+    "en": "fifty-third"
+  },
+  {
+    "file": "54.mp3",
+    "number": "54",
+    "et": "viiekümne neljas",
+    "ru": "пятьдесят четвёртый",
+    "en": "fifty-fourth"
+  },
+  {
+    "file": "55.mp3",
+    "number": "55",
+    "et": "viiekümne viies",
+    "ru": "пятьдесят пятый",
+    "en": "fifty-fifth"
+  },
+  {
+    "file": "56.mp3",
+    "number": "56",
+    "et": "viiekümne kuues",
+    "ru": "пятьдесят шестой",
+    "en": "fifty-sixth"
+  },
+  {
+    "file": "57.mp3",
+    "number": "57",
+    "et": "viiekümne seitsmes",
+    "ru": "пятьдесят седьмой",
+    "en": "fifty-seventh"
+  },
+  {
+    "file": "58.mp3",
+    "number": "58",
+    "et": "viiekümne kaheksas",
+    "ru": "пятьдесят восьмой",
+    "en": "fifty-eighth"
+  },
+  {
+    "file": "59.mp3",
+    "number": "59",
+    "et": "viiekümne üheksas",
+    "ru": "пятьдесят девятый",
+    "en": "fifty-ninth"
+  },
+  {
+    "file": "60.mp3",
+    "number": "60",
+    "et": "kuuekümnes",
+    "ru": "шестидесятый",
+    "en": "sixtieth"
+  },
+  {
+    "file": "61.mp3",
+    "number": "61",
+    "et": "kuuekümne esimene",
+    "ru": "шестьдесят первый",
+    "en": "sixty-first"
+  },
+  {
+    "file": "62.mp3",
+    "number": "62",
+    "et": "kuuekümne teine",
+    "ru": "шестьдесят второй",
+    "en": "sixty-second"
+  },
+  {
+    "file": "63.mp3",
+    "number": "63",
+    "et": "kuuekümne kolmas",
+    "ru": "шестьдесят третий",
+    "en": "sixty-third"
+  },
+  {
+    "file": "64.mp3",
+    "number": "64",
+    "et": "kuuekümne neljas",
+    "ru": "шестьдесят четвёртый",
+    "en": "sixty-fourth"
+  },
+  {
+    "file": "65.mp3",
+    "number": "65",
+    "et": "kuuekümne viies",
+    "ru": "шестьдесят пятый",
+    "en": "sixty-fifth"
+  },
+  {
+    "file": "66.mp3",
+    "number": "66",
+    "et": "kuuekümne kuues",
+    "ru": "шестьдесят шестой",
+    "en": "sixty-sixth"
+  },
+  {
+    "file": "67.mp3",
+    "number": "67",
+    "et": "kuuekümne seitsmes",
+    "ru": "шестьдесят седьмой",
+    "en": "sixty-seventh"
+  },
+  {
+    "file": "68.mp3",
+    "number": "68",
+    "et": "kuuekümne kaheksas",
+    "ru": "шестьдесят восьмой",
+    "en": "sixty-eighth"
+  },
+  {
+    "file": "69.mp3",
+    "number": "69",
+    "et": "kuuekümne üheksas",
+    "ru": "шестьдесят девятый",
+    "en": "sixty-ninth"
+  },
+  {
+    "file": "70.mp3",
+    "number": "70",
+    "et": "seitsmekümnes",
+    "ru": "семидесятый",
+    "en": "seventieth"
+  },
+  {
+    "file": "71.mp3",
+    "number": "71",
+    "et": "seitsmekümne esimene",
+    "ru": "семьдесят первый",
+    "en": "seventy-first"
+  },
+  {
+    "file": "72.mp3",
+    "number": "72",
+    "et": "seitsmekümne teine",
+    "ru": "семьдесят второй",
+    "en": "seventy-second"
+  },
+  {
+    "file": "73.mp3",
+    "number": "73",
+    "et": "seitsmekümne kolmas",
+    "ru": "семьдесят третий",
+    "en": "seventy-third"
+  },
+  {
+    "file": "74.mp3",
+    "number": "74",
+    "et": "seitsmekümne neljas",
+    "ru": "семьдесят четвёртый",
+    "en": "seventy-fourth"
+  },
+  {
+    "file": "75.mp3",
+    "number": "75",
+    "et": "seitsmekümne viies",
+    "ru": "семьдесят пятый",
+    "en": "seventy-fifth"
+  },
+  {
+    "file": "76.mp3",
+    "number": "76",
+    "et": "seitsmekümne kuues",
+    "ru": "семьдесят шестой",
+    "en": "seventy-sixth"
+  },
+  {
+    "file": "77.mp3",
+    "number": "77",
+    "et": "seitsmekümne seitsmes",
+    "ru": "семьдесят седьмой",
+    "en": "seventy-seventh"
+  },
+  {
+    "file": "78.mp3",
+    "number": "78",
+    "et": "seitsmekümne kaheksas",
+    "ru": "семьдесят восьмой",
+    "en": "seventy-eighth"
+  },
+  {
+    "file": "79.mp3",
+    "number": "79",
+    "et": "seitsmekümne üheksas",
+    "ru": "семьдесят девятый",
+    "en": "seventy-ninth"
+  },
+  {
+    "file": "80.mp3",
+    "number": "80",
+    "et": "kaheksakümnes",
+    "ru": "восьмидесятый",
+    "en": "eightieth"
+  },
+  {
+    "file": "81.mp3",
+    "number": "81",
+    "et": "kaheksakümne esimene",
+    "ru": "восемьдесят первый",
+    "en": "eighty-first"
+  },
+  {
+    "file": "82.mp3",
+    "number": "82",
+    "et": "kaheksakümne teine",
+    "ru": "восемьдесят второй",
+    "en": "eighty-second"
+  },
+  {
+    "file": "83.mp3",
+    "number": "83",
+    "et": "kaheksakümne kolmas",
+    "ru": "восемьдесят третий",
+    "en": "eighty-third"
+  },
+  {
+    "file": "84.mp3",
+    "number": "84",
+    "et": "kaheksakümne neljas",
+    "ru": "восемьдесят четвёртый",
+    "en": "eighty-fourth"
+  },
+  {
+    "file": "85.mp3",
+    "number": "85",
+    "et": "kaheksakümne viies",
+    "ru": "восемьдесят пятый",
+    "en": "eighty-fifth"
+  },
+  {
+    "file": "86.mp3",
+    "number": "86",
+    "et": "kaheksakümne kuues",
+    "ru": "восемьдесят шестой",
+    "en": "eighty-sixth"
+  },
+  {
+    "file": "87.mp3",
+    "number": "87",
+    "et": "kaheksakümne seitsmes",
+    "ru": "восемьдесят седьмой",
+    "en": "eighty-seventh"
+  },
+  {
+    "file": "88.mp3",
+    "number": "88",
+    "et": "kaheksakümne kaheksas",
+    "ru": "восемьдесят восьмой",
+    "en": "eighty-eighth"
+  },
+  {
+    "file": "89.mp3",
+    "number": "89",
+    "et": "kaheksakümne üheksas",
+    "ru": "восемьдесят девятый",
+    "en": "eighty-ninth"
+  },
+  {
+    "file": "90.mp3",
+    "number": "90",
+    "et": "üheksakümnes",
+    "ru": "девяностый",
+    "en": "ninetieth"
+  },
+  {
+    "file": "91.mp3",
+    "number": "91",
+    "et": "üheksakümne esimene",
+    "ru": "девяносто первый",
+    "en": "ninety-first"
+  },
+  {
+    "file": "92.mp3",
+    "number": "92",
+    "et": "üheksakümne teine",
+    "ru": "девяносто второй",
+    "en": "ninety-second"
+  },
+  {
+    "file": "93.mp3",
+    "number": "93",
+    "et": "üheksakümne kolmas",
+    "ru": "девяносто третий",
+    "en": "ninety-third"
+  },
+  {
+    "file": "94.mp3",
+    "number": "94",
+    "et": "üheksakümne neljas",
+    "ru": "девяносто четвёртый",
+    "en": "ninety-fourth"
+  },
+  {
+    "file": "95.mp3",
+    "number": "95",
+    "et": "üheksakümne viies",
+    "ru": "девяносто пятый",
+    "en": "ninety-fifth"
+  },
+  {
+    "file": "96.mp3",
+    "number": "96",
+    "et": "üheksakümne kuues",
+    "ru": "девяносто шестой",
+    "en": "ninety-sixth"
+  },
+  {
+    "file": "97.mp3",
+    "number": "97",
+    "et": "üheksakümne seitsmes",
+    "ru": "девяносто седьмой",
+    "en": "ninety-seventh"
+  },
+  {
+    "file": "98.mp3",
+    "number": "98",
+    "et": "üheksakümne kaheksas",
+    "ru": "девяносто восьмой",
+    "en": "ninety-eighth"
+  },
+  {
+    "file": "99.mp3",
+    "number": "99",
+    "et": "üheksakümne üheksas",
+    "ru": "девяносто девятый",
+    "en": "ninety-ninth"
+  },
+  {
+    "file": "100.mp3",
+    "number": "100",
+    "et": "sajas",
+    "ru": "сотый",
+    "en": "one hundredth"
+  },
+  {
+    "file": "1000.mp3",
+    "number": "1000",
+    "et": "tuhandes",
+    "ru": "тысячный",
+    "en": "one thousandth"
+  },
+  {
+    "file": "10000.mp3",
+    "number": "10000",
+    "et": "kümne tuhandes",
+    "ru": "десятитысячный",
+    "en": "ten thousandth"
+  },
+  {
+    "file": "100000.mp3",
+    "number": "100000",
+    "et": "saja tuhandes",
+    "ru": "стотысячный",
+    "en": "one hundred thousandth"
+  },
+  {
+    "file": "1000000.mp3",
+    "number": "1000000",
+    "et": "miljones",
+    "ru": "миллионный",
+    "en": "one millionth"
+  },
+  {
+    "file": "1980.mp3",
+    "number": "1980",
+    "et": "tuhande üheksasaja kaheksakümnes",
+    "ru": "тысяча девятьсот восьмидесятый",
+    "en": "one thousand, nine hundred and eightieth"
+  },
+  {
+    "file": "1981.mp3",
+    "number": "1981",
+    "et": "tuhande üheksasaja kaheksakümne esimene",
+    "ru": "тысяча девятьсот восемьдесят первый",
+    "en": "one thousand, nine hundred and eighty-first"
+  },
+  {
+    "file": "1982.mp3",
+    "number": "1982",
+    "et": "tuhande üheksasaja kaheksakümne teine",
+    "ru": "тысяча девятьсот восемьдесят второй",
+    "en": "one thousand, nine hundred and eighty-second"
+  },
+  {
+    "file": "1983.mp3",
+    "number": "1983",
+    "et": "tuhande üheksasaja kaheksakümne kolmas",
+    "ru": "тысяча девятьсот восемьдесят третий",
+    "en": "one thousand, nine hundred and eighty-third"
+  },
+  {
+    "file": "1984.mp3",
+    "number": "1984",
+    "et": "tuhande üheksasaja kaheksakümne neljas",
+    "ru": "тысяча девятьсот восемьдесят четвёртый",
+    "en": "one thousand, nine hundred and eighty-fourth"
+  },
+  {
+    "file": "1985.mp3",
+    "number": "1985",
+    "et": "tuhande üheksasaja kaheksakümne viies",
+    "ru": "тысяча девятьсот восемьдесят пятый",
+    "en": "one thousand, nine hundred and eighty-fifth"
+  },
+  {
+    "file": "1986.mp3",
+    "number": "1986",
+    "et": "tuhande üheksasaja kaheksakümne kuues",
+    "ru": "тысяча девятьсот восемьдесят шестой",
+    "en": "one thousand, nine hundred and eighty-sixth"
+  },
+  {
+    "file": "1987.mp3",
+    "number": "1987",
+    "et": "tuhande üheksasaja kaheksakümne seitsmes",
+    "ru": "тысяча девятьсот восемьдесят седьмой",
+    "en": "one thousand, nine hundred and eighty-seventh"
+  },
+  {
+    "file": "1988.mp3",
+    "number": "1988",
+    "et": "tuhande üheksasaja kaheksakümne kaheksas",
+    "ru": "тысяча девятьсот восемьдесят восьмой",
+    "en": "one thousand, nine hundred and eighty-eighth"
+  },
+  {
+    "file": "1989.mp3",
+    "number": "1989",
+    "et": "tuhande üheksasaja kaheksakümne üheksas",
+    "ru": "тысяча девятьсот восемьдесят девятый",
+    "en": "one thousand, nine hundred and eighty-ninth"
+  },
+  {
+    "file": "1990.mp3",
+    "number": "1990",
+    "et": "tuhande üheksasaja üheksakümnes",
+    "ru": "тысяча девятьсот девяностый",
+    "en": "one thousand, nine hundred and ninetieth"
+  },
+  {
+    "file": "1991.mp3",
+    "number": "1991",
+    "et": "tuhande üheksasaja üheksakümne esimene",
+    "ru": "тысяча девятьсот девяносто первый",
+    "en": "one thousand, nine hundred and ninety-first"
+  },
+  {
+    "file": "1992.mp3",
+    "number": "1992",
+    "et": "tuhande üheksasaja üheksakümne teine",
+    "ru": "тысяча девятьсот девяносто второй",
+    "en": "one thousand, nine hundred and ninety-second"
+  },
+  {
+    "file": "1993.mp3",
+    "number": "1993",
+    "et": "tuhande üheksasaja üheksakümne kolmas",
+    "ru": "тысяча девятьсот девяносто третий",
+    "en": "one thousand, nine hundred and ninety-third"
+  },
+  {
+    "file": "1994.mp3",
+    "number": "1994",
+    "et": "tuhande üheksasaja üheksakümne neljas",
+    "ru": "тысяча девятьсот девяносто четвёртый",
+    "en": "one thousand, nine hundred and ninety-fourth"
+  },
+  {
+    "file": "1995.mp3",
+    "number": "1995",
+    "et": "tuhande üheksasaja üheksakümne viies",
+    "ru": "тысяча девятьсот девяносто пятый",
+    "en": "one thousand, nine hundred and ninety-fifth"
+  },
+  {
+    "file": "1996.mp3",
+    "number": "1996",
+    "et": "tuhande üheksasaja üheksakümne kuues",
+    "ru": "тысяча девятьсот девяносто шестой",
+    "en": "one thousand, nine hundred and ninety-sixth"
+  },
+  {
+    "file": "1997.mp3",
+    "number": "1997",
+    "et": "tuhande üheksasaja üheksakümne seitsmes",
+    "ru": "тысяча девятьсот девяносто седьмой",
+    "en": "one thousand, nine hundred and ninety-seventh"
+  },
+  {
+    "file": "1998.mp3",
+    "number": "1998",
+    "et": "tuhande üheksasaja üheksakümne kaheksas",
+    "ru": "тысяча девятьсот девяносто восьмой",
+    "en": "one thousand, nine hundred and ninety-eighth"
+  },
+  {
+    "file": "1999.mp3",
+    "number": "1999",
+    "et": "tuhande üheksasaja üheksakümne üheksas",
+    "ru": "тысяча девятьсот девяносто девятый",
+    "en": "one thousand, nine hundred and ninety-ninth"
+  },
+  {
+    "file": "2000.mp3",
+    "number": "2000",
+    "et": "kahe tuhandes",
+    "ru": "двухтысячный",
+    "en": "two thousandth"
+  },
+  {
+    "file": "2001.mp3",
+    "number": "2001",
+    "et": "kahe tuhande esimene",
+    "ru": "две тысячи первый",
+    "en": "two thousand and first"
+  },
+  {
+    "file": "2002.mp3",
+    "number": "2002",
+    "et": "kahe tuhande teine",
+    "ru": "две тысячи второй",
+    "en": "two thousand and second"
+  },
+  {
+    "file": "2003.mp3",
+    "number": "2003",
+    "et": "kahe tuhande kolmas",
+    "ru": "две тысячи третий",
+    "en": "two thousand and third"
+  },
+  {
+    "file": "2004.mp3",
+    "number": "2004",
+    "et": "kahe tuhande neljas",
+    "ru": "две тысячи четвёртый",
+    "en": "two thousand and fourth"
+  },
+  {
+    "file": "2005.mp3",
+    "number": "2005",
+    "et": "kahe tuhande viies",
+    "ru": "две тысячи пятый",
+    "en": "two thousand and fifth"
+  },
+  {
+    "file": "2006.mp3",
+    "number": "2006",
+    "et": "kahe tuhande kuues",
+    "ru": "две тысячи шестой",
+    "en": "two thousand and sixth"
+  },
+  {
+    "file": "2007.mp3",
+    "number": "2007",
+    "et": "kahe tuhande seitsmes",
+    "ru": "две тысячи седьмой",
+    "en": "two thousand and seventh"
+  },
+  {
+    "file": "2008.mp3",
+    "number": "2008",
+    "et": "kahe tuhande kaheksas",
+    "ru": "две тысячи восьмой",
+    "en": "two thousand and eighth"
+  },
+  {
+    "file": "2009.mp3",
+    "number": "2009",
+    "et": "kahe tuhande üheksas",
+    "ru": "две тысячи девятый",
+    "en": "two thousand and ninth"
+  },
+  {
+    "file": "2010.mp3",
+    "number": "2010",
+    "et": "kahe tuhande kümnes",
+    "ru": "две тысячи десятый",
+    "en": "two thousand and tenth"
+  },
+  {
+    "file": "2011.mp3",
+    "number": "2011",
+    "et": "kahe tuhande üheteistkümnes",
+    "ru": "две тысячи одиннадцатый",
+    "en": "two thousand and eleventh"
+  },
+  {
+    "file": "2012.mp3",
+    "number": "2012",
+    "et": "kahe tuhande kaheteistkümnes",
+    "ru": "две тысячи двенадцатый",
+    "en": "two thousand and twelfth"
+  },
+  {
+    "file": "2013.mp3",
+    "number": "2013",
+    "et": "kahe tuhande kolmeteistkümnes",
+    "ru": "две тысячи тринадцатый",
+    "en": "two thousand and thirteenth"
+  },
+  {
+    "file": "2014.mp3",
+    "number": "2014",
+    "et": "kahe tuhande neljateistkümnes",
+    "ru": "две тысячи четырнадцатый",
+    "en": "two thousand and fourteenth"
+  },
+  {
+    "file": "2015.mp3",
+    "number": "2015",
+    "et": "kahe tuhande viieteistkümnes",
+    "ru": "две тысячи пятнадцатый",
+    "en": "two thousand and fifteenth"
+  },
+  {
+    "file": "2016.mp3",
+    "number": "2016",
+    "et": "kahe tuhande kuueteistkümnes",
+    "ru": "две тысячи шестнадцатый",
+    "en": "two thousand and sixteenth"
+  },
+  {
+    "file": "2017.mp3",
+    "number": "2017",
+    "et": "kahe tuhande seitsmeteistkümnes",
+    "ru": "две тысячи семнадцатый",
+    "en": "two thousand and seventeenth"
+  },
+  {
+    "file": "2018.mp3",
+    "number": "2018",
+    "et": "kahe tuhande kaheksateistkümnes",
+    "ru": "две тысячи восемнадцатый",
+    "en": "two thousand and eighteenth"
+  },
+  {
+    "file": "2019.mp3",
+    "number": "2019",
+    "et": "kahe tuhande üheksateistkümnes",
+    "ru": "две тысячи девятнадцатый",
+    "en": "two thousand and nineteenth"
+  },
+  {
+    "file": "2020.mp3",
+    "number": "2020",
+    "et": "kahe tuhande kahekümnes",
+    "ru": "две тысячи двадцатый",
+    "en": "two thousand and twentieth"
+  },
+  {
+    "file": "2021.mp3",
+    "number": "2021",
+    "et": "kahe tuhande kahekümne esimene",
+    "ru": "две тысячи двадцать первый",
+    "en": "two thousand and twenty-first"
+  },
+  {
+    "file": "2022.mp3",
+    "number": "2022",
+    "et": "kahe tuhande kahekümne teine",
+    "ru": "две тысячи двадцать второй",
+    "en": "two thousand and twenty-second"
+  },
+  {
+    "file": "2023.mp3",
+    "number": "2023",
+    "et": "kahe tuhande kahekümne kolmas",
+    "ru": "две тысячи двадцать третий",
+    "en": "two thousand and twenty-third"
+  },
+  {
+    "file": "2024.mp3",
+    "number": "2024",
+    "et": "kahe tuhande kahekümne neljas",
+    "ru": "две тысячи двадцать четвёртый",
+    "en": "two thousand and twenty-fourth"
+  },
+  {
+    "file": "2025.mp3",
+    "number": "2025",
+    "et": "kahe tuhande kahekümne viies",
+    "ru": "две тысячи двадцать пятый",
+    "en": "two thousand and twenty-fifth"
+  },
+  {
+    "file": "2026.mp3",
+    "number": "2026",
+    "et": "kahe tuhande kahekümne kuues",
+    "ru": "две тысячи двадцать шестой",
+    "en": "two thousand and twenty-sixth"
+  },
+  {
+    "file": "2027.mp3",
+    "number": "2027",
+    "et": "kahe tuhande kahekümne seitsmes",
+    "ru": "две тысячи двадцать седьмой",
+    "en": "two thousand and twenty-seventh"
+  },
+  {
+    "file": "2028.mp3",
+    "number": "2028",
+    "et": "kahe tuhande kahekümne kaheksas",
+    "ru": "две тысячи двадцать восьмой",
+    "en": "two thousand and twenty-eighth"
+  },
+  {
+    "file": "2029.mp3",
+    "number": "2029",
+    "et": "kahe tuhande kahekümne üheksas",
+    "ru": "две тысячи двадцать девятый",
+    "en": "two thousand and twenty-ninth"
+  },
+  {
+    "file": "2030.mp3",
+    "number": "2030",
+    "et": "kahe tuhande kolmekümnes",
+    "ru": "две тысячи тридцатый",
+    "en": "two thousand and thirtieth"
+  }
+]

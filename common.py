@@ -33,8 +33,8 @@ def tts_bytes(text, lang, delay=TTS_DELAY, retries=5, backoff=5):
 
 
 NEUROKONE_URL = "https://api.tartunlp.ai/text-to-speech/v2"   # backend of https://www.neurokone.ee
-NEUROKONE_VOICES = ["albert", "indrek", "kalev", "kylli", "lee", "liivika", "luukas",
-                    "mari", "meelis", "peeter", "tambet", "vesta"]   # Estonian voices
+NEUROKONE_VOICES = ["albert", "indrek", "kalev", "kylli", "liivika",
+                    "mari", "meelis", "peeter", "tambet", "vesta"]   # Estonian voices; "lee", "luukas" time out
 # lee and luukas are listed by the API but currently time out (HTTP 408), so 'random' skips them
 NEUROKONE_RANDOM_VOICES = [v for v in NEUROKONE_VOICES if v not in ("lee", "luukas")]
 ENGINES = ["google", "neurokone"]
@@ -52,11 +52,11 @@ def neurokone_bytes(text, voice, delay=TTS_DELAY, retries=5, backoff=5):
             if delay > 0:
                 time.sleep(delay)
             break
-        except Exception:
+        except Exception as e:
             if attempt == retries - 1:
                 raise
             wait = backoff * (2 ** attempt)
-            print(f"  [neurokone request failed, retrying in {wait}s...]")
+            print(f"  [neurokone request failed ({e}), retrying in {wait}s...]")
             time.sleep(wait)
     result = subprocess.run(
         ["ffmpeg", "-f", "wav", "-i", "pipe:0", "-ar", "22050", "-ac", "1",
@@ -120,5 +120,8 @@ def generate_audio(text, lang, output_path, speed=NORMAL, engine="google", voice
     with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp:
         tmp_path = tmp.name
         tmp.write(speech_bytes(text, lang, engine, voice))
-    apply_speed(tmp_path, output_path, speed)
-    os.unlink(tmp_path)
+    if engine == "google":
+        apply_speed(tmp_path, output_path, speed)
+        os.unlink(tmp_path)
+    else:
+        os.replace(tmp_path, output_path)
