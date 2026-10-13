@@ -181,6 +181,7 @@ def ru_ordinal_genitive(n):
     words[-1] = last
     return ' '.join(words)
 
+
 # --- generation ---
 # Layout:   output/<category>/<lang>/<number>.mp3  one folder per generated language
 #           output/<category>/et-ru/<number>.mp3   combined ET+gap+RU (--combined flag)
