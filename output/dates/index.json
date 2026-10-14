@@ -1,0 +1,2557 @@
+[
+  {
+    "file": "01.01.mp3",
+    "number": "01.01",
+    "et": "esimene jaanuar",
+    "ru": "первое января",
+    "en": "first of January"
+  },
+  {
+    "file": "02.01.mp3",
+    "number": "02.01",
+    "et": "teine jaanuar",
+    "ru": "второе января",
+    "en": "second of January"
+  },
+  {
+    "file": "03.01.mp3",
+    "number": "03.01",
+    "et": "kolmas jaanuar",
+    "ru": "третье января",
+    "en": "third of January"
+  },
+  {
+    "file": "04.01.mp3",
+    "number": "04.01",
+    "et": "neljas jaanuar",
+    "ru": "четвёртое января",
+    "en": "fourth of January"
+  },
+  {
+    "file": "05.01.mp3",
+    "number": "05.01",
+    "et": "viies jaanuar",
+    "ru": "пятое января",
+    "en": "fifth of January"
+  },
+  {
+    "file": "06.01.mp3",
+    "number": "06.01",
+    "et": "kuues jaanuar",
+    "ru": "шестое января",
+    "en": "sixth of January"
+  },
+  {
+    "file": "07.01.mp3",
+    "number": "07.01",
+    "et": "seitsmes jaanuar",
+    "ru": "седьмое января",
+    "en": "seventh of January"
+  },
+  {
+    "file": "08.01.mp3",
+    "number": "08.01",
+    "et": "kaheksas jaanuar",
+    "ru": "восьмое января",
+    "en": "eighth of January"
+  },
+  {
+    "file": "09.01.mp3",
+    "number": "09.01",
+    "et": "üheksas jaanuar",
+    "ru": "девятое января",
+    "en": "ninth of January"
+  },
+  {
+    "file": "10.01.mp3",
+    "number": "10.01",
+    "et": "kümnes jaanuar",
+    "ru": "десятое января",
+    "en": "tenth of January"
+  },
+  {
+    "file": "11.01.mp3",
+    "number": "11.01",
+    "et": "üheteistkümnes jaanuar",
+    "ru": "одиннадцатое января",
+    "en": "eleventh of January"
+  },
+  {
+    "file": "12.01.mp3",
+    "number": "12.01",
+    "et": "kaheteistkümnes jaanuar",
+    "ru": "двенадцатое января",
+    "en": "twelfth of January"
+  },
+  {
+    "file": "13.01.mp3",
+    "number": "13.01",
+    "et": "kolmeteistkümnes jaanuar",
+    "ru": "тринадцатое января",
+    "en": "thirteenth of January"
+  },
+  {
+    "file": "14.01.mp3",
+    "number": "14.01",
+    "et": "neljateistkümnes jaanuar",
+    "ru": "четырнадцатое января",
+    "en": "fourteenth of January"
+  },
+  {
+    "file": "15.01.mp3",
+    "number": "15.01",
+    "et": "viieteistkümnes jaanuar",
+    "ru": "пятнадцатое января",
+    "en": "fifteenth of January"
+  },
+  {
+    "file": "16.01.mp3",
+    "number": "16.01",
+    "et": "kuueteistkümnes jaanuar",
+    "ru": "шестнадцатое января",
+    "en": "sixteenth of January"
+  },
+  {
+    "file": "17.01.mp3",
+    "number": "17.01",
+    "et": "seitsmeteistkümnes jaanuar",
+    "ru": "семнадцатое января",
+    "en": "seventeenth of January"
+  },
+  {
+    "file": "18.01.mp3",
+    "number": "18.01",
+    "et": "kaheksateistkümnes jaanuar",
+    "ru": "восемнадцатое января",
+    "en": "eighteenth of January"
+  },
+  {
+    "file": "19.01.mp3",
+    "number": "19.01",
+    "et": "üheksateistkümnes jaanuar",
+    "ru": "девятнадцатое января",
+    "en": "nineteenth of January"
+  },
+  {
+    "file": "20.01.mp3",
+    "number": "20.01",
+    "et": "kahekümnes jaanuar",
+    "ru": "двадцатое января",
+    "en": "twentieth of January"
+  },
+  {
+    "file": "21.01.mp3",
+    "number": "21.01",
+    "et": "kahekümne esimene jaanuar",
+    "ru": "двадцать первое января",
+    "en": "twenty-first of January"
+  },
+  {
+    "file": "22.01.mp3",
+    "number": "22.01",
+    "et": "kahekümne teine jaanuar",
+    "ru": "двадцать второе января",
+    "en": "twenty-second of January"
+  },
+  {
+    "file": "23.01.mp3",
+    "number": "23.01",
+    "et": "kahekümne kolmas jaanuar",
+    "ru": "двадцать третье января",
+    "en": "twenty-third of January"
+  },
+  {
+    "file": "24.01.mp3",
+    "number": "24.01",
+    "et": "kahekümne neljas jaanuar",
+    "ru": "двадцать четвёртое января",
+    "en": "twenty-fourth of January"
+  },
+  {
+    "file": "25.01.mp3",
+    "number": "25.01",
+    "et": "kahekümne viies jaanuar",
+    "ru": "двадцать пятое января",
+    "en": "twenty-fifth of January"
+  },
+  {
+    "file": "26.01.mp3",
+    "number": "26.01",
+    "et": "kahekümne kuues jaanuar",
+    "ru": "двадцать шестое января",
+    "en": "twenty-sixth of January"
+  },
+  {
+    "file": "27.01.mp3",
+    "number": "27.01",
+    "et": "kahekümne seitsmes jaanuar",
+    "ru": "двадцать седьмое января",
+    "en": "twenty-seventh of January"
+  },
+  {
+    "file": "28.01.mp3",
+    "number": "28.01",
+    "et": "kahekümne kaheksas jaanuar",
+    "ru": "двадцать восьмое января",
+    "en": "twenty-eighth of January"
+  },
+  {
+    "file": "29.01.mp3",
+    "number": "29.01",
+    "et": "kahekümne üheksas jaanuar",
+    "ru": "двадцать девятое января",
+    "en": "twenty-ninth of January"
+  },
+  {
+    "file": "30.01.mp3",
+    "number": "30.01",
+    "et": "kolmekümnes jaanuar",
+    "ru": "тридцатое января",
+    "en": "thirtieth of January"
+  },
+  {
+    "file": "31.01.mp3",
+    "number": "31.01",
+    "et": "kolmekümne esimene jaanuar",
+    "ru": "тридцать первое января",
+    "en": "thirty-first of January"
+  },
+  {
+    "file": "01.02.mp3",
+    "number": "01.02",
+    "et": "esimene veebruar",
+    "ru": "первое февраля",
+    "en": "first of February"
+  },
+  {
+    "file": "02.02.mp3",
+    "number": "02.02",
+    "et": "teine veebruar",
+    "ru": "второе февраля",
+    "en": "second of February"
+  },
+  {
+    "file": "03.02.mp3",
+    "number": "03.02",
+    "et": "kolmas veebruar",
+    "ru": "третье февраля",
+    "en": "third of February"
+  },
+  {
+    "file": "04.02.mp3",
+    "number": "04.02",
+    "et": "neljas veebruar",
+    "ru": "четвёртое февраля",
+    "en": "fourth of February"
+  },
+  {
+    "file": "05.02.mp3",
+    "number": "05.02",
+    "et": "viies veebruar",
+    "ru": "пятое февраля",
+    "en": "fifth of February"
+  },
+  {
+    "file": "06.02.mp3",
+    "number": "06.02",
+    "et": "kuues veebruar",
+    "ru": "шестое февраля",
+    "en": "sixth of February"
+  },
+  {
+    "file": "07.02.mp3",
+    "number": "07.02",
+    "et": "seitsmes veebruar",
+    "ru": "седьмое февраля",
+    "en": "seventh of February"
+  },
+  {
+    "file": "08.02.mp3",
+    "number": "08.02",
+    "et": "kaheksas veebruar",
+    "ru": "восьмое февраля",
+    "en": "eighth of February"
+  },
+  {
+    "file": "09.02.mp3",
+    "number": "09.02",
+    "et": "üheksas veebruar",
+    "ru": "девятое февраля",
+    "en": "ninth of February"
+  },
+  {
+    "file": "10.02.mp3",
+    "number": "10.02",
+    "et": "kümnes veebruar",
+    "ru": "десятое февраля",
+    "en": "tenth of February"
+  },
+  {
+    "file": "11.02.mp3",
+    "number": "11.02",
+    "et": "üheteistkümnes veebruar",
+    "ru": "одиннадцатое февраля",
+    "en": "eleventh of February"
+  },
+  {
+    "file": "12.02.mp3",
+    "number": "12.02",
+    "et": "kaheteistkümnes veebruar",
+    "ru": "двенадцатое февраля",
+    "en": "twelfth of February"
+  },
+  {
+    "file": "13.02.mp3",
+    "number": "13.02",
+    "et": "kolmeteistkümnes veebruar",
+    "ru": "тринадцатое февраля",
+    "en": "thirteenth of February"
+  },
+  {
+    "file": "14.02.mp3",
+    "number": "14.02",
+    "et": "neljateistkümnes veebruar",
+    "ru": "четырнадцатое февраля",
+    "en": "fourteenth of February"
+  },
+  {
+    "file": "15.02.mp3",
+    "number": "15.02",
+    "et": "viieteistkümnes veebruar",
+    "ru": "пятнадцатое февраля",
+    "en": "fifteenth of February"
+  },
+  {
+    "file": "16.02.mp3",
+    "number": "16.02",
+    "et": "kuueteistkümnes veebruar",
+    "ru": "шестнадцатое февраля",
+    "en": "sixteenth of February"
+  },
+  {
+    "file": "17.02.mp3",
+    "number": "17.02",
+    "et": "seitsmeteistkümnes veebruar",
+    "ru": "семнадцатое февраля",
+    "en": "seventeenth of February"
+  },
+  {
+    "file": "18.02.mp3",
+    "number": "18.02",
+    "et": "kaheksateistkümnes veebruar",
+    "ru": "восемнадцатое февраля",
+    "en": "eighteenth of February"
+  },
+  {
+    "file": "19.02.mp3",
+    "number": "19.02",
+    "et": "üheksateistkümnes veebruar",
+    "ru": "девятнадцатое февраля",
+    "en": "nineteenth of February"
+  },
+  {
+    "file": "20.02.mp3",
+    "number": "20.02",
+    "et": "kahekümnes veebruar",
+    "ru": "двадцатое февраля",
+    "en": "twentieth of February"
+  },
+  {
+    "file": "21.02.mp3",
+    "number": "21.02",
+    "et": "kahekümne esimene veebruar",
+    "ru": "двадцать первое февраля",
+    "en": "twenty-first of February"
+  },
+  {
+    "file": "22.02.mp3",
+    "number": "22.02",
+    "et": "kahekümne teine veebruar",
+    "ru": "двадцать второе февраля",
+    "en": "twenty-second of February"
+  },
+  {
+    "file": "23.02.mp3",
+    "number": "23.02",
+    "et": "kahekümne kolmas veebruar",
+    "ru": "двадцать третье февраля",
+    "en": "twenty-third of February"
+  },
+  {
+    "file": "24.02.mp3",
+    "number": "24.02",
+    "et": "kahekümne neljas veebruar",
+    "ru": "двадцать четвёртое февраля",
+    "en": "twenty-fourth of February"
+  },
+  {
+    "file": "25.02.mp3",
+    "number": "25.02",
+    "et": "kahekümne viies veebruar",
+    "ru": "двадцать пятое февраля",
+    "en": "twenty-fifth of February"
+  },
+  {
+    "file": "26.02.mp3",
+    "number": "26.02",
+    "et": "kahekümne kuues veebruar",
+    "ru": "двадцать шестое февраля",
+    "en": "twenty-sixth of February"
+  },
+  {
+    "file": "27.02.mp3",
+    "number": "27.02",
+    "et": "kahekümne seitsmes veebruar",
+    "ru": "двадцать седьмое февраля",
+    "en": "twenty-seventh of February"
+  },
+  {
+    "file": "28.02.mp3",
+    "number": "28.02",
+    "et": "kahekümne kaheksas veebruar",
+    "ru": "двадцать восьмое февраля",
+    "en": "twenty-eighth of February"
+  },
+  {
+    "file": "01.03.mp3",
+    "number": "01.03",
+    "et": "esimene märts",
+    "ru": "первое марта",
+    "en": "first of March"
+  },
+  {
+    "file": "02.03.mp3",
+    "number": "02.03",
+    "et": "teine märts",
+    "ru": "второе марта",
+    "en": "second of March"
+  },
+  {
+    "file": "03.03.mp3",
+    "number": "03.03",
+    "et": "kolmas märts",
+    "ru": "третье марта",
+    "en": "third of March"
+  },
+  {
+    "file": "04.03.mp3",
+    "number": "04.03",
+    "et": "neljas märts",
+    "ru": "четвёртое марта",
+    "en": "fourth of March"
+  },
+  {
+    "file": "05.03.mp3",
+    "number": "05.03",
+    "et": "viies märts",
+    "ru": "пятое марта",
+    "en": "fifth of March"
+  },
+  {
+    "file": "06.03.mp3",
+    "number": "06.03",
+    "et": "kuues märts",
+    "ru": "шестое марта",
+    "en": "sixth of March"
+  },
+  {
+    "file": "07.03.mp3",
+    "number": "07.03",
+    "et": "seitsmes märts",
+    "ru": "седьмое марта",
+    "en": "seventh of March"
+  },
+  {
+    "file": "08.03.mp3",
+    "number": "08.03",
+    "et": "kaheksas märts",
+    "ru": "восьмое марта",
+    "en": "eighth of March"
+  },
+  {
+    "file": "09.03.mp3",
+    "number": "09.03",
+    "et": "üheksas märts",
+    "ru": "девятое марта",
+    "en": "ninth of March"
+  },
+  {
+    "file": "10.03.mp3",
+    "number": "10.03",
+    "et": "kümnes märts",
+    "ru": "десятое марта",
+    "en": "tenth of March"
+  },
+  {
+    "file": "11.03.mp3",
+    "number": "11.03",
+    "et": "üheteistkümnes märts",
+    "ru": "одиннадцатое марта",
+    "en": "eleventh of March"
+  },
+  {
+    "file": "12.03.mp3",
+    "number": "12.03",
+    "et": "kaheteistkümnes märts",
+    "ru": "двенадцатое марта",
+    "en": "twelfth of March"
+  },
+  {
+    "file": "13.03.mp3",
+    "number": "13.03",
+    "et": "kolmeteistkümnes märts",
+    "ru": "тринадцатое марта",
+    "en": "thirteenth of March"
+  },
+  {
+    "file": "14.03.mp3",
+    "number": "14.03",
+    "et": "neljateistkümnes märts",
+    "ru": "четырнадцатое марта",
+    "en": "fourteenth of March"
+  },
+  {
+    "file": "15.03.mp3",
+    "number": "15.03",
+    "et": "viieteistkümnes märts",
+    "ru": "пятнадцатое марта",
+    "en": "fifteenth of March"
+  },
+  {
+    "file": "16.03.mp3",
+    "number": "16.03",
+    "et": "kuueteistkümnes märts",
+    "ru": "шестнадцатое марта",
+    "en": "sixteenth of March"
+  },
+  {
+    "file": "17.03.mp3",
+    "number": "17.03",
+    "et": "seitsmeteistkümnes märts",
+    "ru": "семнадцатое марта",
+    "en": "seventeenth of March"
+  },
+  {
+    "file": "18.03.mp3",
+    "number": "18.03",
+    "et": "kaheksateistkümnes märts",
+    "ru": "восемнадцатое марта",
+    "en": "eighteenth of March"
+  },
+  {
+    "file": "19.03.mp3",
+    "number": "19.03",
+    "et": "üheksateistkümnes märts",
+    "ru": "девятнадцатое марта",
+    "en": "nineteenth of March"
+  },
+  {
+    "file": "20.03.mp3",
+    "number": "20.03",
+    "et": "kahekümnes märts",
+    "ru": "двадцатое марта",
+    "en": "twentieth of March"
+  },
+  {
+    "file": "21.03.mp3",
+    "number": "21.03",
+    "et": "kahekümne esimene märts",
+    "ru": "двадцать первое марта",
+    "en": "twenty-first of March"
+  },
+  {
+    "file": "22.03.mp3",
+    "number": "22.03",
+    "et": "kahekümne teine märts",
+    "ru": "двадцать второе марта",
+    "en": "twenty-second of March"
+  },
+  {
+    "file": "23.03.mp3",
+    "number": "23.03",
+    "et": "kahekümne kolmas märts",
+    "ru": "двадцать третье марта",
+    "en": "twenty-third of March"
+  },
+  {
+    "file": "24.03.mp3",
+    "number": "24.03",
+    "et": "kahekümne neljas märts",
+    "ru": "двадцать четвёртое марта",
+    "en": "twenty-fourth of March"
+  },
+  {
+    "file": "25.03.mp3",
+    "number": "25.03",
+    "et": "kahekümne viies märts",
+    "ru": "двадцать пятое марта",
+    "en": "twenty-fifth of March"
+  },
+  {
+    "file": "26.03.mp3",
+    "number": "26.03",
+    "et": "kahekümne kuues märts",
+    "ru": "двадцать шестое марта",
+    "en": "twenty-sixth of March"
+  },
+  {
+    "file": "27.03.mp3",
+    "number": "27.03",
+    "et": "kahekümne seitsmes märts",
+    "ru": "двадцать седьмое марта",
+    "en": "twenty-seventh of March"
+  },
+  {
+    "file": "28.03.mp3",
+    "number": "28.03",
+    "et": "kahekümne kaheksas märts",
+    "ru": "двадцать восьмое марта",
+    "en": "twenty-eighth of March"
+  },
+  {
+    "file": "29.03.mp3",
+    "number": "29.03",
+    "et": "kahekümne üheksas märts",
+    "ru": "двадцать девятое марта",
+    "en": "twenty-ninth of March"
+  },
+  {
+    "file": "30.03.mp3",
+    "number": "30.03",
+    "et": "kolmekümnes märts",
+    "ru": "тридцатое марта",
+    "en": "thirtieth of March"
+  },
+  {
+    "file": "31.03.mp3",
+    "number": "31.03",
+    "et": "kolmekümne esimene märts",
+    "ru": "тридцать первое марта",
+    "en": "thirty-first of March"
+  },
+  {
+    "file": "01.04.mp3",
+    "number": "01.04",
+    "et": "esimene aprill",
+    "ru": "первое апреля",
+    "en": "first of April"
+  },
+  {
+    "file": "02.04.mp3",
+    "number": "02.04",
+    "et": "teine aprill",
+    "ru": "второе апреля",
+    "en": "second of April"
+  },
+  {
+    "file": "03.04.mp3",
+    "number": "03.04",
+    "et": "kolmas aprill",
+    "ru": "третье апреля",
+    "en": "third of April"
+  },
+  {
+    "file": "04.04.mp3",
+    "number": "04.04",
+    "et": "neljas aprill",
+    "ru": "четвёртое апреля",
+    "en": "fourth of April"
+  },
+  {
+    "file": "05.04.mp3",
+    "number": "05.04",
+    "et": "viies aprill",
+    "ru": "пятое апреля",
+    "en": "fifth of April"
+  },
+  {
+    "file": "06.04.mp3",
+    "number": "06.04",
+    "et": "kuues aprill",
+    "ru": "шестое апреля",
+    "en": "sixth of April"
+  },
+  {
+    "file": "07.04.mp3",
+    "number": "07.04",
+    "et": "seitsmes aprill",
+    "ru": "седьмое апреля",
+    "en": "seventh of April"
+  },
+  {
+    "file": "08.04.mp3",
+    "number": "08.04",
+    "et": "kaheksas aprill",
+    "ru": "восьмое апреля",
+    "en": "eighth of April"
+  },
+  {
+    "file": "09.04.mp3",
+    "number": "09.04",
+    "et": "üheksas aprill",
+    "ru": "девятое апреля",
+    "en": "ninth of April"
+  },
+  {
+    "file": "10.04.mp3",
+    "number": "10.04",
+    "et": "kümnes aprill",
+    "ru": "десятое апреля",
+    "en": "tenth of April"
+  },
+  {
+    "file": "11.04.mp3",
+    "number": "11.04",
+    "et": "üheteistkümnes aprill",
+    "ru": "одиннадцатое апреля",
+    "en": "eleventh of April"
+  },
+  {
+    "file": "12.04.mp3",
+    "number": "12.04",
+    "et": "kaheteistkümnes aprill",
+    "ru": "двенадцатое апреля",
+    "en": "twelfth of April"
+  },
+  {
+    "file": "13.04.mp3",
+    "number": "13.04",
+    "et": "kolmeteistkümnes aprill",
+    "ru": "тринадцатое апреля",
+    "en": "thirteenth of April"
+  },
+  {
+    "file": "14.04.mp3",
+    "number": "14.04",
+    "et": "neljateistkümnes aprill",
+    "ru": "четырнадцатое апреля",
+    "en": "fourteenth of April"
+  },
+  {
+    "file": "15.04.mp3",
+    "number": "15.04",
+    "et": "viieteistkümnes aprill",
+    "ru": "пятнадцатое апреля",
+    "en": "fifteenth of April"
+  },
+  {
+    "file": "16.04.mp3",
+    "number": "16.04",
+    "et": "kuueteistkümnes aprill",
+    "ru": "шестнадцатое апреля",
+    "en": "sixteenth of April"
+  },
+  {
+    "file": "17.04.mp3",
+    "number": "17.04",
+    "et": "seitsmeteistkümnes aprill",
+    "ru": "семнадцатое апреля",
+    "en": "seventeenth of April"
+  },
+  {
+    "file": "18.04.mp3",
+    "number": "18.04",
+    "et": "kaheksateistkümnes aprill",
+    "ru": "восемнадцатое апреля",
+    "en": "eighteenth of April"
+  },
+  {
+    "file": "19.04.mp3",
+    "number": "19.04",
+    "et": "üheksateistkümnes aprill",
+    "ru": "девятнадцатое апреля",
+    "en": "nineteenth of April"
+  },
+  {
+    "file": "20.04.mp3",
+    "number": "20.04",
+    "et": "kahekümnes aprill",
+    "ru": "двадцатое апреля",
+    "en": "twentieth of April"
+  },
+  {
+    "file": "21.04.mp3",
+    "number": "21.04",
+    "et": "kahekümne esimene aprill",
+    "ru": "двадцать первое апреля",
+    "en": "twenty-first of April"
+  },
+  {
+    "file": "22.04.mp3",
+    "number": "22.04",
+    "et": "kahekümne teine aprill",
+    "ru": "двадцать второе апреля",
+    "en": "twenty-second of April"
+  },
+  {
+    "file": "23.04.mp3",
+    "number": "23.04",
+    "et": "kahekümne kolmas aprill",
+    "ru": "двадцать третье апреля",
+    "en": "twenty-third of April"
+  },
+  {
+    "file": "24.04.mp3",
+    "number": "24.04",
+    "et": "kahekümne neljas aprill",
+    "ru": "двадцать четвёртое апреля",
+    "en": "twenty-fourth of April"
+  },
+  {
+    "file": "25.04.mp3",
+    "number": "25.04",
+    "et": "kahekümne viies aprill",
+    "ru": "двадцать пятое апреля",
+    "en": "twenty-fifth of April"
+  },
+  {
+    "file": "26.04.mp3",
+    "number": "26.04",
+    "et": "kahekümne kuues aprill",
+    "ru": "двадцать шестое апреля",
+    "en": "twenty-sixth of April"
+  },
+  {
+    "file": "27.04.mp3",
+    "number": "27.04",
+    "et": "kahekümne seitsmes aprill",
+    "ru": "двадцать седьмое апреля",
+    "en": "twenty-seventh of April"
+  },
+  {
+    "file": "28.04.mp3",
+    "number": "28.04",
+    "et": "kahekümne kaheksas aprill",
+    "ru": "двадцать восьмое апреля",
+    "en": "twenty-eighth of April"
+  },
+  {
+    "file": "29.04.mp3",
+    "number": "29.04",
+    "et": "kahekümne üheksas aprill",
+    "ru": "двадцать девятое апреля",
+    "en": "twenty-ninth of April"
+  },
+  {
+    "file": "30.04.mp3",
+    "number": "30.04",
+    "et": "kolmekümnes aprill",
+    "ru": "тридцатое апреля",
+    "en": "thirtieth of April"
+  },
+  {
+    "file": "01.05.mp3",
+    "number": "01.05",
+    "et": "esimene mai",
+    "ru": "первое мая",
+    "en": "first of May"
+  },
+  {
+    "file": "02.05.mp3",
+    "number": "02.05",
+    "et": "teine mai",
+    "ru": "второе мая",
+    "en": "second of May"
+  },
+  {
+    "file": "03.05.mp3",
+    "number": "03.05",
+    "et": "kolmas mai",
+    "ru": "третье мая",
+    "en": "third of May"
+  },
+  {
+    "file": "04.05.mp3",
+    "number": "04.05",
+    "et": "neljas mai",
+    "ru": "четвёртое мая",
+    "en": "fourth of May"
+  },
+  {
+    "file": "05.05.mp3",
+    "number": "05.05",
+    "et": "viies mai",
+    "ru": "пятое мая",
+    "en": "fifth of May"
+  },
+  {
+    "file": "06.05.mp3",
+    "number": "06.05",
+    "et": "kuues mai",
+    "ru": "шестое мая",
+    "en": "sixth of May"
+  },
+  {
+    "file": "07.05.mp3",
+    "number": "07.05",
+    "et": "seitsmes mai",
+    "ru": "седьмое мая",
+    "en": "seventh of May"
+  },
+  {
+    "file": "08.05.mp3",
+    "number": "08.05",
+    "et": "kaheksas mai",
+    "ru": "восьмое мая",
+    "en": "eighth of May"
+  },
+  {
+    "file": "09.05.mp3",
+    "number": "09.05",
+    "et": "üheksas mai",
+    "ru": "девятое мая",
+    "en": "ninth of May"
+  },
+  {
+    "file": "10.05.mp3",
+    "number": "10.05",
+    "et": "kümnes mai",
+    "ru": "десятое мая",
+    "en": "tenth of May"
+  },
+  {
+    "file": "11.05.mp3",
+    "number": "11.05",
+    "et": "üheteistkümnes mai",
+    "ru": "одиннадцатое мая",
+    "en": "eleventh of May"
+  },
+  {
+    "file": "12.05.mp3",
+    "number": "12.05",
+    "et": "kaheteistkümnes mai",
+    "ru": "двенадцатое мая",
+    "en": "twelfth of May"
+  },
+  {
+    "file": "13.05.mp3",
+    "number": "13.05",
+    "et": "kolmeteistkümnes mai",
+    "ru": "тринадцатое мая",
+    "en": "thirteenth of May"
+  },
+  {
+    "file": "14.05.mp3",
+    "number": "14.05",
+    "et": "neljateistkümnes mai",
+    "ru": "четырнадцатое мая",
+    "en": "fourteenth of May"
+  },
+  {
+    "file": "15.05.mp3",
+    "number": "15.05",
+    "et": "viieteistkümnes mai",
+    "ru": "пятнадцатое мая",
+    "en": "fifteenth of May"
+  },
+  {
+    "file": "16.05.mp3",
+    "number": "16.05",
+    "et": "kuueteistkümnes mai",
+    "ru": "шестнадцатое мая",
+    "en": "sixteenth of May"
+  },
+  {
+    "file": "17.05.mp3",
+    "number": "17.05",
+    "et": "seitsmeteistkümnes mai",
+    "ru": "семнадцатое мая",
+    "en": "seventeenth of May"
+  },
+  {
+    "file": "18.05.mp3",
+    "number": "18.05",
+    "et": "kaheksateistkümnes mai",
+    "ru": "восемнадцатое мая",
+    "en": "eighteenth of May"
+  },
+  {
+    "file": "19.05.mp3",
+    "number": "19.05",
+    "et": "üheksateistkümnes mai",
+    "ru": "девятнадцатое мая",
+    "en": "nineteenth of May"
+  },
+  {
+    "file": "20.05.mp3",
+    "number": "20.05",
+    "et": "kahekümnes mai",
+    "ru": "двадцатое мая",
+    "en": "twentieth of May"
+  },
+  {
+    "file": "21.05.mp3",
+    "number": "21.05",
+    "et": "kahekümne esimene mai",
+    "ru": "двадцать первое мая",
+    "en": "twenty-first of May"
+  },
+  {
+    "file": "22.05.mp3",
+    "number": "22.05",
+    "et": "kahekümne teine mai",
+    "ru": "двадцать второе мая",
+    "en": "twenty-second of May"
+  },
+  {
+    "file": "23.05.mp3",
+    "number": "23.05",
+    "et": "kahekümne kolmas mai",
+    "ru": "двадцать третье мая",
+    "en": "twenty-third of May"
+  },
+  {
+    "file": "24.05.mp3",
+    "number": "24.05",
+    "et": "kahekümne neljas mai",
+    "ru": "двадцать четвёртое мая",
+    "en": "twenty-fourth of May"
+  },
+  {
+    "file": "25.05.mp3",
+    "number": "25.05",
+    "et": "kahekümne viies mai",
+    "ru": "двадцать пятое мая",
+    "en": "twenty-fifth of May"
+  },
+  {
+    "file": "26.05.mp3",
+    "number": "26.05",
+    "et": "kahekümne kuues mai",
+    "ru": "двадцать шестое мая",
+    "en": "twenty-sixth of May"
+  },
+  {
+    "file": "27.05.mp3",
+    "number": "27.05",
+    "et": "kahekümne seitsmes mai",
+    "ru": "двадцать седьмое мая",
+    "en": "twenty-seventh of May"
+  },
+  {
+    "file": "28.05.mp3",
+    "number": "28.05",
+    "et": "kahekümne kaheksas mai",
+    "ru": "двадцать восьмое мая",
+    "en": "twenty-eighth of May"
+  },
+  {
+    "file": "29.05.mp3",
+    "number": "29.05",
+    "et": "kahekümne üheksas mai",
+    "ru": "двадцать девятое мая",
+    "en": "twenty-ninth of May"
+  },
+  {
+    "file": "30.05.mp3",
+    "number": "30.05",
+    "et": "kolmekümnes mai",
+    "ru": "тридцатое мая",
+    "en": "thirtieth of May"
+  },
+  {
+    "file": "31.05.mp3",
+    "number": "31.05",
+    "et": "kolmekümne esimene mai",
+    "ru": "тридцать первое мая",
+    "en": "thirty-first of May"
+  },
+  {
+    "file": "01.06.mp3",
+    "number": "01.06",
+    "et": "esimene juuni",
+    "ru": "первое июня",
+    "en": "first of June"
+  },
+  {
+    "file": "02.06.mp3",
+    "number": "02.06",
+    "et": "teine juuni",
+    "ru": "второе июня",
+    "en": "second of June"
+  },
+  {
+    "file": "03.06.mp3",
+    "number": "03.06",
+    "et": "kolmas juuni",
+    "ru": "третье июня",
+    "en": "third of June"
+  },
+  {
+    "file": "04.06.mp3",
+    "number": "04.06",
+    "et": "neljas juuni",
+    "ru": "четвёртое июня",
+    "en": "fourth of June"
+  },
+  {
+    "file": "05.06.mp3",
+    "number": "05.06",
+    "et": "viies juuni",
+    "ru": "пятое июня",
+    "en": "fifth of June"
+  },
+  {
+    "file": "06.06.mp3",
+    "number": "06.06",
+    "et": "kuues juuni",
+    "ru": "шестое июня",
+    "en": "sixth of June"
+  },
+  {
+    "file": "07.06.mp3",
+    "number": "07.06",
+    "et": "seitsmes juuni",
+    "ru": "седьмое июня",
+    "en": "seventh of June"
+  },
+  {
+    "file": "08.06.mp3",
+    "number": "08.06",
+    "et": "kaheksas juuni",
+    "ru": "восьмое июня",
+    "en": "eighth of June"
+  },
+  {
+    "file": "09.06.mp3",
+    "number": "09.06",
+    "et": "üheksas juuni",
+    "ru": "девятое июня",
+    "en": "ninth of June"
+  },
+  {
+    "file": "10.06.mp3",
+    "number": "10.06",
+    "et": "kümnes juuni",
+    "ru": "десятое июня",
+    "en": "tenth of June"
+  },
+  {
+    "file": "11.06.mp3",
+    "number": "11.06",
+    "et": "üheteistkümnes juuni",
+    "ru": "одиннадцатое июня",
+    "en": "eleventh of June"
+  },
+  {
+    "file": "12.06.mp3",
+    "number": "12.06",
+    "et": "kaheteistkümnes juuni",
+    "ru": "двенадцатое июня",
+    "en": "twelfth of June"
+  },
+  {
+    "file": "13.06.mp3",
+    "number": "13.06",
+    "et": "kolmeteistkümnes juuni",
+    "ru": "тринадцатое июня",
+    "en": "thirteenth of June"
+  },
+  {
+    "file": "14.06.mp3",
+    "number": "14.06",
+    "et": "neljateistkümnes juuni",
+    "ru": "четырнадцатое июня",
+    "en": "fourteenth of June"
+  },
+  {
+    "file": "15.06.mp3",
+    "number": "15.06",
+    "et": "viieteistkümnes juuni",
+    "ru": "пятнадцатое июня",
+    "en": "fifteenth of June"
+  },
+  {
+    "file": "16.06.mp3",
+    "number": "16.06",
+    "et": "kuueteistkümnes juuni",
+    "ru": "шестнадцатое июня",
+    "en": "sixteenth of June"
+  },
+  {
+    "file": "17.06.mp3",
+    "number": "17.06",
+    "et": "seitsmeteistkümnes juuni",
+    "ru": "семнадцатое июня",
+    "en": "seventeenth of June"
+  },
+  {
+    "file": "18.06.mp3",
+    "number": "18.06",
+    "et": "kaheksateistkümnes juuni",
+    "ru": "восемнадцатое июня",
+    "en": "eighteenth of June"
+  },
+  {
+    "file": "19.06.mp3",
+    "number": "19.06",
+    "et": "üheksateistkümnes juuni",
+    "ru": "девятнадцатое июня",
+    "en": "nineteenth of June"
+  },
+  {
+    "file": "20.06.mp3",
+    "number": "20.06",
+    "et": "kahekümnes juuni",
+    "ru": "двадцатое июня",
+    "en": "twentieth of June"
+  },
+  {
+    "file": "21.06.mp3",
+    "number": "21.06",
+    "et": "kahekümne esimene juuni",
+    "ru": "двадцать первое июня",
+    "en": "twenty-first of June"
+  },
+  {
+    "file": "22.06.mp3",
+    "number": "22.06",
+    "et": "kahekümne teine juuni",
+    "ru": "двадцать второе июня",
+    "en": "twenty-second of June"
+  },
+  {
+    "file": "23.06.mp3",
+    "number": "23.06",
+    "et": "kahekümne kolmas juuni",
+    "ru": "двадцать третье июня",
+    "en": "twenty-third of June"
+  },
+  {
+    "file": "24.06.mp3",
+    "number": "24.06",
+    "et": "kahekümne neljas juuni",
+    "ru": "двадцать четвёртое июня",
+    "en": "twenty-fourth of June"
+  },
+  {
+    "file": "25.06.mp3",
+    "number": "25.06",
+    "et": "kahekümne viies juuni",
+    "ru": "двадцать пятое июня",
+    "en": "twenty-fifth of June"
+  },
+  {
+    "file": "26.06.mp3",
+    "number": "26.06",
+    "et": "kahekümne kuues juuni",
+    "ru": "двадцать шестое июня",
+    "en": "twenty-sixth of June"
+  },
+  {
+    "file": "27.06.mp3",
+    "number": "27.06",
+    "et": "kahekümne seitsmes juuni",
+    "ru": "двадцать седьмое июня",
+    "en": "twenty-seventh of June"
+  },
+  {
+    "file": "28.06.mp3",
+    "number": "28.06",
+    "et": "kahekümne kaheksas juuni",
+    "ru": "двадцать восьмое июня",
+    "en": "twenty-eighth of June"
+  },
+  {
+    "file": "29.06.mp3",
+    "number": "29.06",
+    "et": "kahekümne üheksas juuni",
+    "ru": "двадцать девятое июня",
+    "en": "twenty-ninth of June"
+  },
+  {
+    "file": "30.06.mp3",
+    "number": "30.06",
+    "et": "kolmekümnes juuni",
+    "ru": "тридцатое июня",
+    "en": "thirtieth of June"
+  },
+  {
+    "file": "01.07.mp3",
+    "number": "01.07",
+    "et": "esimene juuli",
+    "ru": "первое июля",
+    "en": "first of July"
+  },
+  {
+    "file": "02.07.mp3",
+    "number": "02.07",
+    "et": "teine juuli",
+    "ru": "второе июля",
+    "en": "second of July"
+  },
+  {
+    "file": "03.07.mp3",
+    "number": "03.07",
+    "et": "kolmas juuli",
+    "ru": "третье июля",
+    "en": "third of July"
+  },
+  {
+    "file": "04.07.mp3",
+    "number": "04.07",
+    "et": "neljas juuli",
+    "ru": "четвёртое июля",
+    "en": "fourth of July"
+  },
+  {
+    "file": "05.07.mp3",
+    "number": "05.07",
+    "et": "viies juuli",
+    "ru": "пятое июля",
+    "en": "fifth of July"
+  },
+  {
+    "file": "06.07.mp3",
+    "number": "06.07",
+    "et": "kuues juuli",
+    "ru": "шестое июля",
+    "en": "sixth of July"
+  },
+  {
+    "file": "07.07.mp3",
+    "number": "07.07",
+    "et": "seitsmes juuli",
+    "ru": "седьмое июля",
+    "en": "seventh of July"
+  },
+  {
+    "file": "08.07.mp3",
+    "number": "08.07",
+    "et": "kaheksas juuli",
+    "ru": "восьмое июля",
+    "en": "eighth of July"
+  },
+  {
+    "file": "09.07.mp3",
+    "number": "09.07",
+    "et": "üheksas juuli",
+    "ru": "девятое июля",
+    "en": "ninth of July"
+  },
+  {
+    "file": "10.07.mp3",
+    "number": "10.07",
+    "et": "kümnes juuli",
+    "ru": "десятое июля",
+    "en": "tenth of July"
+  },
+  {
+    "file": "11.07.mp3",
+    "number": "11.07",
+    "et": "üheteistkümnes juuli",
+    "ru": "одиннадцатое июля",
+    "en": "eleventh of July"
+  },
+  {
+    "file": "12.07.mp3",
+    "number": "12.07",
+    "et": "kaheteistkümnes juuli",
+    "ru": "двенадцатое июля",
+    "en": "twelfth of July"
+  },
+  {
+    "file": "13.07.mp3",
+    "number": "13.07",
+    "et": "kolmeteistkümnes juuli",
+    "ru": "тринадцатое июля",
+    "en": "thirteenth of July"
+  },
+  {
+    "file": "14.07.mp3",
+    "number": "14.07",
+    "et": "neljateistkümnes juuli",
+    "ru": "четырнадцатое июля",
+    "en": "fourteenth of July"
+  },
+  {
+    "file": "15.07.mp3",
+    "number": "15.07",
+    "et": "viieteistkümnes juuli",
+    "ru": "пятнадцатое июля",
+    "en": "fifteenth of July"
+  },
+  {
+    "file": "16.07.mp3",
+    "number": "16.07",
+    "et": "kuueteistkümnes juuli",
+    "ru": "шестнадцатое июля",
+    "en": "sixteenth of July"
+  },
+  {
+    "file": "17.07.mp3",
+    "number": "17.07",
+    "et": "seitsmeteistkümnes juuli",
+    "ru": "семнадцатое июля",
+    "en": "seventeenth of July"
+  },
+  {
+    "file": "18.07.mp3",
+    "number": "18.07",
+    "et": "kaheksateistkümnes juuli",
+    "ru": "восемнадцатое июля",
+    "en": "eighteenth of July"
+  },
+  {
+    "file": "19.07.mp3",
+    "number": "19.07",
+    "et": "üheksateistkümnes juuli",
+    "ru": "девятнадцатое июля",
+    "en": "nineteenth of July"
+  },
+  {
+    "file": "20.07.mp3",
+    "number": "20.07",
+    "et": "kahekümnes juuli",
+    "ru": "двадцатое июля",
+    "en": "twentieth of July"
+  },
+  {
+    "file": "21.07.mp3",
+    "number": "21.07",
+    "et": "kahekümne esimene juuli",
+    "ru": "двадцать первое июля",
+    "en": "twenty-first of July"
+  },
+  {
+    "file": "22.07.mp3",
+    "number": "22.07",
+    "et": "kahekümne teine juuli",
+    "ru": "двадцать второе июля",
+    "en": "twenty-second of July"
+  },
+  {
+    "file": "23.07.mp3",
+    "number": "23.07",
+    "et": "kahekümne kolmas juuli",
+    "ru": "двадцать третье июля",
+    "en": "twenty-third of July"
+  },
+  {
+    "file": "24.07.mp3",
+    "number": "24.07",
+    "et": "kahekümne neljas juuli",
+    "ru": "двадцать четвёртое июля",
+    "en": "twenty-fourth of July"
+  },
+  {
+    "file": "25.07.mp3",
+    "number": "25.07",
+    "et": "kahekümne viies juuli",
+    "ru": "двадцать пятое июля",
+    "en": "twenty-fifth of July"
+  },
+  {
+    "file": "26.07.mp3",
+    "number": "26.07",
+    "et": "kahekümne kuues juuli",
+    "ru": "двадцать шестое июля",
+    "en": "twenty-sixth of July"
+  },
+  {
+    "file": "27.07.mp3",
+    "number": "27.07",
+    "et": "kahekümne seitsmes juuli",
+    "ru": "двадцать седьмое июля",
+    "en": "twenty-seventh of July"
+  },
+  {
+    "file": "28.07.mp3",
+    "number": "28.07",
+    "et": "kahekümne kaheksas juuli",
+    "ru": "двадцать восьмое июля",
+    "en": "twenty-eighth of July"
+  },
+  {
+    "file": "29.07.mp3",
+    "number": "29.07",
+    "et": "kahekümne üheksas juuli",
+    "ru": "двадцать девятое июля",
+    "en": "twenty-ninth of July"
+  },
+  {
+    "file": "30.07.mp3",
+    "number": "30.07",
+    "et": "kolmekümnes juuli",
+    "ru": "тридцатое июля",
+    "en": "thirtieth of July"
+  },
+  {
+    "file": "31.07.mp3",
+    "number": "31.07",
+    "et": "kolmekümne esimene juuli",
+    "ru": "тридцать первое июля",
+    "en": "thirty-first of July"
+  },
+  {
+    "file": "01.08.mp3",
+    "number": "01.08",
+    "et": "esimene august",
+    "ru": "первое августа",
+    "en": "first of August"
+  },
+  {
+    "file": "02.08.mp3",
+    "number": "02.08",
+    "et": "teine august",
+    "ru": "второе августа",
+    "en": "second of August"
+  },
+  {
+    "file": "03.08.mp3",
+    "number": "03.08",
+    "et": "kolmas august",
+    "ru": "третье августа",
+    "en": "third of August"
+  },
+  {
+    "file": "04.08.mp3",
+    "number": "04.08",
+    "et": "neljas august",
+    "ru": "четвёртое августа",
+    "en": "fourth of August"
+  },
+  {
+    "file": "05.08.mp3",
+    "number": "05.08",
+    "et": "viies august",
+    "ru": "пятое августа",
+    "en": "fifth of August"
+  },
+  {
+    "file": "06.08.mp3",
+    "number": "06.08",
+    "et": "kuues august",
+    "ru": "шестое августа",
+    "en": "sixth of August"
+  },
+  {
+    "file": "07.08.mp3",
+    "number": "07.08",
+    "et": "seitsmes august",
+    "ru": "седьмое августа",
+    "en": "seventh of August"
+  },
+  {
+    "file": "08.08.mp3",
+    "number": "08.08",
+    "et": "kaheksas august",
+    "ru": "восьмое августа",
+    "en": "eighth of August"
+  },
+  {
+    "file": "09.08.mp3",
+    "number": "09.08",
+    "et": "üheksas august",
+    "ru": "девятое августа",
+    "en": "ninth of August"
+  },
+  {
+    "file": "10.08.mp3",
+    "number": "10.08",
+    "et": "kümnes august",
+    "ru": "десятое августа",
+    "en": "tenth of August"
+  },
+  {
+    "file": "11.08.mp3",
+    "number": "11.08",
+    "et": "üheteistkümnes august",
+    "ru": "одиннадцатое августа",
+    "en": "eleventh of August"
+  },
+  {
+    "file": "12.08.mp3",
+    "number": "12.08",
+    "et": "kaheteistkümnes august",
+    "ru": "двенадцатое августа",
+    "en": "twelfth of August"
+  },
+  {
+    "file": "13.08.mp3",
+    "number": "13.08",
+    "et": "kolmeteistkümnes august",
+    "ru": "тринадцатое августа",
+    "en": "thirteenth of August"
+  },
+  {
+    "file": "14.08.mp3",
+    "number": "14.08",
+    "et": "neljateistkümnes august",
+    "ru": "четырнадцатое августа",
+    "en": "fourteenth of August"
+  },
+  {
+    "file": "15.08.mp3",
+    "number": "15.08",
+    "et": "viieteistkümnes august",
+    "ru": "пятнадцатое августа",
+    "en": "fifteenth of August"
+  },
+  {
+    "file": "16.08.mp3",
+    "number": "16.08",
+    "et": "kuueteistkümnes august",
+    "ru": "шестнадцатое августа",
+    "en": "sixteenth of August"
+  },
+  {
+    "file": "17.08.mp3",
+    "number": "17.08",
+    "et": "seitsmeteistkümnes august",
+    "ru": "семнадцатое августа",
+    "en": "seventeenth of August"
+  },
+  {
+    "file": "18.08.mp3",
+    "number": "18.08",
+    "et": "kaheksateistkümnes august",
+    "ru": "восемнадцатое августа",
+    "en": "eighteenth of August"
+  },
+  {
+    "file": "19.08.mp3",
+    "number": "19.08",
+    "et": "üheksateistkümnes august",
+    "ru": "девятнадцатое августа",
+    "en": "nineteenth of August"
+  },
+  {
+    "file": "20.08.mp3",
+    "number": "20.08",
+    "et": "kahekümnes august",
+    "ru": "двадцатое августа",
+    "en": "twentieth of August"
+  },
+  {
+    "file": "21.08.mp3",
+    "number": "21.08",
+    "et": "kahekümne esimene august",
+    "ru": "двадцать первое августа",
+    "en": "twenty-first of August"
+  },
+  {
+    "file": "22.08.mp3",
+    "number": "22.08",
+    "et": "kahekümne teine august",
+    "ru": "двадцать второе августа",
+    "en": "twenty-second of August"
+  },
+  {
+    "file": "23.08.mp3",
+    "number": "23.08",
+    "et": "kahekümne kolmas august",
+    "ru": "двадцать третье августа",
+    "en": "twenty-third of August"
+  },
+  {
+    "file": "24.08.mp3",
+    "number": "24.08",
+    "et": "kahekümne neljas august",
+    "ru": "двадцать четвёртое августа",
+    "en": "twenty-fourth of August"
+  },
+  {
+    "file": "25.08.mp3",
+    "number": "25.08",
+    "et": "kahekümne viies august",
+    "ru": "двадцать пятое августа",
+    "en": "twenty-fifth of August"
+  },
+  {
+    "file": "26.08.mp3",
+    "number": "26.08",
+    "et": "kahekümne kuues august",
+    "ru": "двадцать шестое августа",
+    "en": "twenty-sixth of August"
+  },
+  {
+    "file": "27.08.mp3",
+    "number": "27.08",
+    "et": "kahekümne seitsmes august",
+    "ru": "двадцать седьмое августа",
+    "en": "twenty-seventh of August"
+  },
+  {
+    "file": "28.08.mp3",
+    "number": "28.08",
+    "et": "kahekümne kaheksas august",
+    "ru": "двадцать восьмое августа",
+    "en": "twenty-eighth of August"
+  },
+  {
+    "file": "29.08.mp3",
+    "number": "29.08",
+    "et": "kahekümne üheksas august",
+    "ru": "двадцать девятое августа",
+    "en": "twenty-ninth of August"
+  },
+  {
+    "file": "30.08.mp3",
+    "number": "30.08",
+    "et": "kolmekümnes august",
+    "ru": "тридцатое августа",
+    "en": "thirtieth of August"
+  },
+  {
+    "file": "31.08.mp3",
+    "number": "31.08",
+    "et": "kolmekümne esimene august",
+    "ru": "тридцать первое августа",
+    "en": "thirty-first of August"
+  },
+  {
+    "file": "01.09.mp3",
+    "number": "01.09",
+    "et": "esimene september",
+    "ru": "первое сентября",
+    "en": "first of September"
+  },
+  {
+    "file": "02.09.mp3",
+    "number": "02.09",
+    "et": "teine september",
+    "ru": "второе сентября",
+    "en": "second of September"
+  },
+  {
+    "file": "03.09.mp3",
+    "number": "03.09",
+    "et": "kolmas september",
+    "ru": "третье сентября",
+    "en": "third of September"
+  },
+  {
+    "file": "04.09.mp3",
+    "number": "04.09",
+    "et": "neljas september",
+    "ru": "четвёртое сентября",
+    "en": "fourth of September"
+  },
+  {
+    "file": "05.09.mp3",
+    "number": "05.09",
+    "et": "viies september",
+    "ru": "пятое сентября",
+    "en": "fifth of September"
+  },
+  {
+    "file": "06.09.mp3",
+    "number": "06.09",
+    "et": "kuues september",
+    "ru": "шестое сентября",
+    "en": "sixth of September"
+  },
+  {
+    "file": "07.09.mp3",
+    "number": "07.09",
+    "et": "seitsmes september",
+    "ru": "седьмое сентября",
+    "en": "seventh of September"
+  },
+  {
+    "file": "08.09.mp3",
+    "number": "08.09",
+    "et": "kaheksas september",
+    "ru": "восьмое сентября",
+    "en": "eighth of September"
+  },
+  {
+    "file": "09.09.mp3",
+    "number": "09.09",
+    "et": "üheksas september",
+    "ru": "девятое сентября",
+    "en": "ninth of September"
+  },
+  {
+    "file": "10.09.mp3",
+    "number": "10.09",
+    "et": "kümnes september",
+    "ru": "десятое сентября",
+    "en": "tenth of September"
+  },
+  {
+    "file": "11.09.mp3",
+    "number": "11.09",
+    "et": "üheteistkümnes september",
+    "ru": "одиннадцатое сентября",
+    "en": "eleventh of September"
+  },
+  {
+    "file": "12.09.mp3",
+    "number": "12.09",
+    "et": "kaheteistkümnes september",
+    "ru": "двенадцатое сентября",
+    "en": "twelfth of September"
+  },
+  {
+    "file": "13.09.mp3",
+    "number": "13.09",
+    "et": "kolmeteistkümnes september",
+    "ru": "тринадцатое сентября",
+    "en": "thirteenth of September"
+  },
+  {
+    "file": "14.09.mp3",
+    "number": "14.09",
+    "et": "neljateistkümnes september",
+    "ru": "четырнадцатое сентября",
+    "en": "fourteenth of September"
+  },
+  {
+    "file": "15.09.mp3",
+    "number": "15.09",
+    "et": "viieteistkümnes september",
+    "ru": "пятнадцатое сентября",
+    "en": "fifteenth of September"
+  },
+  {
+    "file": "16.09.mp3",
+    "number": "16.09",
+    "et": "kuueteistkümnes september",
+    "ru": "шестнадцатое сентября",
+    "en": "sixteenth of September"
+  },
+  {
+    "file": "17.09.mp3",
+    "number": "17.09",
+    "et": "seitsmeteistkümnes september",
+    "ru": "семнадцатое сентября",
+    "en": "seventeenth of September"
+  },
+  {
+    "file": "18.09.mp3",
+    "number": "18.09",
+    "et": "kaheksateistkümnes september",
+    "ru": "восемнадцатое сентября",
+    "en": "eighteenth of September"
+  },
+  {
+    "file": "19.09.mp3",
+    "number": "19.09",
+    "et": "üheksateistkümnes september",
+    "ru": "девятнадцатое сентября",
+    "en": "nineteenth of September"
+  },
+  {
+    "file": "20.09.mp3",
+    "number": "20.09",
+    "et": "kahekümnes september",
+    "ru": "двадцатое сентября",
+    "en": "twentieth of September"
+  },
+  {
+    "file": "21.09.mp3",
+    "number": "21.09",
+    "et": "kahekümne esimene september",
+    "ru": "двадцать первое сентября",
+    "en": "twenty-first of September"
+  },
+  {
+    "file": "22.09.mp3",
+    "number": "22.09",
+    "et": "kahekümne teine september",
+    "ru": "двадцать второе сентября",
+    "en": "twenty-second of September"
+  },
+  {
+    "file": "23.09.mp3",
+    "number": "23.09",
+    "et": "kahekümne kolmas september",
+    "ru": "двадцать третье сентября",
+    "en": "twenty-third of September"
+  },
+  {
+    "file": "24.09.mp3",
+    "number": "24.09",
+    "et": "kahekümne neljas september",
+    "ru": "двадцать четвёртое сентября",
+    "en": "twenty-fourth of September"
+  },
+  {
+    "file": "25.09.mp3",
+    "number": "25.09",
+    "et": "kahekümne viies september",
+    "ru": "двадцать пятое сентября",
+    "en": "twenty-fifth of September"
+  },
+  {
+    "file": "26.09.mp3",
+    "number": "26.09",
+    "et": "kahekümne kuues september",
+    "ru": "двадцать шестое сентября",
+    "en": "twenty-sixth of September"
+  },
+  {
+    "file": "27.09.mp3",
+    "number": "27.09",
+    "et": "kahekümne seitsmes september",
+    "ru": "двадцать седьмое сентября",
+    "en": "twenty-seventh of September"
+  },
+  {
+    "file": "28.09.mp3",
+    "number": "28.09",
+    "et": "kahekümne kaheksas september",
+    "ru": "двадцать восьмое сентября",
+    "en": "twenty-eighth of September"
+  },
+  {
+    "file": "29.09.mp3",
+    "number": "29.09",
+    "et": "kahekümne üheksas september",
+    "ru": "двадцать девятое сентября",
+    "en": "twenty-ninth of September"
+  },
+  {
+    "file": "30.09.mp3",
+    "number": "30.09",
+    "et": "kolmekümnes september",
+    "ru": "тридцатое сентября",
+    "en": "thirtieth of September"
+  },
+  {
+    "file": "01.10.mp3",
+    "number": "01.10",
+    "et": "esimene oktoober",
+    "ru": "первое октября",
+    "en": "first of October"
+  },
+  {
+    "file": "02.10.mp3",
+    "number": "02.10",
+    "et": "teine oktoober",
+    "ru": "второе октября",
+    "en": "second of October"
+  },
+  {
+    "file": "03.10.mp3",
+    "number": "03.10",
+    "et": "kolmas oktoober",
+    "ru": "третье октября",
+    "en": "third of October"
+  },
+  {
+    "file": "04.10.mp3",
+    "number": "04.10",
+    "et": "neljas oktoober",
+    "ru": "четвёртое октября",
+    "en": "fourth of October"
+  },
+  {
+    "file": "05.10.mp3",
+    "number": "05.10",
+    "et": "viies oktoober",
+    "ru": "пятое октября",
+    "en": "fifth of October"
+  },
+  {
+    "file": "06.10.mp3",
+    "number": "06.10",
+    "et": "kuues oktoober",
+    "ru": "шестое октября",
+    "en": "sixth of October"
+  },
+  {
+    "file": "07.10.mp3",
+    "number": "07.10",
+    "et": "seitsmes oktoober",
+    "ru": "седьмое октября",
+    "en": "seventh of October"
+  },
+  {
+    "file": "08.10.mp3",
+    "number": "08.10",
+    "et": "kaheksas oktoober",
+    "ru": "восьмое октября",
+    "en": "eighth of October"
+  },
+  {
+    "file": "09.10.mp3",
+    "number": "09.10",
+    "et": "üheksas oktoober",
+    "ru": "девятое октября",
+    "en": "ninth of October"
+  },
+  {
+    "file": "10.10.mp3",
+    "number": "10.10",
+    "et": "kümnes oktoober",
+    "ru": "десятое октября",
+    "en": "tenth of October"
+  },
+  {
+    "file": "11.10.mp3",
+    "number": "11.10",
+    "et": "üheteistkümnes oktoober",
+    "ru": "одиннадцатое октября",
+    "en": "eleventh of October"
+  },
+  {
+    "file": "12.10.mp3",
+    "number": "12.10",
+    "et": "kaheteistkümnes oktoober",
+    "ru": "двенадцатое октября",
+    "en": "twelfth of October"
+  },
+  {
+    "file": "13.10.mp3",
+    "number": "13.10",
+    "et": "kolmeteistkümnes oktoober",
+    "ru": "тринадцатое октября",
+    "en": "thirteenth of October"
+  },
+  {
+    "file": "14.10.mp3",
+    "number": "14.10",
+    "et": "neljateistkümnes oktoober",
+    "ru": "четырнадцатое октября",
+    "en": "fourteenth of October"
+  },
+  {
+    "file": "15.10.mp3",
+    "number": "15.10",
+    "et": "viieteistkümnes oktoober",
+    "ru": "пятнадцатое октября",
+    "en": "fifteenth of October"
+  },
+  {
+    "file": "16.10.mp3",
+    "number": "16.10",
+    "et": "kuueteistkümnes oktoober",
+    "ru": "шестнадцатое октября",
+    "en": "sixteenth of October"
+  },
+  {
+    "file": "17.10.mp3",
+    "number": "17.10",
+    "et": "seitsmeteistkümnes oktoober",
+    "ru": "семнадцатое октября",
+    "en": "seventeenth of October"
+  },
+  {
+    "file": "18.10.mp3",
+    "number": "18.10",
+    "et": "kaheksateistkümnes oktoober",
+    "ru": "восемнадцатое октября",
+    "en": "eighteenth of October"
+  },
+  {
+    "file": "19.10.mp3",
+    "number": "19.10",
+    "et": "üheksateistkümnes oktoober",
+    "ru": "девятнадцатое октября",
+    "en": "nineteenth of October"
+  },
+  {
+    "file": "20.10.mp3",
+    "number": "20.10",
+    "et": "kahekümnes oktoober",
+    "ru": "двадцатое октября",
+    "en": "twentieth of October"
+  },
+  {
+    "file": "21.10.mp3",
+    "number": "21.10",
+    "et": "kahekümne esimene oktoober",
+    "ru": "двадцать первое октября",
+    "en": "twenty-first of October"
+  },
+  {
+    "file": "22.10.mp3",
+    "number": "22.10",
+    "et": "kahekümne teine oktoober",
+    "ru": "двадцать второе октября",
+    "en": "twenty-second of October"
+  },
+  {
+    "file": "23.10.mp3",
+    "number": "23.10",
+    "et": "kahekümne kolmas oktoober",
+    "ru": "двадцать третье октября",
+    "en": "twenty-third of October"
+  },
+  {
+    "file": "24.10.mp3",
+    "number": "24.10",
+    "et": "kahekümne neljas oktoober",
+    "ru": "двадцать четвёртое октября",
+    "en": "twenty-fourth of October"
+  },
+  {
+    "file": "25.10.mp3",
+    "number": "25.10",
+    "et": "kahekümne viies oktoober",
+    "ru": "двадцать пятое октября",
+    "en": "twenty-fifth of October"
+  },
+  {
+    "file": "26.10.mp3",
+    "number": "26.10",
+    "et": "kahekümne kuues oktoober",
+    "ru": "двадцать шестое октября",
+    "en": "twenty-sixth of October"
+  },
+  {
+    "file": "27.10.mp3",
+    "number": "27.10",
+    "et": "kahekümne seitsmes oktoober",
+    "ru": "двадцать седьмое октября",
+    "en": "twenty-seventh of October"
+  },
+  {
+    "file": "28.10.mp3",
+    "number": "28.10",
+    "et": "kahekümne kaheksas oktoober",
+    "ru": "двадцать восьмое октября",
+    "en": "twenty-eighth of October"
+  },
+  {
+    "file": "29.10.mp3",
+    "number": "29.10",
+    "et": "kahekümne üheksas oktoober",
+    "ru": "двадцать девятое октября",
+    "en": "twenty-ninth of October"
+  },
+  {
+    "file": "30.10.mp3",
+    "number": "30.10",
+    "et": "kolmekümnes oktoober",
+    "ru": "тридцатое октября",
+    "en": "thirtieth of October"
+  },
+  {
+    "file": "31.10.mp3",
+    "number": "31.10",
+    "et": "kolmekümne esimene oktoober",
+    "ru": "тридцать первое октября",
+    "en": "thirty-first of October"
+  },
+  {
+    "file": "01.11.mp3",
+    "number": "01.11",
+    "et": "esimene november",
+    "ru": "первое ноября",
+    "en": "first of November"
+  },
+  {
+    "file": "02.11.mp3",
+    "number": "02.11",
+    "et": "teine november",
+    "ru": "второе ноября",
+    "en": "second of November"
+  },
+  {
+    "file": "03.11.mp3",
+    "number": "03.11",
+    "et": "kolmas november",
+    "ru": "третье ноября",
+    "en": "third of November"
+  },
+  {
+    "file": "04.11.mp3",
+    "number": "04.11",
+    "et": "neljas november",
+    "ru": "четвёртое ноября",
+    "en": "fourth of November"
+  },
+  {
+    "file": "05.11.mp3",
+    "number": "05.11",
+    "et": "viies november",
+    "ru": "пятое ноября",
+    "en": "fifth of November"
+  },
+  {
+    "file": "06.11.mp3",
+    "number": "06.11",
+    "et": "kuues november",
+    "ru": "шестое ноября",
+    "en": "sixth of November"
+  },
+  {
+    "file": "07.11.mp3",
+    "number": "07.11",
+    "et": "seitsmes november",
+    "ru": "седьмое ноября",
+    "en": "seventh of November"
+  },
+  {
+    "file": "08.11.mp3",
+    "number": "08.11",
+    "et": "kaheksas november",
+    "ru": "восьмое ноября",
+    "en": "eighth of November"
+  },
+  {
+    "file": "09.11.mp3",
+    "number": "09.11",
+    "et": "üheksas november",
+    "ru": "девятое ноября",
+    "en": "ninth of November"
+  },
+  {
+    "file": "10.11.mp3",
+    "number": "10.11",
+    "et": "kümnes november",
+    "ru": "десятое ноября",
+    "en": "tenth of November"
+  },
+  {
+    "file": "11.11.mp3",
+    "number": "11.11",
+    "et": "üheteistkümnes november",
+    "ru": "одиннадцатое ноября",
+    "en": "eleventh of November"
+  },
+  {
+    "file": "12.11.mp3",
+    "number": "12.11",
+    "et": "kaheteistkümnes november",
+    "ru": "двенадцатое ноября",
+    "en": "twelfth of November"
+  },
+  {
+    "file": "13.11.mp3",
+    "number": "13.11",
+    "et": "kolmeteistkümnes november",
+    "ru": "тринадцатое ноября",
+    "en": "thirteenth of November"
+  },
+  {
+    "file": "14.11.mp3",
+    "number": "14.11",
+    "et": "neljateistkümnes november",
+    "ru": "четырнадцатое ноября",
+    "en": "fourteenth of November"
+  },
+  {
+    "file": "15.11.mp3",
+    "number": "15.11",
+    "et": "viieteistkümnes november",
+    "ru": "пятнадцатое ноября",
+    "en": "fifteenth of November"
+  },
+  {
+    "file": "16.11.mp3",
+    "number": "16.11",
+    "et": "kuueteistkümnes november",
+    "ru": "шестнадцатое ноября",
+    "en": "sixteenth of November"
+  },
+  {
+    "file": "17.11.mp3",
+    "number": "17.11",
+    "et": "seitsmeteistkümnes november",
+    "ru": "семнадцатое ноября",
+    "en": "seventeenth of November"
+  },
+  {
+    "file": "18.11.mp3",
+    "number": "18.11",
+    "et": "kaheksateistkümnes november",
+    "ru": "восемнадцатое ноября",
+    "en": "eighteenth of November"
+  },
+  {
+    "file": "19.11.mp3",
+    "number": "19.11",
+    "et": "üheksateistkümnes november",
+    "ru": "девятнадцатое ноября",
+    "en": "nineteenth of November"
+  },
+  {
+    "file": "20.11.mp3",
+    "number": "20.11",
+    "et": "kahekümnes november",
+    "ru": "двадцатое ноября",
+    "en": "twentieth of November"
+  },
+  {
+    "file": "21.11.mp3",
+    "number": "21.11",
+    "et": "kahekümne esimene november",
+    "ru": "двадцать первое ноября",
+    "en": "twenty-first of November"
+  },
+  {
+    "file": "22.11.mp3",
+    "number": "22.11",
+    "et": "kahekümne teine november",
+    "ru": "двадцать второе ноября",
+    "en": "twenty-second of November"
+  },
+  {
+    "file": "23.11.mp3",
+    "number": "23.11",
+    "et": "kahekümne kolmas november",
+    "ru": "двадцать третье ноября",
+    "en": "twenty-third of November"
+  },
+  {
+    "file": "24.11.mp3",
+    "number": "24.11",
+    "et": "kahekümne neljas november",
+    "ru": "двадцать четвёртое ноября",
+    "en": "twenty-fourth of November"
+  },
+  {
+    "file": "25.11.mp3",
+    "number": "25.11",
+    "et": "kahekümne viies november",
+    "ru": "двадцать пятое ноября",
+    "en": "twenty-fifth of November"
+  },
+  {
+    "file": "26.11.mp3",
+    "number": "26.11",
+    "et": "kahekümne kuues november",
+    "ru": "двадцать шестое ноября",
+    "en": "twenty-sixth of November"
+  },
+  {
+    "file": "27.11.mp3",
+    "number": "27.11",
+    "et": "kahekümne seitsmes november",
+    "ru": "двадцать седьмое ноября",
+    "en": "twenty-seventh of November"
+  },
+  {
+    "file": "28.11.mp3",
+    "number": "28.11",
+    "et": "kahekümne kaheksas november",
+    "ru": "двадцать восьмое ноября",
+    "en": "twenty-eighth of November"
+  },
+  {
+    "file": "29.11.mp3",
+    "number": "29.11",
+    "et": "kahekümne üheksas november",
+    "ru": "двадцать девятое ноября",
+    "en": "twenty-ninth of November"
+  },
+  {
+    "file": "30.11.mp3",
+    "number": "30.11",
+    "et": "kolmekümnes november",
+    "ru": "тридцатое ноября",
+    "en": "thirtieth of November"
+  },
+  {
+    "file": "01.12.mp3",
+    "number": "01.12",
+    "et": "esimene detsember",
+    "ru": "первое декабря",
+    "en": "first of December"
+  },
+  {
+    "file": "02.12.mp3",
+    "number": "02.12",
+    "et": "teine detsember",
+    "ru": "второе декабря",
+    "en": "second of December"
+  },
+  {
+    "file": "03.12.mp3",
+    "number": "03.12",
+    "et": "kolmas detsember",
+    "ru": "третье декабря",
+    "en": "third of December"
+  },
+  {
+    "file": "04.12.mp3",
+    "number": "04.12",
+    "et": "neljas detsember",
+    "ru": "четвёртое декабря",
+    "en": "fourth of December"
+  },
+  {
+    "file": "05.12.mp3",
+    "number": "05.12",
+    "et": "viies detsember",
+    "ru": "пятое декабря",
+    "en": "fifth of December"
+  },
+  {
+    "file": "06.12.mp3",
+    "number": "06.12",
+    "et": "kuues detsember",
+    "ru": "шестое декабря",
+    "en": "sixth of December"
+  },
+  {
+    "file": "07.12.mp3",
+    "number": "07.12",
+    "et": "seitsmes detsember",
+    "ru": "седьмое декабря",
+    "en": "seventh of December"
+  },
+  {
+    "file": "08.12.mp3",
+    "number": "08.12",
+    "et": "kaheksas detsember",
+    "ru": "восьмое декабря",
+    "en": "eighth of December"
+  },
+  {
+    "file": "09.12.mp3",
+    "number": "09.12",
+    "et": "üheksas detsember",
+    "ru": "девятое декабря",
+    "en": "ninth of December"
+  },
+  {
+    "file": "10.12.mp3",
+    "number": "10.12",
+    "et": "kümnes detsember",
+    "ru": "десятое декабря",
+    "en": "tenth of December"
+  },
+  {
+    "file": "11.12.mp3",
+    "number": "11.12",
+    "et": "üheteistkümnes detsember",
+    "ru": "одиннадцатое декабря",
+    "en": "eleventh of December"
+  },
+  {
+    "file": "12.12.mp3",
+    "number": "12.12",
+    "et": "kaheteistkümnes detsember",
+    "ru": "двенадцатое декабря",
+    "en": "twelfth of December"
+  },
+  {
+    "file": "13.12.mp3",
+    "number": "13.12",
+    "et": "kolmeteistkümnes detsember",
+    "ru": "тринадцатое декабря",
+    "en": "thirteenth of December"
+  },
+  {
+    "file": "14.12.mp3",
+    "number": "14.12",
+    "et": "neljateistkümnes detsember",
+    "ru": "четырнадцатое декабря",
+    "en": "fourteenth of December"
+  },
+  {
+    "file": "15.12.mp3",
+    "number": "15.12",
+    "et": "viieteistkümnes detsember",
+    "ru": "пятнадцатое декабря",
+    "en": "fifteenth of December"
+  },
+  {
+    "file": "16.12.mp3",
+    "number": "16.12",
+    "et": "kuueteistkümnes detsember",
+    "ru": "шестнадцатое декабря",
+    "en": "sixteenth of December"
+  },
+  {
+    "file": "17.12.mp3",
+    "number": "17.12",
+    "et": "seitsmeteistkümnes detsember",
+    "ru": "семнадцатое декабря",
+    "en": "seventeenth of December"
+  },
+  {
+    "file": "18.12.mp3",
+    "number": "18.12",
+    "et": "kaheksateistkümnes detsember",
+    "ru": "восемнадцатое декабря",
+    "en": "eighteenth of December"
+  },
+  {
+    "file": "19.12.mp3",
+    "number": "19.12",
+    "et": "üheksateistkümnes detsember",
+    "ru": "девятнадцатое декабря",
+    "en": "nineteenth of December"
+  },
+  {
+    "file": "20.12.mp3",
+    "number": "20.12",
+    "et": "kahekümnes detsember",
+    "ru": "двадцатое декабря",
+    "en": "twentieth of December"
+  },
+  {
+    "file": "21.12.mp3",
+    "number": "21.12",
+    "et": "kahekümne esimene detsember",
+    "ru": "двадцать первое декабря",
+    "en": "twenty-first of December"
+  },
+  {
+    "file": "22.12.mp3",
+    "number": "22.12",
+    "et": "kahekümne teine detsember",
+    "ru": "двадцать второе декабря",
+    "en": "twenty-second of December"
+  },
+  {
+    "file": "23.12.mp3",
+    "number": "23.12",
+    "et": "kahekümne kolmas detsember",
+    "ru": "двадцать третье декабря",
+    "en": "twenty-third of December"
+  },
+  {
+    "file": "24.12.mp3",
+    "number": "24.12",
+    "et": "kahekümne neljas detsember",
+    "ru": "двадцать четвёртое декабря",
+    "en": "twenty-fourth of December"
+  },
+  {
+    "file": "25.12.mp3",
+    "number": "25.12",
+    "et": "kahekümne viies detsember",
+    "ru": "двадцать пятое декабря",
+    "en": "twenty-fifth of December"
+  },
+  {
+    "file": "26.12.mp3",
+    "number": "26.12",
+    "et": "kahekümne kuues detsember",
+    "ru": "двадцать шестое декабря",
+    "en": "twenty-sixth of December"
+  },
+  {
+    "file": "27.12.mp3",
+    "number": "27.12",
+    "et": "kahekümne seitsmes detsember",
+    "ru": "двадцать седьмое декабря",
+    "en": "twenty-seventh of December"
+  },
+  {
+    "file": "28.12.mp3",
+    "number": "28.12",
+    "et": "kahekümne kaheksas detsember",
+    "ru": "двадцать восьмое декабря",
+    "en": "twenty-eighth of December"
+  },
+  {
+    "file": "29.12.mp3",
+    "number": "29.12",
+    "et": "kahekümne üheksas detsember",
+    "ru": "двадцать девятое декабря",
+    "en": "twenty-ninth of December"
+  },
+  {
+    "file": "30.12.mp3",
+    "number": "30.12",
+    "et": "kolmekümnes detsember",
+    "ru": "тридцатое декабря",
+    "en": "thirtieth of December"
+  },
+  {
+    "file": "31.12.mp3",
+    "number": "31.12",
+    "et": "kolmekümne esimene detsember",
+    "ru": "тридцать первое декабря",
+    "en": "thirty-first of December"
+  }
+]
