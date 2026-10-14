@@ -13,35 +13,55 @@ pip install gtts num2words
 
 ### `voice_numbers.py` — number vocabulary
 
-Generates audio files for cardinals, ordinals, and dates. Each number is spoken first in Estonian, then in Russian.
+Generates audio files for cardinals, ordinals, and dates.
 
 ```bash
-python voice_numbers.py [--limit N] [--lang {et-ru,ru-et,et,ru}] [--engine {google,neurokone}] [--voice NAME]
+python voice_numbers.py [--limit N] [--langs et,ru,en] [--combined] [--engine {google,neurokone}] [--voice NAME]
 ```
 
-| Flag        | Description                                                                     | Default   |
-|-------------|---------------------------------------------------------------------------------|-----------|
-| `--limit N` | Generate only the first N items per group (for testing)                         | all       |
-| `--lang`    | Language mode: `et-ru` (ET then RU), `ru-et` (RU then ET), `et` only, `ru` only | `et-ru`   |
-| `--engine`  | TTS engine for Estonian (see [Engines and voices](#engines-and-voices))          | `google`  |
-| `--voice`   | Neurokõne voice, or `random` for a different voice per item                     | `mari`    |
+| Flag         | Description                                                                     | Default   |
+|--------------|---------------------------------------------------------------------------------|-----------|
+| `--limit N`  | Generate only the first N items per group (for testing)                         | all       |
+| `--langs`    | Comma-separated languages to generate: `et,ru`, `et`, `ru`, `en`                | `et,ru`   |
+| `--combined` | Also generate ET+gap+RU audio in `<category>/et-ru/`                            | false     |
+| `--engine`   | TTS engine for Estonian (see [Engines and voices](#engines-and-voices))          | `google`  |
+| `--voice`    | Neurokõne voice, or `random` for a different voice per item                     | `mari`    |
 
-Each `--lang` mode writes to its own root folder (`output/et-ru/`, `output/ru-et/`, `output/et/`, `output/ru/`) so they don't overwrite each other. With `--engine neurokone` the folder also includes the voice, e.g. `output/et-ru_neurokone_mari/`.
+**Output** — written to `output/<category>/<lang>/` (or `output/neurokone_<voice>/<category>/<lang>/`):
+- `output/<category>/<lang>/<number>.mp3` (e.g. `output/cardinals/et/21.mp3`)
+- `output/<category>/et-ru/<number>.mp3` (if `--combined`)
+- `output/<category>/index.json` (includes `file`, `number`, `et`, `ru`, `en`)
 
-**Output** — written to `output/<lang>/<category>/` (created automatically):
+---
 
-| Folder       | Contents                                              | Example file                          |
-|--------------|-------------------------------------------------------|---------------------------------------|
-| `cardinals/` | 1–100, 1 000, 10 000, 100 000, 1 000 000, 1980–2030   | `21_kakskümmend_üks.mp3`              |
-| `ordinals/`  | 1st–100th, same large numbers and years               | `21_kahekümne_esimene.mp3`            |
-| `dates/`     | "2nd of March" form, all 12 months, correct day count | `02.03_teine_märts.mp3`               |
-| `dates_on/`  | "on the 2nd of March" form (different grammar)        | `02.03_teisel_märtsil.mp3`            |
+### `voice_time.py` — time phrases
 
-**Filename format:** `<number>_<estonian text>.mp3` — the number (dates as `DD.MM`) is everything before the first `_`; the rest is the Estonian text with spaces replaced by `_`.
+Generates audio files for time phrases across all 24 hours and 5-minute intervals.
 
-Each category folder also contains an `index.json` (`[{file, number, et, ru}, ...]`).
+```bash
+python voice_time.py [--format {traditional,digital,words,labi,parast,all}] [--limit N] [--langs et,ru,en] [--combined] [--engine {google,neurokone}] [--voice NAME]
+```
 
-> **Note:** Existing files are skipped on re-runs. To regenerate a file, delete it first (or `rm -rf output/<lang>/` to regenerate a whole set).
+| Flag         | Description                                                                     | Default   |
+|--------------|---------------------------------------------------------------------------------|-----------|
+| `--format`   | Time format: `traditional`, `digital`, `words`, `labi`, `parast`, or `all`      | `all`     |
+| `--limit N`  | Generate only the first N items per format (for testing)                        | all       |
+| `--langs`    | Comma-separated languages to generate: `et,ru`, `et`, `ru`, `en`                | `et,ru`   |
+| `--combined` | Also generate ET+gap+RU audio in `<category>/et-ru/`                            | false     |
+| `--engine`   | TTS engine for Estonian (see [Engines and voices](#engines-and-voices))          | `google`  |
+| `--voice`    | Neurokõne voice, or `random` for a different voice per item                     | `mari`    |
+
+**Formats & Categories:**
+- `times_traditional` — traditional forms (ET: *pool kolm*, *veerand kolm*; RU: *половина третьего*, *четверть третьего*; EN: *half past two*, *quarter past two*)
+- `times_digital` — digital readouts (ET: *kell 14:30*; RU: *14:30*; EN: *14:30*)
+- `times_words` — full words (ET: *kell kaks kolmkümmend*; RU: *два тридцать*; EN: *two thirty*)
+- `times_labi` — colloquial Estonian "läbi" (ET: *viis minutit kaks läbi*; RU: *пять минут третьего*; EN: *five past two*)
+- `times_parast` — colloquial Estonian "enne / pärast pool" (ET: *viis minutit pärast pool kolm*; RU: *без двадцати пяти три*; EN: *twenty-five to three*)
+
+**Output** — written to `output/<category>/<lang>/` (or `output/neurokone_<voice>/<category>/<lang>/`):
+- `output/times_<format>/<lang>/<HH_MM>.mp3` (e.g. `output/times_traditional/et/02_30.mp3`)
+- `output/times_<format>/et-ru/<HH_MM>.mp3` (if `--combined`)
+- `output/times_<format>/index.json` (includes `file`, `time`, `number`, `et`, `ru`, `en`)
 
 ---
 
