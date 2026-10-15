@@ -1,0 +1,2306 @@
+[
+  {
+    "file": "00_00.mp3",
+    "time": "00:00",
+    "number": "00:00",
+    "et": "kell null",
+    "ru": "ноль",
+    "en": "zero"
+  },
+  {
+    "file": "00_05.mp3",
+    "time": "00:05",
+    "number": "00:05",
+    "et": "kell null viis",
+    "ru": "ноль ноль пять",
+    "en": "zero oh five"
+  },
+  {
+    "file": "00_10.mp3",
+    "time": "00:10",
+    "number": "00:10",
+    "et": "kell null kümme",
+    "ru": "ноль десять",
+    "en": "zero ten"
+  },
+  {
+    "file": "00_15.mp3",
+    "time": "00:15",
+    "number": "00:15",
+    "et": "kell null viisteist",
+    "ru": "ноль пятнадцать",
+    "en": "zero fifteen"
+  },
+  {
+    "file": "00_20.mp3",
+    "time": "00:20",
+    "number": "00:20",
+    "et": "kell null kakskümmend",
+    "ru": "ноль двадцать",
+    "en": "zero twenty"
+  },
+  {
+    "file": "00_25.mp3",
+    "time": "00:25",
+    "number": "00:25",
+    "et": "kell null kakskümmend viis",
+    "ru": "ноль двадцать пять",
+    "en": "zero twenty-five"
+  },
+  {
+    "file": "00_30.mp3",
+    "time": "00:30",
+    "number": "00:30",
+    "et": "kell null kolmkümmend",
+    "ru": "ноль тридцать",
+    "en": "zero thirty"
+  },
+  {
+    "file": "00_35.mp3",
+    "time": "00:35",
+    "number": "00:35",
+    "et": "kell null kolmkümmend viis",
+    "ru": "ноль тридцать пять",
+    "en": "zero thirty-five"
+  },
+  {
+    "file": "00_40.mp3",
+    "time": "00:40",
+    "number": "00:40",
+    "et": "kell null nelikümmend",
+    "ru": "ноль сорок",
+    "en": "zero forty"
+  },
+  {
+    "file": "00_45.mp3",
+    "time": "00:45",
+    "number": "00:45",
+    "et": "kell null nelikümmend viis",
+    "ru": "ноль сорок пять",
+    "en": "zero forty-five"
+  },
+  {
+    "file": "00_50.mp3",
+    "time": "00:50",
+    "number": "00:50",
+    "et": "kell null viiskümmend",
+    "ru": "ноль пятьдесят",
+    "en": "zero fifty"
+  },
+  {
+    "file": "00_55.mp3",
+    "time": "00:55",
+    "number": "00:55",
+    "et": "kell null viiskümmend viis",
+    "ru": "ноль пятьдесят пять",
+    "en": "zero fifty-five"
+  },
+  {
+    "file": "01_00.mp3",
+    "time": "01:00",
+    "number": "01:00",
+    "et": "kell üks",
+    "ru": "один",
+    "en": "one o'clock"
+  },
+  {
+    "file": "01_05.mp3",
+    "time": "01:05",
+    "number": "01:05",
+    "et": "kell üks viis",
+    "ru": "один ноль пять",
+    "en": "one oh five"
+  },
+  {
+    "file": "01_10.mp3",
+    "time": "01:10",
+    "number": "01:10",
+    "et": "kell üks kümme",
+    "ru": "один десять",
+    "en": "one ten"
+  },
+  {
+    "file": "01_15.mp3",
+    "time": "01:15",
+    "number": "01:15",
+    "et": "kell üks viisteist",
+    "ru": "один пятнадцать",
+    "en": "one fifteen"
+  },
+  {
+    "file": "01_20.mp3",
+    "time": "01:20",
+    "number": "01:20",
+    "et": "kell üks kakskümmend",
+    "ru": "один двадцать",
+    "en": "one twenty"
+  },
+  {
+    "file": "01_25.mp3",
+    "time": "01:25",
+    "number": "01:25",
+    "et": "kell üks kakskümmend viis",
+    "ru": "один двадцать пять",
+    "en": "one twenty-five"
+  },
+  {
+    "file": "01_30.mp3",
+    "time": "01:30",
+    "number": "01:30",
+    "et": "kell üks kolmkümmend",
+    "ru": "один тридцать",
+    "en": "one thirty"
+  },
+  {
+    "file": "01_35.mp3",
+    "time": "01:35",
+    "number": "01:35",
+    "et": "kell üks kolmkümmend viis",
+    "ru": "один тридцать пять",
+    "en": "one thirty-five"
+  },
+  {
+    "file": "01_40.mp3",
+    "time": "01:40",
+    "number": "01:40",
+    "et": "kell üks nelikümmend",
+    "ru": "один сорок",
+    "en": "one forty"
+  },
+  {
+    "file": "01_45.mp3",
+    "time": "01:45",
+    "number": "01:45",
+    "et": "kell üks nelikümmend viis",
+    "ru": "один сорок пять",
+    "en": "one forty-five"
+  },
+  {
+    "file": "01_50.mp3",
+    "time": "01:50",
+    "number": "01:50",
+    "et": "kell üks viiskümmend",
+    "ru": "один пятьдесят",
+    "en": "one fifty"
+  },
+  {
+    "file": "01_55.mp3",
+    "time": "01:55",
+    "number": "01:55",
+    "et": "kell üks viiskümmend viis",
+    "ru": "один пятьдесят пять",
+    "en": "one fifty-five"
+  },
+  {
+    "file": "02_00.mp3",
+    "time": "02:00",
+    "number": "02:00",
+    "et": "kell kaks",
+    "ru": "два",
+    "en": "two o'clock"
+  },
+  {
+    "file": "02_05.mp3",
+    "time": "02:05",
+    "number": "02:05",
+    "et": "kell kaks viis",
+    "ru": "два ноль пять",
+    "en": "two oh five"
+  },
+  {
+    "file": "02_10.mp3",
+    "time": "02:10",
+    "number": "02:10",
+    "et": "kell kaks kümme",
+    "ru": "два десять",
+    "en": "two ten"
+  },
+  {
+    "file": "02_15.mp3",
+    "time": "02:15",
+    "number": "02:15",
+    "et": "kell kaks viisteist",
+    "ru": "два пятнадцать",
+    "en": "two fifteen"
+  },
+  {
+    "file": "02_20.mp3",
+    "time": "02:20",
+    "number": "02:20",
+    "et": "kell kaks kakskümmend",
+    "ru": "два двадцать",
+    "en": "two twenty"
+  },
+  {
+    "file": "02_25.mp3",
+    "time": "02:25",
+    "number": "02:25",
+    "et": "kell kaks kakskümmend viis",
+    "ru": "два двадцать пять",
+    "en": "two twenty-five"
+  },
+  {
+    "file": "02_30.mp3",
+    "time": "02:30",
+    "number": "02:30",
+    "et": "kell kaks kolmkümmend",
+    "ru": "два тридцать",
+    "en": "two thirty"
+  },
+  {
+    "file": "02_35.mp3",
+    "time": "02:35",
+    "number": "02:35",
+    "et": "kell kaks kolmkümmend viis",
+    "ru": "два тридцать пять",
+    "en": "two thirty-five"
+  },
+  {
+    "file": "02_40.mp3",
+    "time": "02:40",
+    "number": "02:40",
+    "et": "kell kaks nelikümmend",
+    "ru": "два сорок",
+    "en": "two forty"
+  },
+  {
+    "file": "02_45.mp3",
+    "time": "02:45",
+    "number": "02:45",
+    "et": "kell kaks nelikümmend viis",
+    "ru": "два сорок пять",
+    "en": "two forty-five"
+  },
+  {
+    "file": "02_50.mp3",
+    "time": "02:50",
+    "number": "02:50",
+    "et": "kell kaks viiskümmend",
+    "ru": "два пятьдесят",
+    "en": "two fifty"
+  },
+  {
+    "file": "02_55.mp3",
+    "time": "02:55",
+    "number": "02:55",
+    "et": "kell kaks viiskümmend viis",
+    "ru": "два пятьдесят пять",
+    "en": "two fifty-five"
+  },
+  {
+    "file": "03_00.mp3",
+    "time": "03:00",
+    "number": "03:00",
+    "et": "kell kolm",
+    "ru": "три",
+    "en": "three o'clock"
+  },
+  {
+    "file": "03_05.mp3",
+    "time": "03:05",
+    "number": "03:05",
+    "et": "kell kolm viis",
+    "ru": "три ноль пять",
+    "en": "three oh five"
+  },
+  {
+    "file": "03_10.mp3",
+    "time": "03:10",
+    "number": "03:10",
+    "et": "kell kolm kümme",
+    "ru": "три десять",
+    "en": "three ten"
+  },
+  {
+    "file": "03_15.mp3",
+    "time": "03:15",
+    "number": "03:15",
+    "et": "kell kolm viisteist",
+    "ru": "три пятнадцать",
+    "en": "three fifteen"
+  },
+  {
+    "file": "03_20.mp3",
+    "time": "03:20",
+    "number": "03:20",
+    "et": "kell kolm kakskümmend",
+    "ru": "три двадцать",
+    "en": "three twenty"
+  },
+  {
+    "file": "03_25.mp3",
+    "time": "03:25",
+    "number": "03:25",
+    "et": "kell kolm kakskümmend viis",
+    "ru": "три двадцать пять",
+    "en": "three twenty-five"
+  },
+  {
+    "file": "03_30.mp3",
+    "time": "03:30",
+    "number": "03:30",
+    "et": "kell kolm kolmkümmend",
+    "ru": "три тридцать",
+    "en": "three thirty"
+  },
+  {
+    "file": "03_35.mp3",
+    "time": "03:35",
+    "number": "03:35",
+    "et": "kell kolm kolmkümmend viis",
+    "ru": "три тридцать пять",
+    "en": "three thirty-five"
+  },
+  {
+    "file": "03_40.mp3",
+    "time": "03:40",
+    "number": "03:40",
+    "et": "kell kolm nelikümmend",
+    "ru": "три сорок",
+    "en": "three forty"
+  },
+  {
+    "file": "03_45.mp3",
+    "time": "03:45",
+    "number": "03:45",
+    "et": "kell kolm nelikümmend viis",
+    "ru": "три сорок пять",
+    "en": "three forty-five"
+  },
+  {
+    "file": "03_50.mp3",
+    "time": "03:50",
+    "number": "03:50",
+    "et": "kell kolm viiskümmend",
+    "ru": "три пятьдесят",
+    "en": "three fifty"
+  },
+  {
+    "file": "03_55.mp3",
+    "time": "03:55",
+    "number": "03:55",
+    "et": "kell kolm viiskümmend viis",
+    "ru": "три пятьдесят пять",
+    "en": "three fifty-five"
+  },
+  {
+    "file": "04_00.mp3",
+    "time": "04:00",
+    "number": "04:00",
+    "et": "kell neli",
+    "ru": "четыре",
+    "en": "four o'clock"
+  },
+  {
+    "file": "04_05.mp3",
+    "time": "04:05",
+    "number": "04:05",
+    "et": "kell neli viis",
+    "ru": "четыре ноль пять",
+    "en": "four oh five"
+  },
+  {
+    "file": "04_10.mp3",
+    "time": "04:10",
+    "number": "04:10",
+    "et": "kell neli kümme",
+    "ru": "четыре десять",
+    "en": "four ten"
+  },
+  {
+    "file": "04_15.mp3",
+    "time": "04:15",
+    "number": "04:15",
+    "et": "kell neli viisteist",
+    "ru": "четыре пятнадцать",
+    "en": "four fifteen"
+  },
+  {
+    "file": "04_20.mp3",
+    "time": "04:20",
+    "number": "04:20",
+    "et": "kell neli kakskümmend",
+    "ru": "четыре двадцать",
+    "en": "four twenty"
+  },
+  {
+    "file": "04_25.mp3",
+    "time": "04:25",
+    "number": "04:25",
+    "et": "kell neli kakskümmend viis",
+    "ru": "четыре двадцать пять",
+    "en": "four twenty-five"
+  },
+  {
+    "file": "04_30.mp3",
+    "time": "04:30",
+    "number": "04:30",
+    "et": "kell neli kolmkümmend",
+    "ru": "четыре тридцать",
+    "en": "four thirty"
+  },
+  {
+    "file": "04_35.mp3",
+    "time": "04:35",
+    "number": "04:35",
+    "et": "kell neli kolmkümmend viis",
+    "ru": "четыре тридцать пять",
+    "en": "four thirty-five"
+  },
+  {
+    "file": "04_40.mp3",
+    "time": "04:40",
+    "number": "04:40",
+    "et": "kell neli nelikümmend",
+    "ru": "четыре сорок",
+    "en": "four forty"
+  },
+  {
+    "file": "04_45.mp3",
+    "time": "04:45",
+    "number": "04:45",
+    "et": "kell neli nelikümmend viis",
+    "ru": "четыре сорок пять",
+    "en": "four forty-five"
+  },
+  {
+    "file": "04_50.mp3",
+    "time": "04:50",
+    "number": "04:50",
+    "et": "kell neli viiskümmend",
+    "ru": "четыре пятьдесят",
+    "en": "four fifty"
+  },
+  {
+    "file": "04_55.mp3",
+    "time": "04:55",
+    "number": "04:55",
+    "et": "kell neli viiskümmend viis",
+    "ru": "четыре пятьдесят пять",
+    "en": "four fifty-five"
+  },
+  {
+    "file": "05_00.mp3",
+    "time": "05:00",
+    "number": "05:00",
+    "et": "kell viis",
+    "ru": "пять",
+    "en": "five o'clock"
+  },
+  {
+    "file": "05_05.mp3",
+    "time": "05:05",
+    "number": "05:05",
+    "et": "kell viis viis",
+    "ru": "пять ноль пять",
+    "en": "five oh five"
+  },
+  {
+    "file": "05_10.mp3",
+    "time": "05:10",
+    "number": "05:10",
+    "et": "kell viis kümme",
+    "ru": "пять десять",
+    "en": "five ten"
+  },
+  {
+    "file": "05_15.mp3",
+    "time": "05:15",
+    "number": "05:15",
+    "et": "kell viis viisteist",
+    "ru": "пять пятнадцать",
+    "en": "five fifteen"
+  },
+  {
+    "file": "05_20.mp3",
+    "time": "05:20",
+    "number": "05:20",
+    "et": "kell viis kakskümmend",
+    "ru": "пять двадцать",
+    "en": "five twenty"
+  },
+  {
+    "file": "05_25.mp3",
+    "time": "05:25",
+    "number": "05:25",
+    "et": "kell viis kakskümmend viis",
+    "ru": "пять двадцать пять",
+    "en": "five twenty-five"
+  },
+  {
+    "file": "05_30.mp3",
+    "time": "05:30",
+    "number": "05:30",
+    "et": "kell viis kolmkümmend",
+    "ru": "пять тридцать",
+    "en": "five thirty"
+  },
+  {
+    "file": "05_35.mp3",
+    "time": "05:35",
+    "number": "05:35",
+    "et": "kell viis kolmkümmend viis",
+    "ru": "пять тридцать пять",
+    "en": "five thirty-five"
+  },
+  {
+    "file": "05_40.mp3",
+    "time": "05:40",
+    "number": "05:40",
+    "et": "kell viis nelikümmend",
+    "ru": "пять сорок",
+    "en": "five forty"
+  },
+  {
+    "file": "05_45.mp3",
+    "time": "05:45",
+    "number": "05:45",
+    "et": "kell viis nelikümmend viis",
+    "ru": "пять сорок пять",
+    "en": "five forty-five"
+  },
+  {
+    "file": "05_50.mp3",
+    "time": "05:50",
+    "number": "05:50",
+    "et": "kell viis viiskümmend",
+    "ru": "пять пятьдесят",
+    "en": "five fifty"
+  },
+  {
+    "file": "05_55.mp3",
+    "time": "05:55",
+    "number": "05:55",
+    "et": "kell viis viiskümmend viis",
+    "ru": "пять пятьдесят пять",
+    "en": "five fifty-five"
+  },
+  {
+    "file": "06_00.mp3",
+    "time": "06:00",
+    "number": "06:00",
+    "et": "kell kuus",
+    "ru": "шесть",
+    "en": "six o'clock"
+  },
+  {
+    "file": "06_05.mp3",
+    "time": "06:05",
+    "number": "06:05",
+    "et": "kell kuus viis",
+    "ru": "шесть ноль пять",
+    "en": "six oh five"
+  },
+  {
+    "file": "06_10.mp3",
+    "time": "06:10",
+    "number": "06:10",
+    "et": "kell kuus kümme",
+    "ru": "шесть десять",
+    "en": "six ten"
+  },
+  {
+    "file": "06_15.mp3",
+    "time": "06:15",
+    "number": "06:15",
+    "et": "kell kuus viisteist",
+    "ru": "шесть пятнадцать",
+    "en": "six fifteen"
+  },
+  {
+    "file": "06_20.mp3",
+    "time": "06:20",
+    "number": "06:20",
+    "et": "kell kuus kakskümmend",
+    "ru": "шесть двадцать",
+    "en": "six twenty"
+  },
+  {
+    "file": "06_25.mp3",
+    "time": "06:25",
+    "number": "06:25",
+    "et": "kell kuus kakskümmend viis",
+    "ru": "шесть двадцать пять",
+    "en": "six twenty-five"
+  },
+  {
+    "file": "06_30.mp3",
+    "time": "06:30",
+    "number": "06:30",
+    "et": "kell kuus kolmkümmend",
+    "ru": "шесть тридцать",
+    "en": "six thirty"
+  },
+  {
+    "file": "06_35.mp3",
+    "time": "06:35",
+    "number": "06:35",
+    "et": "kell kuus kolmkümmend viis",
+    "ru": "шесть тридцать пять",
+    "en": "six thirty-five"
+  },
+  {
+    "file": "06_40.mp3",
+    "time": "06:40",
+    "number": "06:40",
+    "et": "kell kuus nelikümmend",
+    "ru": "шесть сорок",
+    "en": "six forty"
+  },
+  {
+    "file": "06_45.mp3",
+    "time": "06:45",
+    "number": "06:45",
+    "et": "kell kuus nelikümmend viis",
+    "ru": "шесть сорок пять",
+    "en": "six forty-five"
+  },
+  {
+    "file": "06_50.mp3",
+    "time": "06:50",
+    "number": "06:50",
+    "et": "kell kuus viiskümmend",
+    "ru": "шесть пятьдесят",
+    "en": "six fifty"
+  },
+  {
+    "file": "06_55.mp3",
+    "time": "06:55",
+    "number": "06:55",
+    "et": "kell kuus viiskümmend viis",
+    "ru": "шесть пятьдесят пять",
+    "en": "six fifty-five"
+  },
+  {
+    "file": "07_00.mp3",
+    "time": "07:00",
+    "number": "07:00",
+    "et": "kell seitse",
+    "ru": "семь",
+    "en": "seven o'clock"
+  },
+  {
+    "file": "07_05.mp3",
+    "time": "07:05",
+    "number": "07:05",
+    "et": "kell seitse viis",
+    "ru": "семь ноль пять",
+    "en": "seven oh five"
+  },
+  {
+    "file": "07_10.mp3",
+    "time": "07:10",
+    "number": "07:10",
+    "et": "kell seitse kümme",
+    "ru": "семь десять",
+    "en": "seven ten"
+  },
+  {
+    "file": "07_15.mp3",
+    "time": "07:15",
+    "number": "07:15",
+    "et": "kell seitse viisteist",
+    "ru": "семь пятнадцать",
+    "en": "seven fifteen"
+  },
+  {
+    "file": "07_20.mp3",
+    "time": "07:20",
+    "number": "07:20",
+    "et": "kell seitse kakskümmend",
+    "ru": "семь двадцать",
+    "en": "seven twenty"
+  },
+  {
+    "file": "07_25.mp3",
+    "time": "07:25",
+    "number": "07:25",
+    "et": "kell seitse kakskümmend viis",
+    "ru": "семь двадцать пять",
+    "en": "seven twenty-five"
+  },
+  {
+    "file": "07_30.mp3",
+    "time": "07:30",
+    "number": "07:30",
+    "et": "kell seitse kolmkümmend",
+    "ru": "семь тридцать",
+    "en": "seven thirty"
+  },
+  {
+    "file": "07_35.mp3",
+    "time": "07:35",
+    "number": "07:35",
+    "et": "kell seitse kolmkümmend viis",
+    "ru": "семь тридцать пять",
+    "en": "seven thirty-five"
+  },
+  {
+    "file": "07_40.mp3",
+    "time": "07:40",
+    "number": "07:40",
+    "et": "kell seitse nelikümmend",
+    "ru": "семь сорок",
+    "en": "seven forty"
+  },
+  {
+    "file": "07_45.mp3",
+    "time": "07:45",
+    "number": "07:45",
+    "et": "kell seitse nelikümmend viis",
+    "ru": "семь сорок пять",
+    "en": "seven forty-five"
+  },
+  {
+    "file": "07_50.mp3",
+    "time": "07:50",
+    "number": "07:50",
+    "et": "kell seitse viiskümmend",
+    "ru": "семь пятьдесят",
+    "en": "seven fifty"
+  },
+  {
+    "file": "07_55.mp3",
+    "time": "07:55",
+    "number": "07:55",
+    "et": "kell seitse viiskümmend viis",
+    "ru": "семь пятьдесят пять",
+    "en": "seven fifty-five"
+  },
+  {
+    "file": "08_00.mp3",
+    "time": "08:00",
+    "number": "08:00",
+    "et": "kell kaheksa",
+    "ru": "восемь",
+    "en": "eight o'clock"
+  },
+  {
+    "file": "08_05.mp3",
+    "time": "08:05",
+    "number": "08:05",
+    "et": "kell kaheksa viis",
+    "ru": "восемь ноль пять",
+    "en": "eight oh five"
+  },
+  {
+    "file": "08_10.mp3",
+    "time": "08:10",
+    "number": "08:10",
+    "et": "kell kaheksa kümme",
+    "ru": "восемь десять",
+    "en": "eight ten"
+  },
+  {
+    "file": "08_15.mp3",
+    "time": "08:15",
+    "number": "08:15",
+    "et": "kell kaheksa viisteist",
+    "ru": "восемь пятнадцать",
+    "en": "eight fifteen"
+  },
+  {
+    "file": "08_20.mp3",
+    "time": "08:20",
+    "number": "08:20",
+    "et": "kell kaheksa kakskümmend",
+    "ru": "восемь двадцать",
+    "en": "eight twenty"
+  },
+  {
+    "file": "08_25.mp3",
+    "time": "08:25",
+    "number": "08:25",
+    "et": "kell kaheksa kakskümmend viis",
+    "ru": "восемь двадцать пять",
+    "en": "eight twenty-five"
+  },
+  {
+    "file": "08_30.mp3",
+    "time": "08:30",
+    "number": "08:30",
+    "et": "kell kaheksa kolmkümmend",
+    "ru": "восемь тридцать",
+    "en": "eight thirty"
+  },
+  {
+    "file": "08_35.mp3",
+    "time": "08:35",
+    "number": "08:35",
+    "et": "kell kaheksa kolmkümmend viis",
+    "ru": "восемь тридцать пять",
+    "en": "eight thirty-five"
+  },
+  {
+    "file": "08_40.mp3",
+    "time": "08:40",
+    "number": "08:40",
+    "et": "kell kaheksa nelikümmend",
+    "ru": "восемь сорок",
+    "en": "eight forty"
+  },
+  {
+    "file": "08_45.mp3",
+    "time": "08:45",
+    "number": "08:45",
+    "et": "kell kaheksa nelikümmend viis",
+    "ru": "восемь сорок пять",
+    "en": "eight forty-five"
+  },
+  {
+    "file": "08_50.mp3",
+    "time": "08:50",
+    "number": "08:50",
+    "et": "kell kaheksa viiskümmend",
+    "ru": "восемь пятьдесят",
+    "en": "eight fifty"
+  },
+  {
+    "file": "08_55.mp3",
+    "time": "08:55",
+    "number": "08:55",
+    "et": "kell kaheksa viiskümmend viis",
+    "ru": "восемь пятьдесят пять",
+    "en": "eight fifty-five"
+  },
+  {
+    "file": "09_00.mp3",
+    "time": "09:00",
+    "number": "09:00",
+    "et": "kell üheksa",
+    "ru": "девять",
+    "en": "nine o'clock"
+  },
+  {
+    "file": "09_05.mp3",
+    "time": "09:05",
+    "number": "09:05",
+    "et": "kell üheksa viis",
+    "ru": "девять ноль пять",
+    "en": "nine oh five"
+  },
+  {
+    "file": "09_10.mp3",
+    "time": "09:10",
+    "number": "09:10",
+    "et": "kell üheksa kümme",
+    "ru": "девять десять",
+    "en": "nine ten"
+  },
+  {
+    "file": "09_15.mp3",
+    "time": "09:15",
+    "number": "09:15",
+    "et": "kell üheksa viisteist",
+    "ru": "девять пятнадцать",
+    "en": "nine fifteen"
+  },
+  {
+    "file": "09_20.mp3",
+    "time": "09:20",
+    "number": "09:20",
+    "et": "kell üheksa kakskümmend",
+    "ru": "девять двадцать",
+    "en": "nine twenty"
+  },
+  {
+    "file": "09_25.mp3",
+    "time": "09:25",
+    "number": "09:25",
+    "et": "kell üheksa kakskümmend viis",
+    "ru": "девять двадцать пять",
+    "en": "nine twenty-five"
+  },
+  {
+    "file": "09_30.mp3",
+    "time": "09:30",
+    "number": "09:30",
+    "et": "kell üheksa kolmkümmend",
+    "ru": "девять тридцать",
+    "en": "nine thirty"
+  },
+  {
+    "file": "09_35.mp3",
+    "time": "09:35",
+    "number": "09:35",
+    "et": "kell üheksa kolmkümmend viis",
+    "ru": "девять тридцать пять",
+    "en": "nine thirty-five"
+  },
+  {
+    "file": "09_40.mp3",
+    "time": "09:40",
+    "number": "09:40",
+    "et": "kell üheksa nelikümmend",
+    "ru": "девять сорок",
+    "en": "nine forty"
+  },
+  {
+    "file": "09_45.mp3",
+    "time": "09:45",
+    "number": "09:45",
+    "et": "kell üheksa nelikümmend viis",
+    "ru": "девять сорок пять",
+    "en": "nine forty-five"
+  },
+  {
+    "file": "09_50.mp3",
+    "time": "09:50",
+    "number": "09:50",
+    "et": "kell üheksa viiskümmend",
+    "ru": "девять пятьдесят",
+    "en": "nine fifty"
+  },
+  {
+    "file": "09_55.mp3",
+    "time": "09:55",
+    "number": "09:55",
+    "et": "kell üheksa viiskümmend viis",
+    "ru": "девять пятьдесят пять",
+    "en": "nine fifty-five"
+  },
+  {
+    "file": "10_00.mp3",
+    "time": "10:00",
+    "number": "10:00",
+    "et": "kell kümme",
+    "ru": "десять",
+    "en": "ten o'clock"
+  },
+  {
+    "file": "10_05.mp3",
+    "time": "10:05",
+    "number": "10:05",
+    "et": "kell kümme viis",
+    "ru": "десять ноль пять",
+    "en": "ten oh five"
+  },
+  {
+    "file": "10_10.mp3",
+    "time": "10:10",
+    "number": "10:10",
+    "et": "kell kümme kümme",
+    "ru": "десять десять",
+    "en": "ten ten"
+  },
+  {
+    "file": "10_15.mp3",
+    "time": "10:15",
+    "number": "10:15",
+    "et": "kell kümme viisteist",
+    "ru": "десять пятнадцать",
+    "en": "ten fifteen"
+  },
+  {
+    "file": "10_20.mp3",
+    "time": "10:20",
+    "number": "10:20",
+    "et": "kell kümme kakskümmend",
+    "ru": "десять двадцать",
+    "en": "ten twenty"
+  },
+  {
+    "file": "10_25.mp3",
+    "time": "10:25",
+    "number": "10:25",
+    "et": "kell kümme kakskümmend viis",
+    "ru": "десять двадцать пять",
+    "en": "ten twenty-five"
+  },
+  {
+    "file": "10_30.mp3",
+    "time": "10:30",
+    "number": "10:30",
+    "et": "kell kümme kolmkümmend",
+    "ru": "десять тридцать",
+    "en": "ten thirty"
+  },
+  {
+    "file": "10_35.mp3",
+    "time": "10:35",
+    "number": "10:35",
+    "et": "kell kümme kolmkümmend viis",
+    "ru": "десять тридцать пять",
+    "en": "ten thirty-five"
+  },
+  {
+    "file": "10_40.mp3",
+    "time": "10:40",
+    "number": "10:40",
+    "et": "kell kümme nelikümmend",
+    "ru": "десять сорок",
+    "en": "ten forty"
+  },
+  {
+    "file": "10_45.mp3",
+    "time": "10:45",
+    "number": "10:45",
+    "et": "kell kümme nelikümmend viis",
+    "ru": "десять сорок пять",
+    "en": "ten forty-five"
+  },
+  {
+    "file": "10_50.mp3",
+    "time": "10:50",
+    "number": "10:50",
+    "et": "kell kümme viiskümmend",
+    "ru": "десять пятьдесят",
+    "en": "ten fifty"
+  },
+  {
+    "file": "10_55.mp3",
+    "time": "10:55",
+    "number": "10:55",
+    "et": "kell kümme viiskümmend viis",
+    "ru": "десять пятьдесят пять",
+    "en": "ten fifty-five"
+  },
+  {
+    "file": "11_00.mp3",
+    "time": "11:00",
+    "number": "11:00",
+    "et": "kell üksteist",
+    "ru": "одиннадцать",
+    "en": "eleven o'clock"
+  },
+  {
+    "file": "11_05.mp3",
+    "time": "11:05",
+    "number": "11:05",
+    "et": "kell üksteist viis",
+    "ru": "одиннадцать ноль пять",
+    "en": "eleven oh five"
+  },
+  {
+    "file": "11_10.mp3",
+    "time": "11:10",
+    "number": "11:10",
+    "et": "kell üksteist kümme",
+    "ru": "одиннадцать десять",
+    "en": "eleven ten"
+  },
+  {
+    "file": "11_15.mp3",
+    "time": "11:15",
+    "number": "11:15",
+    "et": "kell üksteist viisteist",
+    "ru": "одиннадцать пятнадцать",
+    "en": "eleven fifteen"
+  },
+  {
+    "file": "11_20.mp3",
+    "time": "11:20",
+    "number": "11:20",
+    "et": "kell üksteist kakskümmend",
+    "ru": "одиннадцать двадцать",
+    "en": "eleven twenty"
+  },
+  {
+    "file": "11_25.mp3",
+    "time": "11:25",
+    "number": "11:25",
+    "et": "kell üksteist kakskümmend viis",
+    "ru": "одиннадцать двадцать пять",
+    "en": "eleven twenty-five"
+  },
+  {
+    "file": "11_30.mp3",
+    "time": "11:30",
+    "number": "11:30",
+    "et": "kell üksteist kolmkümmend",
+    "ru": "одиннадцать тридцать",
+    "en": "eleven thirty"
+  },
+  {
+    "file": "11_35.mp3",
+    "time": "11:35",
+    "number": "11:35",
+    "et": "kell üksteist kolmkümmend viis",
+    "ru": "одиннадцать тридцать пять",
+    "en": "eleven thirty-five"
+  },
+  {
+    "file": "11_40.mp3",
+    "time": "11:40",
+    "number": "11:40",
+    "et": "kell üksteist nelikümmend",
+    "ru": "одиннадцать сорок",
+    "en": "eleven forty"
+  },
+  {
+    "file": "11_45.mp3",
+    "time": "11:45",
+    "number": "11:45",
+    "et": "kell üksteist nelikümmend viis",
+    "ru": "одиннадцать сорок пять",
+    "en": "eleven forty-five"
+  },
+  {
+    "file": "11_50.mp3",
+    "time": "11:50",
+    "number": "11:50",
+    "et": "kell üksteist viiskümmend",
+    "ru": "одиннадцать пятьдесят",
+    "en": "eleven fifty"
+  },
+  {
+    "file": "11_55.mp3",
+    "time": "11:55",
+    "number": "11:55",
+    "et": "kell üksteist viiskümmend viis",
+    "ru": "одиннадцать пятьдесят пять",
+    "en": "eleven fifty-five"
+  },
+  {
+    "file": "12_00.mp3",
+    "time": "12:00",
+    "number": "12:00",
+    "et": "kell kaksteist",
+    "ru": "двенадцать",
+    "en": "twelve o'clock"
+  },
+  {
+    "file": "12_05.mp3",
+    "time": "12:05",
+    "number": "12:05",
+    "et": "kell kaksteist viis",
+    "ru": "двенадцать ноль пять",
+    "en": "twelve oh five"
+  },
+  {
+    "file": "12_10.mp3",
+    "time": "12:10",
+    "number": "12:10",
+    "et": "kell kaksteist kümme",
+    "ru": "двенадцать десять",
+    "en": "twelve ten"
+  },
+  {
+    "file": "12_15.mp3",
+    "time": "12:15",
+    "number": "12:15",
+    "et": "kell kaksteist viisteist",
+    "ru": "двенадцать пятнадцать",
+    "en": "twelve fifteen"
+  },
+  {
+    "file": "12_20.mp3",
+    "time": "12:20",
+    "number": "12:20",
+    "et": "kell kaksteist kakskümmend",
+    "ru": "двенадцать двадцать",
+    "en": "twelve twenty"
+  },
+  {
+    "file": "12_25.mp3",
+    "time": "12:25",
+    "number": "12:25",
+    "et": "kell kaksteist kakskümmend viis",
+    "ru": "двенадцать двадцать пять",
+    "en": "twelve twenty-five"
+  },
+  {
+    "file": "12_30.mp3",
+    "time": "12:30",
+    "number": "12:30",
+    "et": "kell kaksteist kolmkümmend",
+    "ru": "двенадцать тридцать",
+    "en": "twelve thirty"
+  },
+  {
+    "file": "12_35.mp3",
+    "time": "12:35",
+    "number": "12:35",
+    "et": "kell kaksteist kolmkümmend viis",
+    "ru": "двенадцать тридцать пять",
+    "en": "twelve thirty-five"
+  },
+  {
+    "file": "12_40.mp3",
+    "time": "12:40",
+    "number": "12:40",
+    "et": "kell kaksteist nelikümmend",
+    "ru": "двенадцать сорок",
+    "en": "twelve forty"
+  },
+  {
+    "file": "12_45.mp3",
+    "time": "12:45",
+    "number": "12:45",
+    "et": "kell kaksteist nelikümmend viis",
+    "ru": "двенадцать сорок пять",
+    "en": "twelve forty-five"
+  },
+  {
+    "file": "12_50.mp3",
+    "time": "12:50",
+    "number": "12:50",
+    "et": "kell kaksteist viiskümmend",
+    "ru": "двенадцать пятьдесят",
+    "en": "twelve fifty"
+  },
+  {
+    "file": "12_55.mp3",
+    "time": "12:55",
+    "number": "12:55",
+    "et": "kell kaksteist viiskümmend viis",
+    "ru": "двенадцать пятьдесят пять",
+    "en": "twelve fifty-five"
+  },
+  {
+    "file": "13_00.mp3",
+    "time": "13:00",
+    "number": "13:00",
+    "et": "kell kolmteist",
+    "ru": "тринадцать",
+    "en": "thirteen hundred"
+  },
+  {
+    "file": "13_05.mp3",
+    "time": "13:05",
+    "number": "13:05",
+    "et": "kell kolmteist viis",
+    "ru": "тринадцать ноль пять",
+    "en": "thirteen oh five"
+  },
+  {
+    "file": "13_10.mp3",
+    "time": "13:10",
+    "number": "13:10",
+    "et": "kell kolmteist kümme",
+    "ru": "тринадцать десять",
+    "en": "thirteen ten"
+  },
+  {
+    "file": "13_15.mp3",
+    "time": "13:15",
+    "number": "13:15",
+    "et": "kell kolmteist viisteist",
+    "ru": "тринадцать пятнадцать",
+    "en": "thirteen fifteen"
+  },
+  {
+    "file": "13_20.mp3",
+    "time": "13:20",
+    "number": "13:20",
+    "et": "kell kolmteist kakskümmend",
+    "ru": "тринадцать двадцать",
+    "en": "thirteen twenty"
+  },
+  {
+    "file": "13_25.mp3",
+    "time": "13:25",
+    "number": "13:25",
+    "et": "kell kolmteist kakskümmend viis",
+    "ru": "тринадцать двадцать пять",
+    "en": "thirteen twenty-five"
+  },
+  {
+    "file": "13_30.mp3",
+    "time": "13:30",
+    "number": "13:30",
+    "et": "kell kolmteist kolmkümmend",
+    "ru": "тринадцать тридцать",
+    "en": "thirteen thirty"
+  },
+  {
+    "file": "13_35.mp3",
+    "time": "13:35",
+    "number": "13:35",
+    "et": "kell kolmteist kolmkümmend viis",
+    "ru": "тринадцать тридцать пять",
+    "en": "thirteen thirty-five"
+  },
+  {
+    "file": "13_40.mp3",
+    "time": "13:40",
+    "number": "13:40",
+    "et": "kell kolmteist nelikümmend",
+    "ru": "тринадцать сорок",
+    "en": "thirteen forty"
+  },
+  {
+    "file": "13_45.mp3",
+    "time": "13:45",
+    "number": "13:45",
+    "et": "kell kolmteist nelikümmend viis",
+    "ru": "тринадцать сорок пять",
+    "en": "thirteen forty-five"
+  },
+  {
+    "file": "13_50.mp3",
+    "time": "13:50",
+    "number": "13:50",
+    "et": "kell kolmteist viiskümmend",
+    "ru": "тринадцать пятьдесят",
+    "en": "thirteen fifty"
+  },
+  {
+    "file": "13_55.mp3",
+    "time": "13:55",
+    "number": "13:55",
+    "et": "kell kolmteist viiskümmend viis",
+    "ru": "тринадцать пятьдесят пять",
+    "en": "thirteen fifty-five"
+  },
+  {
+    "file": "14_00.mp3",
+    "time": "14:00",
+    "number": "14:00",
+    "et": "kell neliteist",
+    "ru": "четырнадцать",
+    "en": "fourteen hundred"
+  },
+  {
+    "file": "14_05.mp3",
+    "time": "14:05",
+    "number": "14:05",
+    "et": "kell neliteist viis",
+    "ru": "четырнадцать ноль пять",
+    "en": "fourteen oh five"
+  },
+  {
+    "file": "14_10.mp3",
+    "time": "14:10",
+    "number": "14:10",
+    "et": "kell neliteist kümme",
+    "ru": "четырнадцать десять",
+    "en": "fourteen ten"
+  },
+  {
+    "file": "14_15.mp3",
+    "time": "14:15",
+    "number": "14:15",
+    "et": "kell neliteist viisteist",
+    "ru": "четырнадцать пятнадцать",
+    "en": "fourteen fifteen"
+  },
+  {
+    "file": "14_20.mp3",
+    "time": "14:20",
+    "number": "14:20",
+    "et": "kell neliteist kakskümmend",
+    "ru": "четырнадцать двадцать",
+    "en": "fourteen twenty"
+  },
+  {
+    "file": "14_25.mp3",
+    "time": "14:25",
+    "number": "14:25",
+    "et": "kell neliteist kakskümmend viis",
+    "ru": "четырнадцать двадцать пять",
+    "en": "fourteen twenty-five"
+  },
+  {
+    "file": "14_30.mp3",
+    "time": "14:30",
+    "number": "14:30",
+    "et": "kell neliteist kolmkümmend",
+    "ru": "четырнадцать тридцать",
+    "en": "fourteen thirty"
+  },
+  {
+    "file": "14_35.mp3",
+    "time": "14:35",
+    "number": "14:35",
+    "et": "kell neliteist kolmkümmend viis",
+    "ru": "четырнадцать тридцать пять",
+    "en": "fourteen thirty-five"
+  },
+  {
+    "file": "14_40.mp3",
+    "time": "14:40",
+    "number": "14:40",
+    "et": "kell neliteist nelikümmend",
+    "ru": "четырнадцать сорок",
+    "en": "fourteen forty"
+  },
+  {
+    "file": "14_45.mp3",
+    "time": "14:45",
+    "number": "14:45",
+    "et": "kell neliteist nelikümmend viis",
+    "ru": "четырнадцать сорок пять",
+    "en": "fourteen forty-five"
+  },
+  {
+    "file": "14_50.mp3",
+    "time": "14:50",
+    "number": "14:50",
+    "et": "kell neliteist viiskümmend",
+    "ru": "четырнадцать пятьдесят",
+    "en": "fourteen fifty"
+  },
+  {
+    "file": "14_55.mp3",
+    "time": "14:55",
+    "number": "14:55",
+    "et": "kell neliteist viiskümmend viis",
+    "ru": "четырнадцать пятьдесят пять",
+    "en": "fourteen fifty-five"
+  },
+  {
+    "file": "15_00.mp3",
+    "time": "15:00",
+    "number": "15:00",
+    "et": "kell viisteist",
+    "ru": "пятнадцать",
+    "en": "fifteen hundred"
+  },
+  {
+    "file": "15_05.mp3",
+    "time": "15:05",
+    "number": "15:05",
+    "et": "kell viisteist viis",
+    "ru": "пятнадцать ноль пять",
+    "en": "fifteen oh five"
+  },
+  {
+    "file": "15_10.mp3",
+    "time": "15:10",
+    "number": "15:10",
+    "et": "kell viisteist kümme",
+    "ru": "пятнадцать десять",
+    "en": "fifteen ten"
+  },
+  {
+    "file": "15_15.mp3",
+    "time": "15:15",
+    "number": "15:15",
+    "et": "kell viisteist viisteist",
+    "ru": "пятнадцать пятнадцать",
+    "en": "fifteen fifteen"
+  },
+  {
+    "file": "15_20.mp3",
+    "time": "15:20",
+    "number": "15:20",
+    "et": "kell viisteist kakskümmend",
+    "ru": "пятнадцать двадцать",
+    "en": "fifteen twenty"
+  },
+  {
+    "file": "15_25.mp3",
+    "time": "15:25",
+    "number": "15:25",
+    "et": "kell viisteist kakskümmend viis",
+    "ru": "пятнадцать двадцать пять",
+    "en": "fifteen twenty-five"
+  },
+  {
+    "file": "15_30.mp3",
+    "time": "15:30",
+    "number": "15:30",
+    "et": "kell viisteist kolmkümmend",
+    "ru": "пятнадцать тридцать",
+    "en": "fifteen thirty"
+  },
+  {
+    "file": "15_35.mp3",
+    "time": "15:35",
+    "number": "15:35",
+    "et": "kell viisteist kolmkümmend viis",
+    "ru": "пятнадцать тридцать пять",
+    "en": "fifteen thirty-five"
+  },
+  {
+    "file": "15_40.mp3",
+    "time": "15:40",
+    "number": "15:40",
+    "et": "kell viisteist nelikümmend",
+    "ru": "пятнадцать сорок",
+    "en": "fifteen forty"
+  },
+  {
+    "file": "15_45.mp3",
+    "time": "15:45",
+    "number": "15:45",
+    "et": "kell viisteist nelikümmend viis",
+    "ru": "пятнадцать сорок пять",
+    "en": "fifteen forty-five"
+  },
+  {
+    "file": "15_50.mp3",
+    "time": "15:50",
+    "number": "15:50",
+    "et": "kell viisteist viiskümmend",
+    "ru": "пятнадцать пятьдесят",
+    "en": "fifteen fifty"
+  },
+  {
+    "file": "15_55.mp3",
+    "time": "15:55",
+    "number": "15:55",
+    "et": "kell viisteist viiskümmend viis",
+    "ru": "пятнадцать пятьдесят пять",
+    "en": "fifteen fifty-five"
+  },
+  {
+    "file": "16_00.mp3",
+    "time": "16:00",
+    "number": "16:00",
+    "et": "kell kuusteist",
+    "ru": "шестнадцать",
+    "en": "sixteen hundred"
+  },
+  {
+    "file": "16_05.mp3",
+    "time": "16:05",
+    "number": "16:05",
+    "et": "kell kuusteist viis",
+    "ru": "шестнадцать ноль пять",
+    "en": "sixteen oh five"
+  },
+  {
+    "file": "16_10.mp3",
+    "time": "16:10",
+    "number": "16:10",
+    "et": "kell kuusteist kümme",
+    "ru": "шестнадцать десять",
+    "en": "sixteen ten"
+  },
+  {
+    "file": "16_15.mp3",
+    "time": "16:15",
+    "number": "16:15",
+    "et": "kell kuusteist viisteist",
+    "ru": "шестнадцать пятнадцать",
+    "en": "sixteen fifteen"
+  },
+  {
+    "file": "16_20.mp3",
+    "time": "16:20",
+    "number": "16:20",
+    "et": "kell kuusteist kakskümmend",
+    "ru": "шестнадцать двадцать",
+    "en": "sixteen twenty"
+  },
+  {
+    "file": "16_25.mp3",
+    "time": "16:25",
+    "number": "16:25",
+    "et": "kell kuusteist kakskümmend viis",
+    "ru": "шестнадцать двадцать пять",
+    "en": "sixteen twenty-five"
+  },
+  {
+    "file": "16_30.mp3",
+    "time": "16:30",
+    "number": "16:30",
+    "et": "kell kuusteist kolmkümmend",
+    "ru": "шестнадцать тридцать",
+    "en": "sixteen thirty"
+  },
+  {
+    "file": "16_35.mp3",
+    "time": "16:35",
+    "number": "16:35",
+    "et": "kell kuusteist kolmkümmend viis",
+    "ru": "шестнадцать тридцать пять",
+    "en": "sixteen thirty-five"
+  },
+  {
+    "file": "16_40.mp3",
+    "time": "16:40",
+    "number": "16:40",
+    "et": "kell kuusteist nelikümmend",
+    "ru": "шестнадцать сорок",
+    "en": "sixteen forty"
+  },
+  {
+    "file": "16_45.mp3",
+    "time": "16:45",
+    "number": "16:45",
+    "et": "kell kuusteist nelikümmend viis",
+    "ru": "шестнадцать сорок пять",
+    "en": "sixteen forty-five"
+  },
+  {
+    "file": "16_50.mp3",
+    "time": "16:50",
+    "number": "16:50",
+    "et": "kell kuusteist viiskümmend",
+    "ru": "шестнадцать пятьдесят",
+    "en": "sixteen fifty"
+  },
+  {
+    "file": "16_55.mp3",
+    "time": "16:55",
+    "number": "16:55",
+    "et": "kell kuusteist viiskümmend viis",
+    "ru": "шестнадцать пятьдесят пять",
+    "en": "sixteen fifty-five"
+  },
+  {
+    "file": "17_00.mp3",
+    "time": "17:00",
+    "number": "17:00",
+    "et": "kell seitseteist",
+    "ru": "семнадцать",
+    "en": "seventeen hundred"
+  },
+  {
+    "file": "17_05.mp3",
+    "time": "17:05",
+    "number": "17:05",
+    "et": "kell seitseteist viis",
+    "ru": "семнадцать ноль пять",
+    "en": "seventeen oh five"
+  },
+  {
+    "file": "17_10.mp3",
+    "time": "17:10",
+    "number": "17:10",
+    "et": "kell seitseteist kümme",
+    "ru": "семнадцать десять",
+    "en": "seventeen ten"
+  },
+  {
+    "file": "17_15.mp3",
+    "time": "17:15",
+    "number": "17:15",
+    "et": "kell seitseteist viisteist",
+    "ru": "семнадцать пятнадцать",
+    "en": "seventeen fifteen"
+  },
+  {
+    "file": "17_20.mp3",
+    "time": "17:20",
+    "number": "17:20",
+    "et": "kell seitseteist kakskümmend",
+    "ru": "семнадцать двадцать",
+    "en": "seventeen twenty"
+  },
+  {
+    "file": "17_25.mp3",
+    "time": "17:25",
+    "number": "17:25",
+    "et": "kell seitseteist kakskümmend viis",
+    "ru": "семнадцать двадцать пять",
+    "en": "seventeen twenty-five"
+  },
+  {
+    "file": "17_30.mp3",
+    "time": "17:30",
+    "number": "17:30",
+    "et": "kell seitseteist kolmkümmend",
+    "ru": "семнадцать тридцать",
+    "en": "seventeen thirty"
+  },
+  {
+    "file": "17_35.mp3",
+    "time": "17:35",
+    "number": "17:35",
+    "et": "kell seitseteist kolmkümmend viis",
+    "ru": "семнадцать тридцать пять",
+    "en": "seventeen thirty-five"
+  },
+  {
+    "file": "17_40.mp3",
+    "time": "17:40",
+    "number": "17:40",
+    "et": "kell seitseteist nelikümmend",
+    "ru": "семнадцать сорок",
+    "en": "seventeen forty"
+  },
+  {
+    "file": "17_45.mp3",
+    "time": "17:45",
+    "number": "17:45",
+    "et": "kell seitseteist nelikümmend viis",
+    "ru": "семнадцать сорок пять",
+    "en": "seventeen forty-five"
+  },
+  {
+    "file": "17_50.mp3",
+    "time": "17:50",
+    "number": "17:50",
+    "et": "kell seitseteist viiskümmend",
+    "ru": "семнадцать пятьдесят",
+    "en": "seventeen fifty"
+  },
+  {
+    "file": "17_55.mp3",
+    "time": "17:55",
+    "number": "17:55",
+    "et": "kell seitseteist viiskümmend viis",
+    "ru": "семнадцать пятьдесят пять",
+    "en": "seventeen fifty-five"
+  },
+  {
+    "file": "18_00.mp3",
+    "time": "18:00",
+    "number": "18:00",
+    "et": "kell kaheksateist",
+    "ru": "восемнадцать",
+    "en": "eighteen hundred"
+  },
+  {
+    "file": "18_05.mp3",
+    "time": "18:05",
+    "number": "18:05",
+    "et": "kell kaheksateist viis",
+    "ru": "восемнадцать ноль пять",
+    "en": "eighteen oh five"
+  },
+  {
+    "file": "18_10.mp3",
+    "time": "18:10",
+    "number": "18:10",
+    "et": "kell kaheksateist kümme",
+    "ru": "восемнадцать десять",
+    "en": "eighteen ten"
+  },
+  {
+    "file": "18_15.mp3",
+    "time": "18:15",
+    "number": "18:15",
+    "et": "kell kaheksateist viisteist",
+    "ru": "восемнадцать пятнадцать",
+    "en": "eighteen fifteen"
+  },
+  {
+    "file": "18_20.mp3",
+    "time": "18:20",
+    "number": "18:20",
+    "et": "kell kaheksateist kakskümmend",
+    "ru": "восемнадцать двадцать",
+    "en": "eighteen twenty"
+  },
+  {
+    "file": "18_25.mp3",
+    "time": "18:25",
+    "number": "18:25",
+    "et": "kell kaheksateist kakskümmend viis",
+    "ru": "восемнадцать двадцать пять",
+    "en": "eighteen twenty-five"
+  },
+  {
+    "file": "18_30.mp3",
+    "time": "18:30",
+    "number": "18:30",
+    "et": "kell kaheksateist kolmkümmend",
+    "ru": "восемнадцать тридцать",
+    "en": "eighteen thirty"
+  },
+  {
+    "file": "18_35.mp3",
+    "time": "18:35",
+    "number": "18:35",
+    "et": "kell kaheksateist kolmkümmend viis",
+    "ru": "восемнадцать тридцать пять",
+    "en": "eighteen thirty-five"
+  },
+  {
+    "file": "18_40.mp3",
+    "time": "18:40",
+    "number": "18:40",
+    "et": "kell kaheksateist nelikümmend",
+    "ru": "восемнадцать сорок",
+    "en": "eighteen forty"
+  },
+  {
+    "file": "18_45.mp3",
+    "time": "18:45",
+    "number": "18:45",
+    "et": "kell kaheksateist nelikümmend viis",
+    "ru": "восемнадцать сорок пять",
+    "en": "eighteen forty-five"
+  },
+  {
+    "file": "18_50.mp3",
+    "time": "18:50",
+    "number": "18:50",
+    "et": "kell kaheksateist viiskümmend",
+    "ru": "восемнадцать пятьдесят",
+    "en": "eighteen fifty"
+  },
+  {
+    "file": "18_55.mp3",
+    "time": "18:55",
+    "number": "18:55",
+    "et": "kell kaheksateist viiskümmend viis",
+    "ru": "восемнадцать пятьдесят пять",
+    "en": "eighteen fifty-five"
+  },
+  {
+    "file": "19_00.mp3",
+    "time": "19:00",
+    "number": "19:00",
+    "et": "kell üheksateist",
+    "ru": "девятнадцать",
+    "en": "nineteen hundred"
+  },
+  {
+    "file": "19_05.mp3",
+    "time": "19:05",
+    "number": "19:05",
+    "et": "kell üheksateist viis",
+    "ru": "девятнадцать ноль пять",
+    "en": "nineteen oh five"
+  },
+  {
+    "file": "19_10.mp3",
+    "time": "19:10",
+    "number": "19:10",
+    "et": "kell üheksateist kümme",
+    "ru": "девятнадцать десять",
+    "en": "nineteen ten"
+  },
+  {
+    "file": "19_15.mp3",
+    "time": "19:15",
+    "number": "19:15",
+    "et": "kell üheksateist viisteist",
+    "ru": "девятнадцать пятнадцать",
+    "en": "nineteen fifteen"
+  },
+  {
+    "file": "19_20.mp3",
+    "time": "19:20",
+    "number": "19:20",
+    "et": "kell üheksateist kakskümmend",
+    "ru": "девятнадцать двадцать",
+    "en": "nineteen twenty"
+  },
+  {
+    "file": "19_25.mp3",
+    "time": "19:25",
+    "number": "19:25",
+    "et": "kell üheksateist kakskümmend viis",
+    "ru": "девятнадцать двадцать пять",
+    "en": "nineteen twenty-five"
+  },
+  {
+    "file": "19_30.mp3",
+    "time": "19:30",
+    "number": "19:30",
+    "et": "kell üheksateist kolmkümmend",
+    "ru": "девятнадцать тридцать",
+    "en": "nineteen thirty"
+  },
+  {
+    "file": "19_35.mp3",
+    "time": "19:35",
+    "number": "19:35",
+    "et": "kell üheksateist kolmkümmend viis",
+    "ru": "девятнадцать тридцать пять",
+    "en": "nineteen thirty-five"
+  },
+  {
+    "file": "19_40.mp3",
+    "time": "19:40",
+    "number": "19:40",
+    "et": "kell üheksateist nelikümmend",
+    "ru": "девятнадцать сорок",
+    "en": "nineteen forty"
+  },
+  {
+    "file": "19_45.mp3",
+    "time": "19:45",
+    "number": "19:45",
+    "et": "kell üheksateist nelikümmend viis",
+    "ru": "девятнадцать сорок пять",
+    "en": "nineteen forty-five"
+  },
+  {
+    "file": "19_50.mp3",
+    "time": "19:50",
+    "number": "19:50",
+    "et": "kell üheksateist viiskümmend",
+    "ru": "девятнадцать пятьдесят",
+    "en": "nineteen fifty"
+  },
+  {
+    "file": "19_55.mp3",
+    "time": "19:55",
+    "number": "19:55",
+    "et": "kell üheksateist viiskümmend viis",
+    "ru": "девятнадцать пятьдесят пять",
+    "en": "nineteen fifty-five"
+  },
+  {
+    "file": "20_00.mp3",
+    "time": "20:00",
+    "number": "20:00",
+    "et": "kell kakskümmend",
+    "ru": "двадцать",
+    "en": "twenty hundred"
+  },
+  {
+    "file": "20_05.mp3",
+    "time": "20:05",
+    "number": "20:05",
+    "et": "kell kakskümmend viis",
+    "ru": "двадцать ноль пять",
+    "en": "twenty oh five"
+  },
+  {
+    "file": "20_10.mp3",
+    "time": "20:10",
+    "number": "20:10",
+    "et": "kell kakskümmend kümme",
+    "ru": "двадцать десять",
+    "en": "twenty ten"
+  },
+  {
+    "file": "20_15.mp3",
+    "time": "20:15",
+    "number": "20:15",
+    "et": "kell kakskümmend viisteist",
+    "ru": "двадцать пятнадцать",
+    "en": "twenty fifteen"
+  },
+  {
+    "file": "20_20.mp3",
+    "time": "20:20",
+    "number": "20:20",
+    "et": "kell kakskümmend kakskümmend",
+    "ru": "двадцать двадцать",
+    "en": "twenty twenty"
+  },
+  {
+    "file": "20_25.mp3",
+    "time": "20:25",
+    "number": "20:25",
+    "et": "kell kakskümmend kakskümmend viis",
+    "ru": "двадцать двадцать пять",
+    "en": "twenty twenty-five"
+  },
+  {
+    "file": "20_30.mp3",
+    "time": "20:30",
+    "number": "20:30",
+    "et": "kell kakskümmend kolmkümmend",
+    "ru": "двадцать тридцать",
+    "en": "twenty thirty"
+  },
+  {
+    "file": "20_35.mp3",
+    "time": "20:35",
+    "number": "20:35",
+    "et": "kell kakskümmend kolmkümmend viis",
+    "ru": "двадцать тридцать пять",
+    "en": "twenty thirty-five"
+  },
+  {
+    "file": "20_40.mp3",
+    "time": "20:40",
+    "number": "20:40",
+    "et": "kell kakskümmend nelikümmend",
+    "ru": "двадцать сорок",
+    "en": "twenty forty"
+  },
+  {
+    "file": "20_45.mp3",
+    "time": "20:45",
+    "number": "20:45",
+    "et": "kell kakskümmend nelikümmend viis",
+    "ru": "двадцать сорок пять",
+    "en": "twenty forty-five"
+  },
+  {
+    "file": "20_50.mp3",
+    "time": "20:50",
+    "number": "20:50",
+    "et": "kell kakskümmend viiskümmend",
+    "ru": "двадцать пятьдесят",
+    "en": "twenty fifty"
+  },
+  {
+    "file": "20_55.mp3",
+    "time": "20:55",
+    "number": "20:55",
+    "et": "kell kakskümmend viiskümmend viis",
+    "ru": "двадцать пятьдесят пять",
+    "en": "twenty fifty-five"
+  },
+  {
+    "file": "21_00.mp3",
+    "time": "21:00",
+    "number": "21:00",
+    "et": "kell kakskümmend üks",
+    "ru": "двадцать один",
+    "en": "twenty-one hundred"
+  },
+  {
+    "file": "21_05.mp3",
+    "time": "21:05",
+    "number": "21:05",
+    "et": "kell kakskümmend üks viis",
+    "ru": "двадцать один ноль пять",
+    "en": "twenty-one oh five"
+  },
+  {
+    "file": "21_10.mp3",
+    "time": "21:10",
+    "number": "21:10",
+    "et": "kell kakskümmend üks kümme",
+    "ru": "двадцать один десять",
+    "en": "twenty-one ten"
+  },
+  {
+    "file": "21_15.mp3",
+    "time": "21:15",
+    "number": "21:15",
+    "et": "kell kakskümmend üks viisteist",
+    "ru": "двадцать один пятнадцать",
+    "en": "twenty-one fifteen"
+  },
+  {
+    "file": "21_20.mp3",
+    "time": "21:20",
+    "number": "21:20",
+    "et": "kell kakskümmend üks kakskümmend",
+    "ru": "двадцать один двадцать",
+    "en": "twenty-one twenty"
+  },
+  {
+    "file": "21_25.mp3",
+    "time": "21:25",
+    "number": "21:25",
+    "et": "kell kakskümmend üks kakskümmend viis",
+    "ru": "двадцать один двадцать пять",
+    "en": "twenty-one twenty-five"
+  },
+  {
+    "file": "21_30.mp3",
+    "time": "21:30",
+    "number": "21:30",
+    "et": "kell kakskümmend üks kolmkümmend",
+    "ru": "двадцать один тридцать",
+    "en": "twenty-one thirty"
+  },
+  {
+    "file": "21_35.mp3",
+    "time": "21:35",
+    "number": "21:35",
+    "et": "kell kakskümmend üks kolmkümmend viis",
+    "ru": "двадцать один тридцать пять",
+    "en": "twenty-one thirty-five"
+  },
+  {
+    "file": "21_40.mp3",
+    "time": "21:40",
+    "number": "21:40",
+    "et": "kell kakskümmend üks nelikümmend",
+    "ru": "двадцать один сорок",
+    "en": "twenty-one forty"
+  },
+  {
+    "file": "21_45.mp3",
+    "time": "21:45",
+    "number": "21:45",
+    "et": "kell kakskümmend üks nelikümmend viis",
+    "ru": "двадцать один сорок пять",
+    "en": "twenty-one forty-five"
+  },
+  {
+    "file": "21_50.mp3",
+    "time": "21:50",
+    "number": "21:50",
+    "et": "kell kakskümmend üks viiskümmend",
+    "ru": "двадцать один пятьдесят",
+    "en": "twenty-one fifty"
+  },
+  {
+    "file": "21_55.mp3",
+    "time": "21:55",
+    "number": "21:55",
+    "et": "kell kakskümmend üks viiskümmend viis",
+    "ru": "двадцать один пятьдесят пять",
+    "en": "twenty-one fifty-five"
+  },
+  {
+    "file": "22_00.mp3",
+    "time": "22:00",
+    "number": "22:00",
+    "et": "kell kakskümmend kaks",
+    "ru": "двадцать два",
+    "en": "twenty-two hundred"
+  },
+  {
+    "file": "22_05.mp3",
+    "time": "22:05",
+    "number": "22:05",
+    "et": "kell kakskümmend kaks viis",
+    "ru": "двадцать два ноль пять",
+    "en": "twenty-two oh five"
+  },
+  {
+    "file": "22_10.mp3",
+    "time": "22:10",
+    "number": "22:10",
+    "et": "kell kakskümmend kaks kümme",
+    "ru": "двадцать два десять",
+    "en": "twenty-two ten"
+  },
+  {
+    "file": "22_15.mp3",
+    "time": "22:15",
+    "number": "22:15",
+    "et": "kell kakskümmend kaks viisteist",
+    "ru": "двадцать два пятнадцать",
+    "en": "twenty-two fifteen"
+  },
+  {
+    "file": "22_20.mp3",
+    "time": "22:20",
+    "number": "22:20",
+    "et": "kell kakskümmend kaks kakskümmend",
+    "ru": "двадцать два двадцать",
+    "en": "twenty-two twenty"
+  },
+  {
+    "file": "22_25.mp3",
+    "time": "22:25",
+    "number": "22:25",
+    "et": "kell kakskümmend kaks kakskümmend viis",
+    "ru": "двадцать два двадцать пять",
+    "en": "twenty-two twenty-five"
+  },
+  {
+    "file": "22_30.mp3",
+    "time": "22:30",
+    "number": "22:30",
+    "et": "kell kakskümmend kaks kolmkümmend",
+    "ru": "двадцать два тридцать",
+    "en": "twenty-two thirty"
+  },
+  {
+    "file": "22_35.mp3",
+    "time": "22:35",
+    "number": "22:35",
+    "et": "kell kakskümmend kaks kolmkümmend viis",
+    "ru": "двадцать два тридцать пять",
+    "en": "twenty-two thirty-five"
+  },
+  {
+    "file": "22_40.mp3",
+    "time": "22:40",
+    "number": "22:40",
+    "et": "kell kakskümmend kaks nelikümmend",
+    "ru": "двадцать два сорок",
+    "en": "twenty-two forty"
+  },
+  {
+    "file": "22_45.mp3",
+    "time": "22:45",
+    "number": "22:45",
+    "et": "kell kakskümmend kaks nelikümmend viis",
+    "ru": "двадцать два сорок пять",
+    "en": "twenty-two forty-five"
+  },
+  {
+    "file": "22_50.mp3",
+    "time": "22:50",
+    "number": "22:50",
+    "et": "kell kakskümmend kaks viiskümmend",
+    "ru": "двадцать два пятьдесят",
+    "en": "twenty-two fifty"
+  },
+  {
+    "file": "22_55.mp3",
+    "time": "22:55",
+    "number": "22:55",
+    "et": "kell kakskümmend kaks viiskümmend viis",
+    "ru": "двадцать два пятьдесят пять",
+    "en": "twenty-two fifty-five"
+  },
+  {
+    "file": "23_00.mp3",
+    "time": "23:00",
+    "number": "23:00",
+    "et": "kell kakskümmend kolm",
+    "ru": "двадцать три",
+    "en": "twenty-three hundred"
+  },
+  {
+    "file": "23_05.mp3",
+    "time": "23:05",
+    "number": "23:05",
+    "et": "kell kakskümmend kolm viis",
+    "ru": "двадцать три ноль пять",
+    "en": "twenty-three oh five"
+  },
+  {
+    "file": "23_10.mp3",
+    "time": "23:10",
+    "number": "23:10",
+    "et": "kell kakskümmend kolm kümme",
+    "ru": "двадцать три десять",
+    "en": "twenty-three ten"
+  },
+  {
+    "file": "23_15.mp3",
+    "time": "23:15",
+    "number": "23:15",
+    "et": "kell kakskümmend kolm viisteist",
+    "ru": "двадцать три пятнадцать",
+    "en": "twenty-three fifteen"
+  },
+  {
+    "file": "23_20.mp3",
+    "time": "23:20",
+    "number": "23:20",
+    "et": "kell kakskümmend kolm kakskümmend",
+    "ru": "двадцать три двадцать",
+    "en": "twenty-three twenty"
+  },
+  {
+    "file": "23_25.mp3",
+    "time": "23:25",
+    "number": "23:25",
+    "et": "kell kakskümmend kolm kakskümmend viis",
+    "ru": "двадцать три двадцать пять",
+    "en": "twenty-three twenty-five"
+  },
+  {
+    "file": "23_30.mp3",
+    "time": "23:30",
+    "number": "23:30",
+    "et": "kell kakskümmend kolm kolmkümmend",
+    "ru": "двадцать три тридцать",
+    "en": "twenty-three thirty"
+  },
+  {
+    "file": "23_35.mp3",
+    "time": "23:35",
+    "number": "23:35",
+    "et": "kell kakskümmend kolm kolmkümmend viis",
+    "ru": "двадцать три тридцать пять",
+    "en": "twenty-three thirty-five"
+  },
+  {
+    "file": "23_40.mp3",
+    "time": "23:40",
+    "number": "23:40",
+    "et": "kell kakskümmend kolm nelikümmend",
+    "ru": "двадцать три сорок",
+    "en": "twenty-three forty"
+  },
+  {
+    "file": "23_45.mp3",
+    "time": "23:45",
+    "number": "23:45",
+    "et": "kell kakskümmend kolm nelikümmend viis",
+    "ru": "двадцать три сорок пять",
+    "en": "twenty-three forty-five"
+  },
+  {
+    "file": "23_50.mp3",
+    "time": "23:50",
+    "number": "23:50",
+    "et": "kell kakskümmend kolm viiskümmend",
+    "ru": "двадцать три пятьдесят",
+    "en": "twenty-three fifty"
+  },
+  {
+    "file": "23_55.mp3",
+    "time": "23:55",
+    "number": "23:55",
+    "et": "kell kakskümmend kolm viiskümmend viis",
+    "ru": "двадцать три пятьдесят пять",
+    "en": "twenty-three fifty-five"
+  }
+]

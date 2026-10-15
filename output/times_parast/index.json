@@ -1,0 +1,2306 @@
+[
+  {
+    "file": "00_00.mp3",
+    "time": "00:00",
+    "number": "00:00",
+    "et": "kell null",
+    "ru": "двенадцать часов",
+    "en": "twelve o'clock"
+  },
+  {
+    "file": "00_05.mp3",
+    "time": "00:05",
+    "number": "00:05",
+    "et": "viis minutit üle nulli",
+    "ru": "пять минут первого",
+    "en": "five past twelve"
+  },
+  {
+    "file": "00_10.mp3",
+    "time": "00:10",
+    "number": "00:10",
+    "et": "kümme minutit üle nulli",
+    "ru": "десять минут первого",
+    "en": "ten past twelve"
+  },
+  {
+    "file": "00_15.mp3",
+    "time": "00:15",
+    "number": "00:15",
+    "et": "veerand üks",
+    "ru": "четверть первого",
+    "en": "quarter past twelve"
+  },
+  {
+    "file": "00_20.mp3",
+    "time": "00:20",
+    "number": "00:20",
+    "et": "kümme minutit enne pool üks",
+    "ru": "двадцать минут первого",
+    "en": "twenty past twelve"
+  },
+  {
+    "file": "00_25.mp3",
+    "time": "00:25",
+    "number": "00:25",
+    "et": "viis minutit enne pool üks",
+    "ru": "двадцать пять минут первого",
+    "en": "twenty-five past twelve"
+  },
+  {
+    "file": "00_30.mp3",
+    "time": "00:30",
+    "number": "00:30",
+    "et": "pool üks",
+    "ru": "половина первого",
+    "en": "half past twelve"
+  },
+  {
+    "file": "00_35.mp3",
+    "time": "00:35",
+    "number": "00:35",
+    "et": "viis minutit pärast pool üks",
+    "ru": "без двадцати пяти час",
+    "en": "twenty-five to one"
+  },
+  {
+    "file": "00_40.mp3",
+    "time": "00:40",
+    "number": "00:40",
+    "et": "kümme minutit pärast pool üks",
+    "ru": "без двадцати час",
+    "en": "twenty to one"
+  },
+  {
+    "file": "00_45.mp3",
+    "time": "00:45",
+    "number": "00:45",
+    "et": "kolmveerand üks",
+    "ru": "без четверти час",
+    "en": "quarter to one"
+  },
+  {
+    "file": "00_50.mp3",
+    "time": "00:50",
+    "number": "00:50",
+    "et": "kümme minutit üheni",
+    "ru": "без десяти час",
+    "en": "ten to one"
+  },
+  {
+    "file": "00_55.mp3",
+    "time": "00:55",
+    "number": "00:55",
+    "et": "viis minutit üheni",
+    "ru": "без пяти час",
+    "en": "five to one"
+  },
+  {
+    "file": "01_00.mp3",
+    "time": "01:00",
+    "number": "01:00",
+    "et": "kell üks",
+    "ru": "час",
+    "en": "one o'clock"
+  },
+  {
+    "file": "01_05.mp3",
+    "time": "01:05",
+    "number": "01:05",
+    "et": "viis minutit üle ühe",
+    "ru": "пять минут второго",
+    "en": "five past one"
+  },
+  {
+    "file": "01_10.mp3",
+    "time": "01:10",
+    "number": "01:10",
+    "et": "kümme minutit üle ühe",
+    "ru": "десять минут второго",
+    "en": "ten past one"
+  },
+  {
+    "file": "01_15.mp3",
+    "time": "01:15",
+    "number": "01:15",
+    "et": "veerand kaks",
+    "ru": "четверть второго",
+    "en": "quarter past one"
+  },
+  {
+    "file": "01_20.mp3",
+    "time": "01:20",
+    "number": "01:20",
+    "et": "kümme minutit enne pool kaks",
+    "ru": "двадцать минут второго",
+    "en": "twenty past one"
+  },
+  {
+    "file": "01_25.mp3",
+    "time": "01:25",
+    "number": "01:25",
+    "et": "viis minutit enne pool kaks",
+    "ru": "двадцать пять минут второго",
+    "en": "twenty-five past one"
+  },
+  {
+    "file": "01_30.mp3",
+    "time": "01:30",
+    "number": "01:30",
+    "et": "pool kaks",
+    "ru": "половина второго",
+    "en": "half past one"
+  },
+  {
+    "file": "01_35.mp3",
+    "time": "01:35",
+    "number": "01:35",
+    "et": "viis minutit pärast pool kaks",
+    "ru": "без двадцати пяти два",
+    "en": "twenty-five to two"
+  },
+  {
+    "file": "01_40.mp3",
+    "time": "01:40",
+    "number": "01:40",
+    "et": "kümme minutit pärast pool kaks",
+    "ru": "без двадцати два",
+    "en": "twenty to two"
+  },
+  {
+    "file": "01_45.mp3",
+    "time": "01:45",
+    "number": "01:45",
+    "et": "kolmveerand kaks",
+    "ru": "без четверти два",
+    "en": "quarter to two"
+  },
+  {
+    "file": "01_50.mp3",
+    "time": "01:50",
+    "number": "01:50",
+    "et": "kümme minutit kaheni",
+    "ru": "без десяти два",
+    "en": "ten to two"
+  },
+  {
+    "file": "01_55.mp3",
+    "time": "01:55",
+    "number": "01:55",
+    "et": "viis minutit kaheni",
+    "ru": "без пяти два",
+    "en": "five to two"
+  },
+  {
+    "file": "02_00.mp3",
+    "time": "02:00",
+    "number": "02:00",
+    "et": "kell kaks",
+    "ru": "два часа",
+    "en": "two o'clock"
+  },
+  {
+    "file": "02_05.mp3",
+    "time": "02:05",
+    "number": "02:05",
+    "et": "viis minutit üle kahe",
+    "ru": "пять минут третьего",
+    "en": "five past two"
+  },
+  {
+    "file": "02_10.mp3",
+    "time": "02:10",
+    "number": "02:10",
+    "et": "kümme minutit üle kahe",
+    "ru": "десять минут третьего",
+    "en": "ten past two"
+  },
+  {
+    "file": "02_15.mp3",
+    "time": "02:15",
+    "number": "02:15",
+    "et": "veerand kolm",
+    "ru": "четверть третьего",
+    "en": "quarter past two"
+  },
+  {
+    "file": "02_20.mp3",
+    "time": "02:20",
+    "number": "02:20",
+    "et": "kümme minutit enne pool kolm",
+    "ru": "двадцать минут третьего",
+    "en": "twenty past two"
+  },
+  {
+    "file": "02_25.mp3",
+    "time": "02:25",
+    "number": "02:25",
+    "et": "viis minutit enne pool kolm",
+    "ru": "двадцать пять минут третьего",
+    "en": "twenty-five past two"
+  },
+  {
+    "file": "02_30.mp3",
+    "time": "02:30",
+    "number": "02:30",
+    "et": "pool kolm",
+    "ru": "половина третьего",
+    "en": "half past two"
+  },
+  {
+    "file": "02_35.mp3",
+    "time": "02:35",
+    "number": "02:35",
+    "et": "viis minutit pärast pool kolm",
+    "ru": "без двадцати пяти три",
+    "en": "twenty-five to three"
+  },
+  {
+    "file": "02_40.mp3",
+    "time": "02:40",
+    "number": "02:40",
+    "et": "kümme minutit pärast pool kolm",
+    "ru": "без двадцати три",
+    "en": "twenty to three"
+  },
+  {
+    "file": "02_45.mp3",
+    "time": "02:45",
+    "number": "02:45",
+    "et": "kolmveerand kolm",
+    "ru": "без четверти три",
+    "en": "quarter to three"
+  },
+  {
+    "file": "02_50.mp3",
+    "time": "02:50",
+    "number": "02:50",
+    "et": "kümme minutit kolmeni",
+    "ru": "без десяти три",
+    "en": "ten to three"
+  },
+  {
+    "file": "02_55.mp3",
+    "time": "02:55",
+    "number": "02:55",
+    "et": "viis minutit kolmeni",
+    "ru": "без пяти три",
+    "en": "five to three"
+  },
+  {
+    "file": "03_00.mp3",
+    "time": "03:00",
+    "number": "03:00",
+    "et": "kell kolm",
+    "ru": "три часа",
+    "en": "three o'clock"
+  },
+  {
+    "file": "03_05.mp3",
+    "time": "03:05",
+    "number": "03:05",
+    "et": "viis minutit üle kolme",
+    "ru": "пять минут четвёртого",
+    "en": "five past three"
+  },
+  {
+    "file": "03_10.mp3",
+    "time": "03:10",
+    "number": "03:10",
+    "et": "kümme minutit üle kolme",
+    "ru": "десять минут четвёртого",
+    "en": "ten past three"
+  },
+  {
+    "file": "03_15.mp3",
+    "time": "03:15",
+    "number": "03:15",
+    "et": "veerand neli",
+    "ru": "четверть четвёртого",
+    "en": "quarter past three"
+  },
+  {
+    "file": "03_20.mp3",
+    "time": "03:20",
+    "number": "03:20",
+    "et": "kümme minutit enne pool neli",
+    "ru": "двадцать минут четвёртого",
+    "en": "twenty past three"
+  },
+  {
+    "file": "03_25.mp3",
+    "time": "03:25",
+    "number": "03:25",
+    "et": "viis minutit enne pool neli",
+    "ru": "двадцать пять минут четвёртого",
+    "en": "twenty-five past three"
+  },
+  {
+    "file": "03_30.mp3",
+    "time": "03:30",
+    "number": "03:30",
+    "et": "pool neli",
+    "ru": "половина четвёртого",
+    "en": "half past three"
+  },
+  {
+    "file": "03_35.mp3",
+    "time": "03:35",
+    "number": "03:35",
+    "et": "viis minutit pärast pool neli",
+    "ru": "без двадцати пяти четыре",
+    "en": "twenty-five to four"
+  },
+  {
+    "file": "03_40.mp3",
+    "time": "03:40",
+    "number": "03:40",
+    "et": "kümme minutit pärast pool neli",
+    "ru": "без двадцати четыре",
+    "en": "twenty to four"
+  },
+  {
+    "file": "03_45.mp3",
+    "time": "03:45",
+    "number": "03:45",
+    "et": "kolmveerand neli",
+    "ru": "без четверти четыре",
+    "en": "quarter to four"
+  },
+  {
+    "file": "03_50.mp3",
+    "time": "03:50",
+    "number": "03:50",
+    "et": "kümme minutit neljani",
+    "ru": "без десяти четыре",
+    "en": "ten to four"
+  },
+  {
+    "file": "03_55.mp3",
+    "time": "03:55",
+    "number": "03:55",
+    "et": "viis minutit neljani",
+    "ru": "без пяти четыре",
+    "en": "five to four"
+  },
+  {
+    "file": "04_00.mp3",
+    "time": "04:00",
+    "number": "04:00",
+    "et": "kell neli",
+    "ru": "четыре часа",
+    "en": "four o'clock"
+  },
+  {
+    "file": "04_05.mp3",
+    "time": "04:05",
+    "number": "04:05",
+    "et": "viis minutit üle nelja",
+    "ru": "пять минут пятого",
+    "en": "five past four"
+  },
+  {
+    "file": "04_10.mp3",
+    "time": "04:10",
+    "number": "04:10",
+    "et": "kümme minutit üle nelja",
+    "ru": "десять минут пятого",
+    "en": "ten past four"
+  },
+  {
+    "file": "04_15.mp3",
+    "time": "04:15",
+    "number": "04:15",
+    "et": "veerand viis",
+    "ru": "четверть пятого",
+    "en": "quarter past four"
+  },
+  {
+    "file": "04_20.mp3",
+    "time": "04:20",
+    "number": "04:20",
+    "et": "kümme minutit enne pool viis",
+    "ru": "двадцать минут пятого",
+    "en": "twenty past four"
+  },
+  {
+    "file": "04_25.mp3",
+    "time": "04:25",
+    "number": "04:25",
+    "et": "viis minutit enne pool viis",
+    "ru": "двадцать пять минут пятого",
+    "en": "twenty-five past four"
+  },
+  {
+    "file": "04_30.mp3",
+    "time": "04:30",
+    "number": "04:30",
+    "et": "pool viis",
+    "ru": "половина пятого",
+    "en": "half past four"
+  },
+  {
+    "file": "04_35.mp3",
+    "time": "04:35",
+    "number": "04:35",
+    "et": "viis minutit pärast pool viis",
+    "ru": "без двадцати пяти пять",
+    "en": "twenty-five to five"
+  },
+  {
+    "file": "04_40.mp3",
+    "time": "04:40",
+    "number": "04:40",
+    "et": "kümme minutit pärast pool viis",
+    "ru": "без двадцати пять",
+    "en": "twenty to five"
+  },
+  {
+    "file": "04_45.mp3",
+    "time": "04:45",
+    "number": "04:45",
+    "et": "kolmveerand viis",
+    "ru": "без четверти пять",
+    "en": "quarter to five"
+  },
+  {
+    "file": "04_50.mp3",
+    "time": "04:50",
+    "number": "04:50",
+    "et": "kümme minutit viieni",
+    "ru": "без десяти пять",
+    "en": "ten to five"
+  },
+  {
+    "file": "04_55.mp3",
+    "time": "04:55",
+    "number": "04:55",
+    "et": "viis minutit viieni",
+    "ru": "без пяти пять",
+    "en": "five to five"
+  },
+  {
+    "file": "05_00.mp3",
+    "time": "05:00",
+    "number": "05:00",
+    "et": "kell viis",
+    "ru": "пять часов",
+    "en": "five o'clock"
+  },
+  {
+    "file": "05_05.mp3",
+    "time": "05:05",
+    "number": "05:05",
+    "et": "viis minutit üle viie",
+    "ru": "пять минут шестого",
+    "en": "five past five"
+  },
+  {
+    "file": "05_10.mp3",
+    "time": "05:10",
+    "number": "05:10",
+    "et": "kümme minutit üle viie",
+    "ru": "десять минут шестого",
+    "en": "ten past five"
+  },
+  {
+    "file": "05_15.mp3",
+    "time": "05:15",
+    "number": "05:15",
+    "et": "veerand kuus",
+    "ru": "четверть шестого",
+    "en": "quarter past five"
+  },
+  {
+    "file": "05_20.mp3",
+    "time": "05:20",
+    "number": "05:20",
+    "et": "kümme minutit enne pool kuus",
+    "ru": "двадцать минут шестого",
+    "en": "twenty past five"
+  },
+  {
+    "file": "05_25.mp3",
+    "time": "05:25",
+    "number": "05:25",
+    "et": "viis minutit enne pool kuus",
+    "ru": "двадцать пять минут шестого",
+    "en": "twenty-five past five"
+  },
+  {
+    "file": "05_30.mp3",
+    "time": "05:30",
+    "number": "05:30",
+    "et": "pool kuus",
+    "ru": "половина шестого",
+    "en": "half past five"
+  },
+  {
+    "file": "05_35.mp3",
+    "time": "05:35",
+    "number": "05:35",
+    "et": "viis minutit pärast pool kuus",
+    "ru": "без двадцати пяти шесть",
+    "en": "twenty-five to six"
+  },
+  {
+    "file": "05_40.mp3",
+    "time": "05:40",
+    "number": "05:40",
+    "et": "kümme minutit pärast pool kuus",
+    "ru": "без двадцати шесть",
+    "en": "twenty to six"
+  },
+  {
+    "file": "05_45.mp3",
+    "time": "05:45",
+    "number": "05:45",
+    "et": "kolmveerand kuus",
+    "ru": "без четверти шесть",
+    "en": "quarter to six"
+  },
+  {
+    "file": "05_50.mp3",
+    "time": "05:50",
+    "number": "05:50",
+    "et": "kümme minutit kuueni",
+    "ru": "без десяти шесть",
+    "en": "ten to six"
+  },
+  {
+    "file": "05_55.mp3",
+    "time": "05:55",
+    "number": "05:55",
+    "et": "viis minutit kuueni",
+    "ru": "без пяти шесть",
+    "en": "five to six"
+  },
+  {
+    "file": "06_00.mp3",
+    "time": "06:00",
+    "number": "06:00",
+    "et": "kell kuus",
+    "ru": "шесть часов",
+    "en": "six o'clock"
+  },
+  {
+    "file": "06_05.mp3",
+    "time": "06:05",
+    "number": "06:05",
+    "et": "viis minutit üle kuue",
+    "ru": "пять минут седьмого",
+    "en": "five past six"
+  },
+  {
+    "file": "06_10.mp3",
+    "time": "06:10",
+    "number": "06:10",
+    "et": "kümme minutit üle kuue",
+    "ru": "десять минут седьмого",
+    "en": "ten past six"
+  },
+  {
+    "file": "06_15.mp3",
+    "time": "06:15",
+    "number": "06:15",
+    "et": "veerand seitse",
+    "ru": "четверть седьмого",
+    "en": "quarter past six"
+  },
+  {
+    "file": "06_20.mp3",
+    "time": "06:20",
+    "number": "06:20",
+    "et": "kümme minutit enne pool seitse",
+    "ru": "двадцать минут седьмого",
+    "en": "twenty past six"
+  },
+  {
+    "file": "06_25.mp3",
+    "time": "06:25",
+    "number": "06:25",
+    "et": "viis minutit enne pool seitse",
+    "ru": "двадцать пять минут седьмого",
+    "en": "twenty-five past six"
+  },
+  {
+    "file": "06_30.mp3",
+    "time": "06:30",
+    "number": "06:30",
+    "et": "pool seitse",
+    "ru": "половина седьмого",
+    "en": "half past six"
+  },
+  {
+    "file": "06_35.mp3",
+    "time": "06:35",
+    "number": "06:35",
+    "et": "viis minutit pärast pool seitse",
+    "ru": "без двадцати пяти семь",
+    "en": "twenty-five to seven"
+  },
+  {
+    "file": "06_40.mp3",
+    "time": "06:40",
+    "number": "06:40",
+    "et": "kümme minutit pärast pool seitse",
+    "ru": "без двадцати семь",
+    "en": "twenty to seven"
+  },
+  {
+    "file": "06_45.mp3",
+    "time": "06:45",
+    "number": "06:45",
+    "et": "kolmveerand seitse",
+    "ru": "без четверти семь",
+    "en": "quarter to seven"
+  },
+  {
+    "file": "06_50.mp3",
+    "time": "06:50",
+    "number": "06:50",
+    "et": "kümme minutit seitsmeni",
+    "ru": "без десяти семь",
+    "en": "ten to seven"
+  },
+  {
+    "file": "06_55.mp3",
+    "time": "06:55",
+    "number": "06:55",
+    "et": "viis minutit seitsmeni",
+    "ru": "без пяти семь",
+    "en": "five to seven"
+  },
+  {
+    "file": "07_00.mp3",
+    "time": "07:00",
+    "number": "07:00",
+    "et": "kell seitse",
+    "ru": "семь часов",
+    "en": "seven o'clock"
+  },
+  {
+    "file": "07_05.mp3",
+    "time": "07:05",
+    "number": "07:05",
+    "et": "viis minutit üle seitsme",
+    "ru": "пять минут восьмого",
+    "en": "five past seven"
+  },
+  {
+    "file": "07_10.mp3",
+    "time": "07:10",
+    "number": "07:10",
+    "et": "kümme minutit üle seitsme",
+    "ru": "десять минут восьмого",
+    "en": "ten past seven"
+  },
+  {
+    "file": "07_15.mp3",
+    "time": "07:15",
+    "number": "07:15",
+    "et": "veerand kaheksa",
+    "ru": "четверть восьмого",
+    "en": "quarter past seven"
+  },
+  {
+    "file": "07_20.mp3",
+    "time": "07:20",
+    "number": "07:20",
+    "et": "kümme minutit enne pool kaheksa",
+    "ru": "двадцать минут восьмого",
+    "en": "twenty past seven"
+  },
+  {
+    "file": "07_25.mp3",
+    "time": "07:25",
+    "number": "07:25",
+    "et": "viis minutit enne pool kaheksa",
+    "ru": "двадцать пять минут восьмого",
+    "en": "twenty-five past seven"
+  },
+  {
+    "file": "07_30.mp3",
+    "time": "07:30",
+    "number": "07:30",
+    "et": "pool kaheksa",
+    "ru": "половина восьмого",
+    "en": "half past seven"
+  },
+  {
+    "file": "07_35.mp3",
+    "time": "07:35",
+    "number": "07:35",
+    "et": "viis minutit pärast pool kaheksa",
+    "ru": "без двадцати пяти восемь",
+    "en": "twenty-five to eight"
+  },
+  {
+    "file": "07_40.mp3",
+    "time": "07:40",
+    "number": "07:40",
+    "et": "kümme minutit pärast pool kaheksa",
+    "ru": "без двадцати восемь",
+    "en": "twenty to eight"
+  },
+  {
+    "file": "07_45.mp3",
+    "time": "07:45",
+    "number": "07:45",
+    "et": "kolmveerand kaheksa",
+    "ru": "без четверти восемь",
+    "en": "quarter to eight"
+  },
+  {
+    "file": "07_50.mp3",
+    "time": "07:50",
+    "number": "07:50",
+    "et": "kümme minutit kaheksani",
+    "ru": "без десяти восемь",
+    "en": "ten to eight"
+  },
+  {
+    "file": "07_55.mp3",
+    "time": "07:55",
+    "number": "07:55",
+    "et": "viis minutit kaheksani",
+    "ru": "без пяти восемь",
+    "en": "five to eight"
+  },
+  {
+    "file": "08_00.mp3",
+    "time": "08:00",
+    "number": "08:00",
+    "et": "kell kaheksa",
+    "ru": "восемь часов",
+    "en": "eight o'clock"
+  },
+  {
+    "file": "08_05.mp3",
+    "time": "08:05",
+    "number": "08:05",
+    "et": "viis minutit üle kaheksa",
+    "ru": "пять минут девятого",
+    "en": "five past eight"
+  },
+  {
+    "file": "08_10.mp3",
+    "time": "08:10",
+    "number": "08:10",
+    "et": "kümme minutit üle kaheksa",
+    "ru": "десять минут девятого",
+    "en": "ten past eight"
+  },
+  {
+    "file": "08_15.mp3",
+    "time": "08:15",
+    "number": "08:15",
+    "et": "veerand üheksa",
+    "ru": "четверть девятого",
+    "en": "quarter past eight"
+  },
+  {
+    "file": "08_20.mp3",
+    "time": "08:20",
+    "number": "08:20",
+    "et": "kümme minutit enne pool üheksa",
+    "ru": "двадцать минут девятого",
+    "en": "twenty past eight"
+  },
+  {
+    "file": "08_25.mp3",
+    "time": "08:25",
+    "number": "08:25",
+    "et": "viis minutit enne pool üheksa",
+    "ru": "двадцать пять минут девятого",
+    "en": "twenty-five past eight"
+  },
+  {
+    "file": "08_30.mp3",
+    "time": "08:30",
+    "number": "08:30",
+    "et": "pool üheksa",
+    "ru": "половина девятого",
+    "en": "half past eight"
+  },
+  {
+    "file": "08_35.mp3",
+    "time": "08:35",
+    "number": "08:35",
+    "et": "viis minutit pärast pool üheksa",
+    "ru": "без двадцати пяти девять",
+    "en": "twenty-five to nine"
+  },
+  {
+    "file": "08_40.mp3",
+    "time": "08:40",
+    "number": "08:40",
+    "et": "kümme minutit pärast pool üheksa",
+    "ru": "без двадцати девять",
+    "en": "twenty to nine"
+  },
+  {
+    "file": "08_45.mp3",
+    "time": "08:45",
+    "number": "08:45",
+    "et": "kolmveerand üheksa",
+    "ru": "без четверти девять",
+    "en": "quarter to nine"
+  },
+  {
+    "file": "08_50.mp3",
+    "time": "08:50",
+    "number": "08:50",
+    "et": "kümme minutit üheksani",
+    "ru": "без десяти девять",
+    "en": "ten to nine"
+  },
+  {
+    "file": "08_55.mp3",
+    "time": "08:55",
+    "number": "08:55",
+    "et": "viis minutit üheksani",
+    "ru": "без пяти девять",
+    "en": "five to nine"
+  },
+  {
+    "file": "09_00.mp3",
+    "time": "09:00",
+    "number": "09:00",
+    "et": "kell üheksa",
+    "ru": "девять часов",
+    "en": "nine o'clock"
+  },
+  {
+    "file": "09_05.mp3",
+    "time": "09:05",
+    "number": "09:05",
+    "et": "viis minutit üle üheksa",
+    "ru": "пять минут десятого",
+    "en": "five past nine"
+  },
+  {
+    "file": "09_10.mp3",
+    "time": "09:10",
+    "number": "09:10",
+    "et": "kümme minutit üle üheksa",
+    "ru": "десять минут десятого",
+    "en": "ten past nine"
+  },
+  {
+    "file": "09_15.mp3",
+    "time": "09:15",
+    "number": "09:15",
+    "et": "veerand kümme",
+    "ru": "четверть десятого",
+    "en": "quarter past nine"
+  },
+  {
+    "file": "09_20.mp3",
+    "time": "09:20",
+    "number": "09:20",
+    "et": "kümme minutit enne pool kümme",
+    "ru": "двадцать минут десятого",
+    "en": "twenty past nine"
+  },
+  {
+    "file": "09_25.mp3",
+    "time": "09:25",
+    "number": "09:25",
+    "et": "viis minutit enne pool kümme",
+    "ru": "двадцать пять минут десятого",
+    "en": "twenty-five past nine"
+  },
+  {
+    "file": "09_30.mp3",
+    "time": "09:30",
+    "number": "09:30",
+    "et": "pool kümme",
+    "ru": "половина десятого",
+    "en": "half past nine"
+  },
+  {
+    "file": "09_35.mp3",
+    "time": "09:35",
+    "number": "09:35",
+    "et": "viis minutit pärast pool kümme",
+    "ru": "без двадцати пяти десять",
+    "en": "twenty-five to ten"
+  },
+  {
+    "file": "09_40.mp3",
+    "time": "09:40",
+    "number": "09:40",
+    "et": "kümme minutit pärast pool kümme",
+    "ru": "без двадцати десять",
+    "en": "twenty to ten"
+  },
+  {
+    "file": "09_45.mp3",
+    "time": "09:45",
+    "number": "09:45",
+    "et": "kolmveerand kümme",
+    "ru": "без четверти десять",
+    "en": "quarter to ten"
+  },
+  {
+    "file": "09_50.mp3",
+    "time": "09:50",
+    "number": "09:50",
+    "et": "kümme minutit kümneni",
+    "ru": "без десяти десять",
+    "en": "ten to ten"
+  },
+  {
+    "file": "09_55.mp3",
+    "time": "09:55",
+    "number": "09:55",
+    "et": "viis minutit kümneni",
+    "ru": "без пяти десять",
+    "en": "five to ten"
+  },
+  {
+    "file": "10_00.mp3",
+    "time": "10:00",
+    "number": "10:00",
+    "et": "kell kümme",
+    "ru": "десять часов",
+    "en": "ten o'clock"
+  },
+  {
+    "file": "10_05.mp3",
+    "time": "10:05",
+    "number": "10:05",
+    "et": "viis minutit üle kümne",
+    "ru": "пять минут одиннадцатого",
+    "en": "five past ten"
+  },
+  {
+    "file": "10_10.mp3",
+    "time": "10:10",
+    "number": "10:10",
+    "et": "kümme minutit üle kümne",
+    "ru": "десять минут одиннадцатого",
+    "en": "ten past ten"
+  },
+  {
+    "file": "10_15.mp3",
+    "time": "10:15",
+    "number": "10:15",
+    "et": "veerand üksteist",
+    "ru": "четверть одиннадцатого",
+    "en": "quarter past ten"
+  },
+  {
+    "file": "10_20.mp3",
+    "time": "10:20",
+    "number": "10:20",
+    "et": "kümme minutit enne pool üksteist",
+    "ru": "двадцать минут одиннадцатого",
+    "en": "twenty past ten"
+  },
+  {
+    "file": "10_25.mp3",
+    "time": "10:25",
+    "number": "10:25",
+    "et": "viis minutit enne pool üksteist",
+    "ru": "двадцать пять минут одиннадцатого",
+    "en": "twenty-five past ten"
+  },
+  {
+    "file": "10_30.mp3",
+    "time": "10:30",
+    "number": "10:30",
+    "et": "pool üksteist",
+    "ru": "половина одиннадцатого",
+    "en": "half past ten"
+  },
+  {
+    "file": "10_35.mp3",
+    "time": "10:35",
+    "number": "10:35",
+    "et": "viis minutit pärast pool üksteist",
+    "ru": "без двадцати пяти одиннадцать",
+    "en": "twenty-five to eleven"
+  },
+  {
+    "file": "10_40.mp3",
+    "time": "10:40",
+    "number": "10:40",
+    "et": "kümme minutit pärast pool üksteist",
+    "ru": "без двадцати одиннадцать",
+    "en": "twenty to eleven"
+  },
+  {
+    "file": "10_45.mp3",
+    "time": "10:45",
+    "number": "10:45",
+    "et": "kolmveerand üksteist",
+    "ru": "без четверти одиннадцать",
+    "en": "quarter to eleven"
+  },
+  {
+    "file": "10_50.mp3",
+    "time": "10:50",
+    "number": "10:50",
+    "et": "kümme minutit üheteistkümneni",
+    "ru": "без десяти одиннадцать",
+    "en": "ten to eleven"
+  },
+  {
+    "file": "10_55.mp3",
+    "time": "10:55",
+    "number": "10:55",
+    "et": "viis minutit üheteistkümneni",
+    "ru": "без пяти одиннадцать",
+    "en": "five to eleven"
+  },
+  {
+    "file": "11_00.mp3",
+    "time": "11:00",
+    "number": "11:00",
+    "et": "kell üksteist",
+    "ru": "одиннадцать часов",
+    "en": "eleven o'clock"
+  },
+  {
+    "file": "11_05.mp3",
+    "time": "11:05",
+    "number": "11:05",
+    "et": "viis minutit üle üheteistkümne",
+    "ru": "пять минут двенадцатого",
+    "en": "five past eleven"
+  },
+  {
+    "file": "11_10.mp3",
+    "time": "11:10",
+    "number": "11:10",
+    "et": "kümme minutit üle üheteistkümne",
+    "ru": "десять минут двенадцатого",
+    "en": "ten past eleven"
+  },
+  {
+    "file": "11_15.mp3",
+    "time": "11:15",
+    "number": "11:15",
+    "et": "veerand kaksteist",
+    "ru": "четверть двенадцатого",
+    "en": "quarter past eleven"
+  },
+  {
+    "file": "11_20.mp3",
+    "time": "11:20",
+    "number": "11:20",
+    "et": "kümme minutit enne pool kaksteist",
+    "ru": "двадцать минут двенадцатого",
+    "en": "twenty past eleven"
+  },
+  {
+    "file": "11_25.mp3",
+    "time": "11:25",
+    "number": "11:25",
+    "et": "viis minutit enne pool kaksteist",
+    "ru": "двадцать пять минут двенадцатого",
+    "en": "twenty-five past eleven"
+  },
+  {
+    "file": "11_30.mp3",
+    "time": "11:30",
+    "number": "11:30",
+    "et": "pool kaksteist",
+    "ru": "половина двенадцатого",
+    "en": "half past eleven"
+  },
+  {
+    "file": "11_35.mp3",
+    "time": "11:35",
+    "number": "11:35",
+    "et": "viis minutit pärast pool kaksteist",
+    "ru": "без двадцати пяти двенадцать",
+    "en": "twenty-five to twelve"
+  },
+  {
+    "file": "11_40.mp3",
+    "time": "11:40",
+    "number": "11:40",
+    "et": "kümme minutit pärast pool kaksteist",
+    "ru": "без двадцати двенадцать",
+    "en": "twenty to twelve"
+  },
+  {
+    "file": "11_45.mp3",
+    "time": "11:45",
+    "number": "11:45",
+    "et": "kolmveerand kaksteist",
+    "ru": "без четверти двенадцать",
+    "en": "quarter to twelve"
+  },
+  {
+    "file": "11_50.mp3",
+    "time": "11:50",
+    "number": "11:50",
+    "et": "kümme minutit kaheteistkümneni",
+    "ru": "без десяти двенадцать",
+    "en": "ten to twelve"
+  },
+  {
+    "file": "11_55.mp3",
+    "time": "11:55",
+    "number": "11:55",
+    "et": "viis minutit kaheteistkümneni",
+    "ru": "без пяти двенадцать",
+    "en": "five to twelve"
+  },
+  {
+    "file": "12_00.mp3",
+    "time": "12:00",
+    "number": "12:00",
+    "et": "kell kaksteist",
+    "ru": "двенадцать часов",
+    "en": "twelve o'clock"
+  },
+  {
+    "file": "12_05.mp3",
+    "time": "12:05",
+    "number": "12:05",
+    "et": "viis minutit üle kaheteistkümne",
+    "ru": "пять минут первого",
+    "en": "five past twelve"
+  },
+  {
+    "file": "12_10.mp3",
+    "time": "12:10",
+    "number": "12:10",
+    "et": "kümme minutit üle kaheteistkümne",
+    "ru": "десять минут первого",
+    "en": "ten past twelve"
+  },
+  {
+    "file": "12_15.mp3",
+    "time": "12:15",
+    "number": "12:15",
+    "et": "veerand kolmteist",
+    "ru": "четверть первого",
+    "en": "quarter past twelve"
+  },
+  {
+    "file": "12_20.mp3",
+    "time": "12:20",
+    "number": "12:20",
+    "et": "kümme minutit enne pool kolmteist",
+    "ru": "двадцать минут первого",
+    "en": "twenty past twelve"
+  },
+  {
+    "file": "12_25.mp3",
+    "time": "12:25",
+    "number": "12:25",
+    "et": "viis minutit enne pool kolmteist",
+    "ru": "двадцать пять минут первого",
+    "en": "twenty-five past twelve"
+  },
+  {
+    "file": "12_30.mp3",
+    "time": "12:30",
+    "number": "12:30",
+    "et": "pool kolmteist",
+    "ru": "половина первого",
+    "en": "half past twelve"
+  },
+  {
+    "file": "12_35.mp3",
+    "time": "12:35",
+    "number": "12:35",
+    "et": "viis minutit pärast pool kolmteist",
+    "ru": "без двадцати пяти час",
+    "en": "twenty-five to one"
+  },
+  {
+    "file": "12_40.mp3",
+    "time": "12:40",
+    "number": "12:40",
+    "et": "kümme minutit pärast pool kolmteist",
+    "ru": "без двадцати час",
+    "en": "twenty to one"
+  },
+  {
+    "file": "12_45.mp3",
+    "time": "12:45",
+    "number": "12:45",
+    "et": "kolmveerand kolmteist",
+    "ru": "без четверти час",
+    "en": "quarter to one"
+  },
+  {
+    "file": "12_50.mp3",
+    "time": "12:50",
+    "number": "12:50",
+    "et": "kümme minutit kolmeteistkümneni",
+    "ru": "без десяти час",
+    "en": "ten to one"
+  },
+  {
+    "file": "12_55.mp3",
+    "time": "12:55",
+    "number": "12:55",
+    "et": "viis minutit kolmeteistkümneni",
+    "ru": "без пяти час",
+    "en": "five to one"
+  },
+  {
+    "file": "13_00.mp3",
+    "time": "13:00",
+    "number": "13:00",
+    "et": "kell kolmteist",
+    "ru": "час",
+    "en": "one o'clock"
+  },
+  {
+    "file": "13_05.mp3",
+    "time": "13:05",
+    "number": "13:05",
+    "et": "viis minutit üle kolmeteistkümne",
+    "ru": "пять минут второго",
+    "en": "five past one"
+  },
+  {
+    "file": "13_10.mp3",
+    "time": "13:10",
+    "number": "13:10",
+    "et": "kümme minutit üle kolmeteistkümne",
+    "ru": "десять минут второго",
+    "en": "ten past one"
+  },
+  {
+    "file": "13_15.mp3",
+    "time": "13:15",
+    "number": "13:15",
+    "et": "veerand neliteist",
+    "ru": "четверть второго",
+    "en": "quarter past one"
+  },
+  {
+    "file": "13_20.mp3",
+    "time": "13:20",
+    "number": "13:20",
+    "et": "kümme minutit enne pool neliteist",
+    "ru": "двадцать минут второго",
+    "en": "twenty past one"
+  },
+  {
+    "file": "13_25.mp3",
+    "time": "13:25",
+    "number": "13:25",
+    "et": "viis minutit enne pool neliteist",
+    "ru": "двадцать пять минут второго",
+    "en": "twenty-five past one"
+  },
+  {
+    "file": "13_30.mp3",
+    "time": "13:30",
+    "number": "13:30",
+    "et": "pool neliteist",
+    "ru": "половина второго",
+    "en": "half past one"
+  },
+  {
+    "file": "13_35.mp3",
+    "time": "13:35",
+    "number": "13:35",
+    "et": "viis minutit pärast pool neliteist",
+    "ru": "без двадцати пяти два",
+    "en": "twenty-five to two"
+  },
+  {
+    "file": "13_40.mp3",
+    "time": "13:40",
+    "number": "13:40",
+    "et": "kümme minutit pärast pool neliteist",
+    "ru": "без двадцати два",
+    "en": "twenty to two"
+  },
+  {
+    "file": "13_45.mp3",
+    "time": "13:45",
+    "number": "13:45",
+    "et": "kolmveerand neliteist",
+    "ru": "без четверти два",
+    "en": "quarter to two"
+  },
+  {
+    "file": "13_50.mp3",
+    "time": "13:50",
+    "number": "13:50",
+    "et": "kümme minutit neljateistkümneni",
+    "ru": "без десяти два",
+    "en": "ten to two"
+  },
+  {
+    "file": "13_55.mp3",
+    "time": "13:55",
+    "number": "13:55",
+    "et": "viis minutit neljateistkümneni",
+    "ru": "без пяти два",
+    "en": "five to two"
+  },
+  {
+    "file": "14_00.mp3",
+    "time": "14:00",
+    "number": "14:00",
+    "et": "kell neliteist",
+    "ru": "два часа",
+    "en": "two o'clock"
+  },
+  {
+    "file": "14_05.mp3",
+    "time": "14:05",
+    "number": "14:05",
+    "et": "viis minutit üle neljateistkümne",
+    "ru": "пять минут третьего",
+    "en": "five past two"
+  },
+  {
+    "file": "14_10.mp3",
+    "time": "14:10",
+    "number": "14:10",
+    "et": "kümme minutit üle neljateistkümne",
+    "ru": "десять минут третьего",
+    "en": "ten past two"
+  },
+  {
+    "file": "14_15.mp3",
+    "time": "14:15",
+    "number": "14:15",
+    "et": "veerand viisteist",
+    "ru": "четверть третьего",
+    "en": "quarter past two"
+  },
+  {
+    "file": "14_20.mp3",
+    "time": "14:20",
+    "number": "14:20",
+    "et": "kümme minutit enne pool viisteist",
+    "ru": "двадцать минут третьего",
+    "en": "twenty past two"
+  },
+  {
+    "file": "14_25.mp3",
+    "time": "14:25",
+    "number": "14:25",
+    "et": "viis minutit enne pool viisteist",
+    "ru": "двадцать пять минут третьего",
+    "en": "twenty-five past two"
+  },
+  {
+    "file": "14_30.mp3",
+    "time": "14:30",
+    "number": "14:30",
+    "et": "pool viisteist",
+    "ru": "половина третьего",
+    "en": "half past two"
+  },
+  {
+    "file": "14_35.mp3",
+    "time": "14:35",
+    "number": "14:35",
+    "et": "viis minutit pärast pool viisteist",
+    "ru": "без двадцати пяти три",
+    "en": "twenty-five to three"
+  },
+  {
+    "file": "14_40.mp3",
+    "time": "14:40",
+    "number": "14:40",
+    "et": "kümme minutit pärast pool viisteist",
+    "ru": "без двадцати три",
+    "en": "twenty to three"
+  },
+  {
+    "file": "14_45.mp3",
+    "time": "14:45",
+    "number": "14:45",
+    "et": "kolmveerand viisteist",
+    "ru": "без четверти три",
+    "en": "quarter to three"
+  },
+  {
+    "file": "14_50.mp3",
+    "time": "14:50",
+    "number": "14:50",
+    "et": "kümme minutit viieteistkümneni",
+    "ru": "без десяти три",
+    "en": "ten to three"
+  },
+  {
+    "file": "14_55.mp3",
+    "time": "14:55",
+    "number": "14:55",
+    "et": "viis minutit viieteistkümneni",
+    "ru": "без пяти три",
+    "en": "five to three"
+  },
+  {
+    "file": "15_00.mp3",
+    "time": "15:00",
+    "number": "15:00",
+    "et": "kell viisteist",
+    "ru": "три часа",
+    "en": "three o'clock"
+  },
+  {
+    "file": "15_05.mp3",
+    "time": "15:05",
+    "number": "15:05",
+    "et": "viis minutit üle viieteistkümne",
+    "ru": "пять минут четвёртого",
+    "en": "five past three"
+  },
+  {
+    "file": "15_10.mp3",
+    "time": "15:10",
+    "number": "15:10",
+    "et": "kümme minutit üle viieteistkümne",
+    "ru": "десять минут четвёртого",
+    "en": "ten past three"
+  },
+  {
+    "file": "15_15.mp3",
+    "time": "15:15",
+    "number": "15:15",
+    "et": "veerand kuusteist",
+    "ru": "четверть четвёртого",
+    "en": "quarter past three"
+  },
+  {
+    "file": "15_20.mp3",
+    "time": "15:20",
+    "number": "15:20",
+    "et": "kümme minutit enne pool kuusteist",
+    "ru": "двадцать минут четвёртого",
+    "en": "twenty past three"
+  },
+  {
+    "file": "15_25.mp3",
+    "time": "15:25",
+    "number": "15:25",
+    "et": "viis minutit enne pool kuusteist",
+    "ru": "двадцать пять минут четвёртого",
+    "en": "twenty-five past three"
+  },
+  {
+    "file": "15_30.mp3",
+    "time": "15:30",
+    "number": "15:30",
+    "et": "pool kuusteist",
+    "ru": "половина четвёртого",
+    "en": "half past three"
+  },
+  {
+    "file": "15_35.mp3",
+    "time": "15:35",
+    "number": "15:35",
+    "et": "viis minutit pärast pool kuusteist",
+    "ru": "без двадцати пяти четыре",
+    "en": "twenty-five to four"
+  },
+  {
+    "file": "15_40.mp3",
+    "time": "15:40",
+    "number": "15:40",
+    "et": "kümme minutit pärast pool kuusteist",
+    "ru": "без двадцати четыре",
+    "en": "twenty to four"
+  },
+  {
+    "file": "15_45.mp3",
+    "time": "15:45",
+    "number": "15:45",
+    "et": "kolmveerand kuusteist",
+    "ru": "без четверти четыре",
+    "en": "quarter to four"
+  },
+  {
+    "file": "15_50.mp3",
+    "time": "15:50",
+    "number": "15:50",
+    "et": "kümme minutit kuueteistkümneni",
+    "ru": "без десяти четыре",
+    "en": "ten to four"
+  },
+  {
+    "file": "15_55.mp3",
+    "time": "15:55",
+    "number": "15:55",
+    "et": "viis minutit kuueteistkümneni",
+    "ru": "без пяти четыре",
+    "en": "five to four"
+  },
+  {
+    "file": "16_00.mp3",
+    "time": "16:00",
+    "number": "16:00",
+    "et": "kell kuusteist",
+    "ru": "четыре часа",
+    "en": "four o'clock"
+  },
+  {
+    "file": "16_05.mp3",
+    "time": "16:05",
+    "number": "16:05",
+    "et": "viis minutit üle kuueteistkümne",
+    "ru": "пять минут пятого",
+    "en": "five past four"
+  },
+  {
+    "file": "16_10.mp3",
+    "time": "16:10",
+    "number": "16:10",
+    "et": "kümme minutit üle kuueteistkümne",
+    "ru": "десять минут пятого",
+    "en": "ten past four"
+  },
+  {
+    "file": "16_15.mp3",
+    "time": "16:15",
+    "number": "16:15",
+    "et": "veerand seitseteist",
+    "ru": "четверть пятого",
+    "en": "quarter past four"
+  },
+  {
+    "file": "16_20.mp3",
+    "time": "16:20",
+    "number": "16:20",
+    "et": "kümme minutit enne pool seitseteist",
+    "ru": "двадцать минут пятого",
+    "en": "twenty past four"
+  },
+  {
+    "file": "16_25.mp3",
+    "time": "16:25",
+    "number": "16:25",
+    "et": "viis minutit enne pool seitseteist",
+    "ru": "двадцать пять минут пятого",
+    "en": "twenty-five past four"
+  },
+  {
+    "file": "16_30.mp3",
+    "time": "16:30",
+    "number": "16:30",
+    "et": "pool seitseteist",
+    "ru": "половина пятого",
+    "en": "half past four"
+  },
+  {
+    "file": "16_35.mp3",
+    "time": "16:35",
+    "number": "16:35",
+    "et": "viis minutit pärast pool seitseteist",
+    "ru": "без двадцати пяти пять",
+    "en": "twenty-five to five"
+  },
+  {
+    "file": "16_40.mp3",
+    "time": "16:40",
+    "number": "16:40",
+    "et": "kümme minutit pärast pool seitseteist",
+    "ru": "без двадцати пять",
+    "en": "twenty to five"
+  },
+  {
+    "file": "16_45.mp3",
+    "time": "16:45",
+    "number": "16:45",
+    "et": "kolmveerand seitseteist",
+    "ru": "без четверти пять",
+    "en": "quarter to five"
+  },
+  {
+    "file": "16_50.mp3",
+    "time": "16:50",
+    "number": "16:50",
+    "et": "kümme minutit seitsmeteistkümneni",
+    "ru": "без десяти пять",
+    "en": "ten to five"
+  },
+  {
+    "file": "16_55.mp3",
+    "time": "16:55",
+    "number": "16:55",
+    "et": "viis minutit seitsmeteistkümneni",
+    "ru": "без пяти пять",
+    "en": "five to five"
+  },
+  {
+    "file": "17_00.mp3",
+    "time": "17:00",
+    "number": "17:00",
+    "et": "kell seitseteist",
+    "ru": "пять часов",
+    "en": "five o'clock"
+  },
+  {
+    "file": "17_05.mp3",
+    "time": "17:05",
+    "number": "17:05",
+    "et": "viis minutit üle seitsmeteistkümne",
+    "ru": "пять минут шестого",
+    "en": "five past five"
+  },
+  {
+    "file": "17_10.mp3",
+    "time": "17:10",
+    "number": "17:10",
+    "et": "kümme minutit üle seitsmeteistkümne",
+    "ru": "десять минут шестого",
+    "en": "ten past five"
+  },
+  {
+    "file": "17_15.mp3",
+    "time": "17:15",
+    "number": "17:15",
+    "et": "veerand kaheksateist",
+    "ru": "четверть шестого",
+    "en": "quarter past five"
+  },
+  {
+    "file": "17_20.mp3",
+    "time": "17:20",
+    "number": "17:20",
+    "et": "kümme minutit enne pool kaheksateist",
+    "ru": "двадцать минут шестого",
+    "en": "twenty past five"
+  },
+  {
+    "file": "17_25.mp3",
+    "time": "17:25",
+    "number": "17:25",
+    "et": "viis minutit enne pool kaheksateist",
+    "ru": "двадцать пять минут шестого",
+    "en": "twenty-five past five"
+  },
+  {
+    "file": "17_30.mp3",
+    "time": "17:30",
+    "number": "17:30",
+    "et": "pool kaheksateist",
+    "ru": "половина шестого",
+    "en": "half past five"
+  },
+  {
+    "file": "17_35.mp3",
+    "time": "17:35",
+    "number": "17:35",
+    "et": "viis minutit pärast pool kaheksateist",
+    "ru": "без двадцати пяти шесть",
+    "en": "twenty-five to six"
+  },
+  {
+    "file": "17_40.mp3",
+    "time": "17:40",
+    "number": "17:40",
+    "et": "kümme minutit pärast pool kaheksateist",
+    "ru": "без двадцати шесть",
+    "en": "twenty to six"
+  },
+  {
+    "file": "17_45.mp3",
+    "time": "17:45",
+    "number": "17:45",
+    "et": "kolmveerand kaheksateist",
+    "ru": "без четверти шесть",
+    "en": "quarter to six"
+  },
+  {
+    "file": "17_50.mp3",
+    "time": "17:50",
+    "number": "17:50",
+    "et": "kümme minutit kaheksateistkümneni",
+    "ru": "без десяти шесть",
+    "en": "ten to six"
+  },
+  {
+    "file": "17_55.mp3",
+    "time": "17:55",
+    "number": "17:55",
+    "et": "viis minutit kaheksateistkümneni",
+    "ru": "без пяти шесть",
+    "en": "five to six"
+  },
+  {
+    "file": "18_00.mp3",
+    "time": "18:00",
+    "number": "18:00",
+    "et": "kell kaheksateist",
+    "ru": "шесть часов",
+    "en": "six o'clock"
+  },
+  {
+    "file": "18_05.mp3",
+    "time": "18:05",
+    "number": "18:05",
+    "et": "viis minutit üle kaheksateistkümne",
+    "ru": "пять минут седьмого",
+    "en": "five past six"
+  },
+  {
+    "file": "18_10.mp3",
+    "time": "18:10",
+    "number": "18:10",
+    "et": "kümme minutit üle kaheksateistkümne",
+    "ru": "десять минут седьмого",
+    "en": "ten past six"
+  },
+  {
+    "file": "18_15.mp3",
+    "time": "18:15",
+    "number": "18:15",
+    "et": "veerand üheksateist",
+    "ru": "четверть седьмого",
+    "en": "quarter past six"
+  },
+  {
+    "file": "18_20.mp3",
+    "time": "18:20",
+    "number": "18:20",
+    "et": "kümme minutit enne pool üheksateist",
+    "ru": "двадцать минут седьмого",
+    "en": "twenty past six"
+  },
+  {
+    "file": "18_25.mp3",
+    "time": "18:25",
+    "number": "18:25",
+    "et": "viis minutit enne pool üheksateist",
+    "ru": "двадцать пять минут седьмого",
+    "en": "twenty-five past six"
+  },
+  {
+    "file": "18_30.mp3",
+    "time": "18:30",
+    "number": "18:30",
+    "et": "pool üheksateist",
+    "ru": "половина седьмого",
+    "en": "half past six"
+  },
+  {
+    "file": "18_35.mp3",
+    "time": "18:35",
+    "number": "18:35",
+    "et": "viis minutit pärast pool üheksateist",
+    "ru": "без двадцати пяти семь",
+    "en": "twenty-five to seven"
+  },
+  {
+    "file": "18_40.mp3",
+    "time": "18:40",
+    "number": "18:40",
+    "et": "kümme minutit pärast pool üheksateist",
+    "ru": "без двадцати семь",
+    "en": "twenty to seven"
+  },
+  {
+    "file": "18_45.mp3",
+    "time": "18:45",
+    "number": "18:45",
+    "et": "kolmveerand üheksateist",
+    "ru": "без четверти семь",
+    "en": "quarter to seven"
+  },
+  {
+    "file": "18_50.mp3",
+    "time": "18:50",
+    "number": "18:50",
+    "et": "kümme minutit üheksateistkümneni",
+    "ru": "без десяти семь",
+    "en": "ten to seven"
+  },
+  {
+    "file": "18_55.mp3",
+    "time": "18:55",
+    "number": "18:55",
+    "et": "viis minutit üheksateistkümneni",
+    "ru": "без пяти семь",
+    "en": "five to seven"
+  },
+  {
+    "file": "19_00.mp3",
+    "time": "19:00",
+    "number": "19:00",
+    "et": "kell üheksateist",
+    "ru": "семь часов",
+    "en": "seven o'clock"
+  },
+  {
+    "file": "19_05.mp3",
+    "time": "19:05",
+    "number": "19:05",
+    "et": "viis minutit üle üheksateistkümne",
+    "ru": "пять минут восьмого",
+    "en": "five past seven"
+  },
+  {
+    "file": "19_10.mp3",
+    "time": "19:10",
+    "number": "19:10",
+    "et": "kümme minutit üle üheksateistkümne",
+    "ru": "десять минут восьмого",
+    "en": "ten past seven"
+  },
+  {
+    "file": "19_15.mp3",
+    "time": "19:15",
+    "number": "19:15",
+    "et": "veerand kakskümmend",
+    "ru": "четверть восьмого",
+    "en": "quarter past seven"
+  },
+  {
+    "file": "19_20.mp3",
+    "time": "19:20",
+    "number": "19:20",
+    "et": "kümme minutit enne pool kakskümmend",
+    "ru": "двадцать минут восьмого",
+    "en": "twenty past seven"
+  },
+  {
+    "file": "19_25.mp3",
+    "time": "19:25",
+    "number": "19:25",
+    "et": "viis minutit enne pool kakskümmend",
+    "ru": "двадцать пять минут восьмого",
+    "en": "twenty-five past seven"
+  },
+  {
+    "file": "19_30.mp3",
+    "time": "19:30",
+    "number": "19:30",
+    "et": "pool kakskümmend",
+    "ru": "половина восьмого",
+    "en": "half past seven"
+  },
+  {
+    "file": "19_35.mp3",
+    "time": "19:35",
+    "number": "19:35",
+    "et": "viis minutit pärast pool kakskümmend",
+    "ru": "без двадцати пяти восемь",
+    "en": "twenty-five to eight"
+  },
+  {
+    "file": "19_40.mp3",
+    "time": "19:40",
+    "number": "19:40",
+    "et": "kümme minutit pärast pool kakskümmend",
+    "ru": "без двадцати восемь",
+    "en": "twenty to eight"
+  },
+  {
+    "file": "19_45.mp3",
+    "time": "19:45",
+    "number": "19:45",
+    "et": "kolmveerand kakskümmend",
+    "ru": "без четверти восемь",
+    "en": "quarter to eight"
+  },
+  {
+    "file": "19_50.mp3",
+    "time": "19:50",
+    "number": "19:50",
+    "et": "kümme minutit kahekümneni",
+    "ru": "без десяти восемь",
+    "en": "ten to eight"
+  },
+  {
+    "file": "19_55.mp3",
+    "time": "19:55",
+    "number": "19:55",
+    "et": "viis minutit kahekümneni",
+    "ru": "без пяти восемь",
+    "en": "five to eight"
+  },
+  {
+    "file": "20_00.mp3",
+    "time": "20:00",
+    "number": "20:00",
+    "et": "kell kakskümmend",
+    "ru": "восемь часов",
+    "en": "eight o'clock"
+  },
+  {
+    "file": "20_05.mp3",
+    "time": "20:05",
+    "number": "20:05",
+    "et": "viis minutit üle kahekümne",
+    "ru": "пять минут девятого",
+    "en": "five past eight"
+  },
+  {
+    "file": "20_10.mp3",
+    "time": "20:10",
+    "number": "20:10",
+    "et": "kümme minutit üle kahekümne",
+    "ru": "десять минут девятого",
+    "en": "ten past eight"
+  },
+  {
+    "file": "20_15.mp3",
+    "time": "20:15",
+    "number": "20:15",
+    "et": "veerand kakskümmend üks",
+    "ru": "четверть девятого",
+    "en": "quarter past eight"
+  },
+  {
+    "file": "20_20.mp3",
+    "time": "20:20",
+    "number": "20:20",
+    "et": "kümme minutit enne pool kakskümmend üks",
+    "ru": "двадцать минут девятого",
+    "en": "twenty past eight"
+  },
+  {
+    "file": "20_25.mp3",
+    "time": "20:25",
+    "number": "20:25",
+    "et": "viis minutit enne pool kakskümmend üks",
+    "ru": "двадцать пять минут девятого",
+    "en": "twenty-five past eight"
+  },
+  {
+    "file": "20_30.mp3",
+    "time": "20:30",
+    "number": "20:30",
+    "et": "pool kakskümmend üks",
+    "ru": "половина девятого",
+    "en": "half past eight"
+  },
+  {
+    "file": "20_35.mp3",
+    "time": "20:35",
+    "number": "20:35",
+    "et": "viis minutit pärast pool kakskümmend üks",
+    "ru": "без двадцати пяти девять",
+    "en": "twenty-five to nine"
+  },
+  {
+    "file": "20_40.mp3",
+    "time": "20:40",
+    "number": "20:40",
+    "et": "kümme minutit pärast pool kakskümmend üks",
+    "ru": "без двадцати девять",
+    "en": "twenty to nine"
+  },
+  {
+    "file": "20_45.mp3",
+    "time": "20:45",
+    "number": "20:45",
+    "et": "kolmveerand kakskümmend üks",
+    "ru": "без четверти девять",
+    "en": "quarter to nine"
+  },
+  {
+    "file": "20_50.mp3",
+    "time": "20:50",
+    "number": "20:50",
+    "et": "kümme minutit kahekümne üheni",
+    "ru": "без десяти девять",
+    "en": "ten to nine"
+  },
+  {
+    "file": "20_55.mp3",
+    "time": "20:55",
+    "number": "20:55",
+    "et": "viis minutit kahekümne üheni",
+    "ru": "без пяти девять",
+    "en": "five to nine"
+  },
+  {
+    "file": "21_00.mp3",
+    "time": "21:00",
+    "number": "21:00",
+    "et": "kell kakskümmend üks",
+    "ru": "девять часов",
+    "en": "nine o'clock"
+  },
+  {
+    "file": "21_05.mp3",
+    "time": "21:05",
+    "number": "21:05",
+    "et": "viis minutit üle kahekümne ühe",
+    "ru": "пять минут десятого",
+    "en": "five past nine"
+  },
+  {
+    "file": "21_10.mp3",
+    "time": "21:10",
+    "number": "21:10",
+    "et": "kümme minutit üle kahekümne ühe",
+    "ru": "десять минут десятого",
+    "en": "ten past nine"
+  },
+  {
+    "file": "21_15.mp3",
+    "time": "21:15",
+    "number": "21:15",
+    "et": "veerand kakskümmend kaks",
+    "ru": "четверть десятого",
+    "en": "quarter past nine"
+  },
+  {
+    "file": "21_20.mp3",
+    "time": "21:20",
+    "number": "21:20",
+    "et": "kümme minutit enne pool kakskümmend kaks",
+    "ru": "двадцать минут десятого",
+    "en": "twenty past nine"
+  },
+  {
+    "file": "21_25.mp3",
+    "time": "21:25",
+    "number": "21:25",
+    "et": "viis minutit enne pool kakskümmend kaks",
+    "ru": "двадцать пять минут десятого",
+    "en": "twenty-five past nine"
+  },
+  {
+    "file": "21_30.mp3",
+    "time": "21:30",
+    "number": "21:30",
+    "et": "pool kakskümmend kaks",
+    "ru": "половина десятого",
+    "en": "half past nine"
+  },
+  {
+    "file": "21_35.mp3",
+    "time": "21:35",
+    "number": "21:35",
+    "et": "viis minutit pärast pool kakskümmend kaks",
+    "ru": "без двадцати пяти десять",
+    "en": "twenty-five to ten"
+  },
+  {
+    "file": "21_40.mp3",
+    "time": "21:40",
+    "number": "21:40",
+    "et": "kümme minutit pärast pool kakskümmend kaks",
+    "ru": "без двадцати десять",
+    "en": "twenty to ten"
+  },
+  {
+    "file": "21_45.mp3",
+    "time": "21:45",
+    "number": "21:45",
+    "et": "kolmveerand kakskümmend kaks",
+    "ru": "без четверти десять",
+    "en": "quarter to ten"
+  },
+  {
+    "file": "21_50.mp3",
+    "time": "21:50",
+    "number": "21:50",
+    "et": "kümme minutit kahekümne kaheni",
+    "ru": "без десяти десять",
+    "en": "ten to ten"
+  },
+  {
+    "file": "21_55.mp3",
+    "time": "21:55",
+    "number": "21:55",
+    "et": "viis minutit kahekümne kaheni",
+    "ru": "без пяти десять",
+    "en": "five to ten"
+  },
+  {
+    "file": "22_00.mp3",
+    "time": "22:00",
+    "number": "22:00",
+    "et": "kell kakskümmend kaks",
+    "ru": "десять часов",
+    "en": "ten o'clock"
+  },
+  {
+    "file": "22_05.mp3",
+    "time": "22:05",
+    "number": "22:05",
+    "et": "viis minutit üle kahekümne kahe",
+    "ru": "пять минут одиннадцатого",
+    "en": "five past ten"
+  },
+  {
+    "file": "22_10.mp3",
+    "time": "22:10",
+    "number": "22:10",
+    "et": "kümme minutit üle kahekümne kahe",
+    "ru": "десять минут одиннадцатого",
+    "en": "ten past ten"
+  },
+  {
+    "file": "22_15.mp3",
+    "time": "22:15",
+    "number": "22:15",
+    "et": "veerand kakskümmend kolm",
+    "ru": "четверть одиннадцатого",
+    "en": "quarter past ten"
+  },
+  {
+    "file": "22_20.mp3",
+    "time": "22:20",
+    "number": "22:20",
+    "et": "kümme minutit enne pool kakskümmend kolm",
+    "ru": "двадцать минут одиннадцатого",
+    "en": "twenty past ten"
+  },
+  {
+    "file": "22_25.mp3",
+    "time": "22:25",
+    "number": "22:25",
+    "et": "viis minutit enne pool kakskümmend kolm",
+    "ru": "двадцать пять минут одиннадцатого",
+    "en": "twenty-five past ten"
+  },
+  {
+    "file": "22_30.mp3",
+    "time": "22:30",
+    "number": "22:30",
+    "et": "pool kakskümmend kolm",
+    "ru": "половина одиннадцатого",
+    "en": "half past ten"
+  },
+  {
+    "file": "22_35.mp3",
+    "time": "22:35",
+    "number": "22:35",
+    "et": "viis minutit pärast pool kakskümmend kolm",
+    "ru": "без двадцати пяти одиннадцать",
+    "en": "twenty-five to eleven"
+  },
+  {
+    "file": "22_40.mp3",
+    "time": "22:40",
+    "number": "22:40",
+    "et": "kümme minutit pärast pool kakskümmend kolm",
+    "ru": "без двадцати одиннадцать",
+    "en": "twenty to eleven"
+  },
+  {
+    "file": "22_45.mp3",
+    "time": "22:45",
+    "number": "22:45",
+    "et": "kolmveerand kakskümmend kolm",
+    "ru": "без четверти одиннадцать",
+    "en": "quarter to eleven"
+  },
+  {
+    "file": "22_50.mp3",
+    "time": "22:50",
+    "number": "22:50",
+    "et": "kümme minutit kahekümne kolmeni",
+    "ru": "без десяти одиннадцать",
+    "en": "ten to eleven"
+  },
+  {
+    "file": "22_55.mp3",
+    "time": "22:55",
+    "number": "22:55",
+    "et": "viis minutit kahekümne kolmeni",
+    "ru": "без пяти одиннадцать",
+    "en": "five to eleven"
+  },
+  {
+    "file": "23_00.mp3",
+    "time": "23:00",
+    "number": "23:00",
+    "et": "kell kakskümmend kolm",
+    "ru": "одиннадцать часов",
+    "en": "eleven o'clock"
+  },
+  {
+    "file": "23_05.mp3",
+    "time": "23:05",
+    "number": "23:05",
+    "et": "viis minutit üle kahekümne kolme",
+    "ru": "пять минут двенадцатого",
+    "en": "five past eleven"
+  },
+  {
+    "file": "23_10.mp3",
+    "time": "23:10",
+    "number": "23:10",
+    "et": "kümme minutit üle kahekümne kolme",
+    "ru": "десять минут двенадцатого",
+    "en": "ten past eleven"
+  },
+  {
+    "file": "23_15.mp3",
+    "time": "23:15",
+    "number": "23:15",
+    "et": "veerand null",
+    "ru": "четверть двенадцатого",
+    "en": "quarter past eleven"
+  },
+  {
+    "file": "23_20.mp3",
+    "time": "23:20",
+    "number": "23:20",
+    "et": "kümme minutit enne pool null",
+    "ru": "двадцать минут двенадцатого",
+    "en": "twenty past eleven"
+  },
+  {
+    "file": "23_25.mp3",
+    "time": "23:25",
+    "number": "23:25",
+    "et": "viis minutit enne pool null",
+    "ru": "двадцать пять минут двенадцатого",
+    "en": "twenty-five past eleven"
+  },
+  {
+    "file": "23_30.mp3",
+    "time": "23:30",
+    "number": "23:30",
+    "et": "pool null",
+    "ru": "половина двенадцатого",
+    "en": "half past eleven"
+  },
+  {
+    "file": "23_35.mp3",
+    "time": "23:35",
+    "number": "23:35",
+    "et": "viis minutit pärast pool null",
+    "ru": "без двадцати пяти двенадцать",
+    "en": "twenty-five to twelve"
+  },
+  {
+    "file": "23_40.mp3",
+    "time": "23:40",
+    "number": "23:40",
+    "et": "kümme minutit pärast pool null",
+    "ru": "без двадцати двенадцать",
+    "en": "twenty to twelve"
+  },
+  {
+    "file": "23_45.mp3",
+    "time": "23:45",
+    "number": "23:45",
+    "et": "kolmveerand null",
+    "ru": "без четверти двенадцать",
+    "en": "quarter to twelve"
+  },
+  {
+    "file": "23_50.mp3",
+    "time": "23:50",
+    "number": "23:50",
+    "et": "kümme minutit nullini",
+    "ru": "без десяти двенадцать",
+    "en": "ten to twelve"
+  },
+  {
+    "file": "23_55.mp3",
+    "time": "23:55",
+    "number": "23:55",
+    "et": "viis minutit nullini",
+    "ru": "без пяти двенадцать",
+    "en": "five to twelve"
+  }
+]
